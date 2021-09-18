@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+たばこを禁止するのは必要ですか。<cp/>
+　　<better comment="">今の</better>世界<correct value="で" comment="">に</correct>は，たばこは一番重要な問題に<better value="なっている" comment="">なる</better>ようです。大部分の国にはこの問題があります。最近日本にこの問題についての激しい討論があります。ある人はたばこを禁止する<correct value="べき" comment="">はず</correct>だと思っています。ところがある人はだれ<correct value="で" comment=""/>もたばこを吸う権利があるはずだと言います。<better comment="">そして，どのほうがもっともいいですか。</better>私は<better value="前者" comment="">一番目</better>の<better value="意見に賛成です" comment="">意見を支持しています</better>。<cp/>
+　　まず，たばこは体に悪い物<better comment="">なん</better>です。たばこの中にたくさんの有毒な成分があります。<better value="これ" comment="">この物</better>は人の<unclear comment="肺ガン">肺のキャン</unclear><correct value="の" comment="">を</correct><better comment="">引起</better>原因の中で一番重要です。<better value="特に" comment="">特別</better>子どもに<correct value="と" comment="">よ</correct>ってこれは<better value="非常に" comment="">もっと</better><unclear comment="影響があります">すごいです</unclear>。子どもの体は生長していてとても弱<correct value="い" comment=""/>です。それでたばこは彼たちの肺に悪い影響を<unclear comment="与えて">酷くして</unclear>います。<correct value="大部分の" comment="1"/>子どもは<correct comment="1">大部分<correct value="の" comment=""/></correct>強い好奇心をもっているので<better value="、" comment="">，</better>彼たちは外の人やテレビ<better comment="">で放送など</better>の影響を受けやすいです。子どもはおとなの影響を受け<correct comment="">し</correct>てたばこを吸う可能性はとても大きいです。<unclear comment="子どもたちが正しい道がわかった時には">子だちは道理をわかっていた時</unclear>手おくれに<unclear comment="なってしまう">なったほうです</unclear>。そこで，たばこを禁止することはとても必要<correct comment="">なよう</correct>です。<cp/>
+　　そのうえ，たばこを吸う時に，たくさんの有毒の煙が出てきます。それはたいへんです<correct comment="">ね</correct>。その気体は環境<correct value="を" comment="">に</correct>汚染しています。ある日，私たちの空は<unclear comment="青くなくなり">青くなくになって</unclear>，吸っている空気は不潔で木はなく<correct comment="">に</correct>なります。それは<unclear comment="おそろしい|こわい|かなしい">怖しい</unclear><correct comment="">ね</correct>。だれ<correct value="が" comment="">か</correct>そんな地球で生活をしていて欲しいのですか。<cp/>
+　　だから，たばこを吸うことを禁止したほうがいいです。だれも公共の場所でたばこを吸えなくなけれはならないはずです。公共の場所はみんなの<correct value="もの" comment=""/>で一人の<correct value="もの" comment=""/><better value="では" comment="">じゃ</better>ない。もし<better comment="">ある人は</better>たばこを吸い<better value="なれば|なったら" comment="ママ">たくて</better>，<better comment="">彼は</better><unclear comment="喫煙所">専門の地方</unclear>へ行く<correct value="べき" comment="">はず</correct>です。そしてテレビは公共の<unclear comment="せんでん[宣伝]">さいでん</unclear><better comment="">なん</better>だから、たばこについての放送を禁止する<correct value="べき" comment="">はず</correct>です。<cp/>
+　　中国もたばこについての問題があります。今はよく解決していません。早く解決したほうがいい。たばこを吸っている人に「吸わない<correct value="で" comment=""/>」<correct value="と" comment=""/>お願いします。<cp/>
+
+	</essay>
+<review comment="文体「です、ます」「だ、である」をそろえること"/>
+<review comment="べき／はず　の使い方、注意"/>
+<review comment="たばこを吸うことを禁止する理由は何？　ｅｘ.子供への影響？公共の場？環境問題？"/>
+</composition>

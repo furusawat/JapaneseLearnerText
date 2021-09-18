@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　最近日本では、日本語の文章を書く時にコンピュータのワープロソフトを使うことが多くなったと<better value="い" comment="">言</better>う作文課題2について述べたいと思う。<newparagraph/><unclear comment="">一般文字</unclear>の問題、あるいはコンピュータに対する本の<unclear comment="">残存物</unclear>についての議論と<unclear comment="何が？">同じ議論</unclear>だと思う。技術の進歩や伝達網を止めること<better value="は" comment="">が</better>できなく、手で書かれた<unclear comment="">文字の放棄</unclear>は考えられない<correct comment="">ようなことだ。</correct><cp/> 
+　最初に日本語<correct value="の" comment="">について</correct>手書きの文字は、漢字が筆の線から生れる<correct value="ので" comment="">だけ</correct><correct comment="">ますます</correct><unclear comment="何が？">重大なこと</unclear>だ。書道は日本文化の<correct comment="">ある</correct>基本的な芸術ではないだろうか。　日本<correct value="では" comment="">において</correct>、手書きの文字の放棄は<unclear comment="している？">日本が極度に推進される書道</unclear>の死を意味する　<better comment="">だろう</better>と思う。日本の心は文字の線の<correct value="細い部分" comment="">細く</correct>と太い部分で表わ<correct value="される" comment="">れる</correct>。<unclear comment="">線は言葉の意味の伝達手段で</unclear>、言葉を<correct value="書いて" comment="">書くと</correct>読者に作家が表現しよう<correct value="とする" comment=""/>意味を<correct value="伝える" comment="">交付する</correct>。 <cp/>
+　文字は言葉の媒体だ。<unclear comment="">手で書かれたこと</unclear>は日本語の知識を得る<correct value="のに" comment="">ことにとって</correct>不可欠だ。それはすべての言葉に関係がある。紙に手で字を書く<correct comment="">ことに存する</correct>練習<correct value="は" comment="">を</correct>コンピュータのキー<correct value="で" comment="">の</correct>代りにすることができない。<unclear comment="">それは無知な社会を作ることに身をさらし、人間は熟考の上でコンピュータの言いなりになる</unclear>。<correct value="そのため" comment="">それでは</correct>、<unclear comment="">情報理論網</unclear>は<unclear comment="">伝達手段</unclear>や知識の取得という間接的な方法で人間の存在を支配下に置く。<unclear comment="文字？">ある芸術</unclear>をマスターするために一番簡単<correct value="で" comment="">な</correct><correct value="一番有効な" comment="1"/>手段<correct value="は" comment="">と</correct>練習<correct value="だ。" comment="">はしばしば</correct><correct comment="1">一番有効<correct value="な" comment="">だ</correct></correct>。 <cp/>
+　もし昨日と今日の進歩がなかったなら、明日の進歩がないだろう。<unclear comment="">展開される知識の連鎖だ</unclear>。<unclear comment="">鎖の新しい一環は発生するが、それでもその前の環はなくならなかった。</unclear><unclear comment="なぜ？">人間関係が複雑になっている社会でコンピュータと万年筆は欠かせない道具だ。</unclear>新しい<correct comment="">各</correct>進歩は<unclear comment="">知識機構</unclear>に置く石のようだと思う。技術進歩は<unclear comment="">人間進歩の仲介物だけだ</unclear>。<unclear comment="">知識が自由</unclear>なので技術の支配は自分の生活<correct value="を" comment="">の</correct>支配する<unclear comment="">効果</unclear>がある。 <cp/>
+
+	</essay>
+<review comment="自分の言いたいことをまず整理してから書き始めよう"/>
+<review comment="はじめは言いたいことを自分のわかる範囲の言葉、文型で書くこと"/>
+<review comment="語イレベル、文型レベル（使う場面）を考えてから（習ってから？）使おう"/>
+<review comment="書道（芸術）、文字、情報社会のつながりがわかりません。"/>
+</composition>

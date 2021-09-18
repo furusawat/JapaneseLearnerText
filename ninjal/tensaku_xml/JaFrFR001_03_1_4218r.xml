@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。<better value="なぜかというと" comment="意見→理由　を言うとき理由の文は「なぜかというと～からです」の形を使って下さい。読む人がわかりやすくなります。"/>会社で<better comment="">み<correct comment="">ん</correct>なさん</better>はワープロソフトで書<correct value="いた" comment="">く</correct>しょるいを利用するからです。だから、学校で学生は使い方を習うべきだと思います。 <cp/>
+　それでも、手で<correct value="の" comment=""/>漢字<correct value="の" comment="">を</correct>書き方も大事です。いつもワープロソフトを使えば、その<correct value="書き" comment=""/>方をわすれて<correct value="しまい" comment="">なり</correct>ますから、小学校と中学校<correct value="の" comment=""/>とき学生は手で<correct value="の" comment=""/>書き方だけ習うべきです。その後で、<correct value="高校でワープロソフトの使い方を習ったら" comment="この文がないと、読む人は「いつワープロソフトの使い方を習うのか」わからないから、かいて下さい。"/>高校<better comment="">の学</better>生は手<correct value="で" comment="２ページ目見て下さい"/>でもワープロソフト<correct value="で" comment=""/>でも漢字を書くこと<correct value="ができる" comment="">を知っている</correct>はずです。 <cp/>
+　でも、ある人は書かなければ習<correct value="った" comment="">う</correct>漢字の書き方をわすれると言っています。<correct value="それは" comment=""/>ほんとうですが、ワープロソフトを使ったら<correct value="忘れても" comment=""/>だいじょうぶ<correct value="だし、" comment="">で</correct>、使わなかったらじしょをえら<correct value="べばいいです" comment="">びます</correct>。<correct value="だから、ワープロソフトの使い方を知ることは大事だと思います。" comment="②"/><cp/>
+
+	</essay>
+<review comment="魚を食べる＋肉を食べる→魚（を⇒×）でも肉（を⇒×）でも食べる　|　手で書く＋ワープロで書く→手ででもワープロででも書く"/>
+<review comment="②自分の意見を言う時　Ａ意見→Ｂ例→Ｃだから意見　の順で言う|書くと、読む人、聞く人がわかりやすくなります。Ｎｏ．１さんの文ではＣの「だから意見」がありませんでした。忘れないで書いてくださいね！"/>
+<review comment="いろいろ例を書いていて、わかりやすかったです。意見を分かりやすくいうスタイルを覚えてくださいね（②）"/>
+</composition>

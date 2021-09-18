@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　たばこはだれでも吸<rep value="っ">い</rep>た人が健康<rep value="を">に</rep><rep value="そこなって">悪くなって</rep>います。<del>ガンや</del>肺癌などの原因はたばこ<rep value="です">だ</rep>。<del>たばこから病気になった人が</del>たばこを<rep value="吸った人だけ">吸いて</rep>ではなく吸<rep value="っ">い</rep>ていない人も病気<rep value="になります。">できる。</rep><rep value="だから">そこで</rep>たばこ<rep value="は">が</rep>とてもよくない<put value="です"/>。マレイシアで<put value="は"/><moveto id="1"/>たばこのこと<rep value="を">が</rep><movefrom id="1">政府<rep value="は">を</rep></movefrom>しっかりおもんじ<rep value="ます">る</rep><note value="行の頭に句点があるので、前の段落の最後に書くように矢印で指示がある">。</note><cp/>
+　当然たばこ<del>のこと</del><rep value="は">が</rep>体に悪い結果を<rep value="与えます">もらいました</rep>。さらに、お金<rep value="が">を</rep>かかるのでただぜいたく<del>ん</del><rep value="です">だ</rep>。例えばある人が一ヶ月に給料がＲＭ６００、日本のお金<rep value="で">を</rep>だいたい￥２０，０００ぐらい<put value="だとします。"/>。もし一日<del>で</del>たばこを<moveto id="2"/><rep value="吸うと、">吸いて</rep><movefrom id="2"><rep value="一箱(ひとはこ)？">一だい</rep></movefrom>、一ヶ月にだいたい<movefrom id="3">半分</movefrom><del>の</del>給料<put value="の"/><moveto id="3"/><rep value="が">を</rep>かかります。<cp/>
+　一方、<del>他人も</del>たばこをやめられない人もいるので、<put value="そのような人は"/>医者に見<del>え</del>て<put value="もらって"/>、くすりを飲ん<rep value="だ">で</rep><del>たのむ</del>方がいいです。最後は世界の人口のためにたばこ<rep value="は">を</rep>減小するはず<rep value="です">だ</rep>。もし、たくさん人<rep value="が">を</rep>しんでしまった<put value="ら"/>どうな<rep value="ります">っていました</rep>か。<cp/>
+<review>・たばこの悪い点についてくわしく書けています。</review><cp/>
+<review>・初めに導入(どうにゅう)の段落(だんらく)があったほうがいいです。</review>
+</comp>

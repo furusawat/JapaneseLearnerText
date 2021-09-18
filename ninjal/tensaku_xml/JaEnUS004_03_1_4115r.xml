@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　　<correct value="今日[こんにち]" comment="">きょう</correct>、日本<correct value="では" comment="">に</correct>コンピュータのワープロソフトはありふれたものにな<correct value="っている。" comment="">る</correct>。インターネット<better value="や" comment="">、</better>電子メール、<better value="携帯" comment="">けいたい</better>電話など<correct value="の" comment=""/><better value="技術" comment="">ぎじゅつ</better>で情報は早く伝<correct value="わるようになった。" comment="">える</correct>。しかし、この<better value="技術" comment="">ぎじゅつ</better>は新しい<correct value="問" comment="">間</correct>題をひき起こし<correct value="ている。" comment="">た</correct>。ワープロソフトは、一方では便*利だ<correct value="し" comment="">り</correct>、使*いやすい<correct comment="">である</correct>が<correct value="、" comment=""/>他方では漢字<correct value="の" comment="">を</correct>書き方<correct value="を" comment="">が</correct>忘<correct comment="忘[わす]れる">ら</correct>れやすい<better value="。だから" comment=""><correct comment="">だ</correct>から、</better>日本語の<better value="教師" comment="">教し</better><correct value="にとって" comment="">は</correct>日本語学習にワープロソフトを使わせるか<correct value="ど" comment="">と</correct>うか<correct value="は難しい" comment="">分らない</correct><correct value="問" comment="">間</correct>題である。 <cp/>
+　私<correct value="の" comment="">にとって</correct>先生は、<better comment="">私に</better>ワープロソフトを使わせなかった<better value="ので" comment="">から</better><better value="使った経験はあまりないが、" comment="">たくさん経験がないが</better>使ったときに便利<correct value="だ" comment=""/>と思った。<better comment=""><better value="辞書" comment="">じしょ</better>で漢字の書き方を<correct value="調べないで" comment="">あおぎ見ないで</correct>ワープロソフトで作文を書いた。</better>しかし、<better value="普段[ふだん]" comment="">ふつうの場合</better>は手で日本語の作文と漢字を書いており、<better value="その時" comment=""/>漢字の意味、読み方、書き方も覚え<correct value="られる" comment="">て手伝いた</correct>と思う。<correct comment="">それ</correct>だから、日本語学習の教育のために<better value="教師" comment="">教し</better>は<correct value="学生に" comment="">生と</correct>ワープロソフトと<better value="手書[てが]き" comment="">手で書くこと</better>と<correct value="両方、" comment="">ともに</correct><correct value="教えれ" comment="ママ">作文を書けば</correct>いいと思う。<correct comment="">それのは</correct>めいめいに<better value="長所" comment=""><correct value="利" comment="">び</correct>点</better>と<better value="短所" comment="">弱点</better>があるか<correct value="らだ。" comment="">はい合のほうがいいと思う。</correct><cp/>
+
+	</essay>
+<review comment="い形容詞とな形容詞の接続に注意しましょう。
+「し」；い形容詞　やさしいし　な形容詞　便利だし  
+「と思う」；い形容詞　やさしいと思う　な形容詞　便利だと思う  
+「である」；い形容詞　やさしい　な形容詞　便利である 
+　やさしいのである＝やさしいんです。"/>
+<review comment="助詞の間違いも注意しましょう。「に」と「で」、「を」と「が」　どう違いますか？"/>
+</composition>

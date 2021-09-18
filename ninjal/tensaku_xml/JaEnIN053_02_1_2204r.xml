@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+<sperr value="0"/>十年＊<del>間</del>前にタバコを吸<rep value="う">いの</rep><better value="こと">くせ</better>は<better value="洗練">せんれん</better>されている<rep value="と">活動を</rep>考えられていました<remark value="句点は一マス分使います">。</remark><remark value="「このくせは、まるでいいことであるかのように宣伝されました」とするのはどうでしょうか？">このくせは<better value="宣伝">せんでん</better><rep value="で">から</rep>いい<rep value="こと">物</rep>のようにふきょうされました。</remark>ほとんど<del>う</del>の人<del>々</del>は彼ら<better value="">のモデル</better>を見るとこのくせを取り上<rep value="げ">がり</rep>ました<remark value="一マス">。</remark><better value="映画">えいが</better>の主人公もタバコを吸<rep value="っ">い</rep>て<remark value="読点は一マス">、</remark><doubt value="？">何*をほしいをもらいから</doubt>大勢の人々が<put value="タバコを"/>吸い<del>を</del>始<rep value="め">まり</rep>ました。<cp/>
+
+<sperr value="0"/>しかし<put value="、"/>今<rep value="多く">ますます</rep>の人<del>々</del>がタバコの有<better value="害">がい</better>な<rep value="影響">結果＊</rep>を知<rep value="ってい">られ</rep>ます。<rep value="喫煙">きつえ</rep>者は自身を<rep value="害する">がいの</rep>他に<better value="消極">しょうきょく</better>的な<rep value="喫煙">きつえ</rep>者<better value="にも害を与えます。">もきずつけます</better><note value="丸で囲んである">。</note>人々<rep value="がい">にあ</rep>る所<rep value="で">に</rep>も<better value="喫煙">きつえん</better>者はタバコを吸<rep value="っ">い</rep>ています<remark value="一マス">。</remark>子供たちも<better value="宣伝">せんでん</better>や<better value="大人">年＊上</better>の吸<rep value="っ">い</rep>ているの<del>人々</del>を見てたばこを吸い始<rep value="め">まり</rep>ます。私の<moveto id="1"/><put value="の"/>一<rep value="人">つの</rep><movefrom id="1"><better value="友達">ともだち</better></movefrom>は<rep value="学生">学校</rep><better value="の頃">時代</better>に先生<rep value="が">を</rep><put value="たばこで"/>けむりの<better value="輪">わ</better>を作＊<rep value="っているのを">り</rep>見<del>え</del>ました<note value="丸で囲んである">。</note><put value="それと同じこと"/><del>その物</del>をしたいから彼はタバコを吸い始<rep value="め">まり</rep>ました。今彼はこのくせを止めることができません。<cp/>
+
+<sperr value="0"/>人々<rep value="のいる">にある</rep>所<rep value="で">に</rep>はタバコを吸<rep value="うこと">い</rep>を<better value="禁じ">きんじ</better><del>られ</del>るために<put value="、"/>法律<put value="制定"/>が<better value="実行">じっこう</better>に<rep value="うつされる">うつす</rep>べきです<note value="丸で囲んである">。</note><rep value="これによって">この事をすると</rep><rep value="非">不</rep><better value="喫煙">きつえん</better>者はきれいな空気<rep value="をすうことが">がいきを</rep>できます<note value="丸で囲んである">。</note><newp/>世界は<doubt value="？美しさ、きれいな空気">きれいな</doubt>と<better value="元">げん</better>気のために<doubt value="？「どこ」ですか？">良い所にかえりました</doubt><note value="丸で囲んである">。</note><doubt value="？">ぜひにこれはじつです。</doubt><cp/>
+
+
+<review>新しい段落の最初の文は、文頭の一マスをあけます。</review>
+
+</comp>

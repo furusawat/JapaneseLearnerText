@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。会社で<correct value="多くの人" comment="">みんなさん</correct>はワープロソフトで<correct value="書いた" comment="">書く</correct>しょるいを利用するからです。だから、学校で学生は使い方を習うべきだと思います。 <cp/>
+　それでも、手で漢字を<correct value="書くこと" comment="「手”で”」のあとには動詞（どうし）が必要（ひつよう）です">書き方</correct>も大事です。いつもワープロソフトを<correct value="使っていれば" comment="">使えば</correct>、その<correct value="書き" comment=""/>方をわすれて<correct value="しまいます" comment="">なります</correct>から、<better value="小学生" comment="">小学校</better>と<better value="中学生" comment="">中学校</better><correct value="の" comment=""/>とき<correct value="は" comment=""/><better comment="">学生は</better>手で<correct value="書く方法" comment="「手”で”」のあとには動詞（どうし）が必要（ひつよう）です">書き方</correct>だけ<correct value="を" comment=""/>習うべきです。その後で、<correct value="高校に入ってからワープロソフトの使い方を習えば" comment=""/><better value="高校生" comment="">高校の学生</better>は手でもワープロソフトでも漢字を<correct value="書けるようになっている|書くことができるようになっている" comment="">書くことを知っている</correct>はずです。 <cp/>
+　でも、ある人は書かなければ<correct value="習った" comment="">習う</correct>漢字の書き方をわすれると言っています。<correct value="それは" comment=""/>ほんとうですが、<better value="たとえ忘れても" comment=""/>ワープロソフトを使ったらだいじょうぶ<correct value="だし" comment="">で</correct>、<correct value="もしワープロソフトを" comment=""/><correct value="使わなくても" comment="">使わなかったら</correct><unclear comment="じしょで漢字をしらべることもできます。">じしょをえらびます</unclear>。<cp/>
+
+
+＊採点者が線種ではなく、（　）記述か否かによって、訂正と提案を分けているので、それに従って入力した。以下フォルダー内のファイル全て同様。
+
+	</essay><review comment="意見の言い方（～と思います、～べきです　など）がうまく使えています。"/><review comment="最後に「だから、～」と、もう一度自分の言いたいことを書いた方が、読む人に、意見がわかりやすくなります。"/>
+</composition>

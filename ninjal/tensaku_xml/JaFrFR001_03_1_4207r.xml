@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。会社でみんな<correct comment="">さん</correct><better comment="">は</better>ワープロソフトで<better value="書類[しょるい]をつくり、それを利用するからです。" comment="">書くしょるいを利用するからです</better>。だから、学校で学生は使い方を習うべきだと思います。 <cp/>
+　それでも、手で漢字を書<correct value="くこと" comment="">き方</correct>も大事です。いつもワープロソフトを使えば、<better value="漢字の書き方" comment="">その方<correct value="法" comment="「動詞のます形＋方[かた]」で使います"/></better>をわすれて<correct value="しまい" comment="">なり</correct>ますから、小学校と中学校<correct value="の" comment=""/>とき<better value="は" comment=""/>学生は手で<correct value="の" comment=""/>書き方だけ習うべきです。その後で<better value="ワープロソフトの使い方を勉強すれば" comment=""/>、高校の学生は手でもワープロソフトでも漢字を書くこと<better value="ができる" comment="">を知っている</better>はずです。 <cp/>
+　<better value="大人になっても" comment="">でも</better>、ある人は書かなければ<better comment="">習う</better>漢字の書き方をわすれると言っています。<better value="これも本当[ほんとう]だと思いますが" comment="">ほんとうですが</better>、ワープロソフトを使ったら<correct value="画面[がめん]に漢字がでてくるので" comment="画面=スクリーン"/><better value="漢字を書けると思いますし" comment="">だいじょうぶで</better>、使わなかったらじしょを<better value="えらべばいいと思います｜使[つか]えばいいと思います" comment="">えらびます</better>。<cp/>
+
+	</essay>
+<review comment="手でもワープロでも漢字が書けることが大切なのですね。"/>
+</composition>

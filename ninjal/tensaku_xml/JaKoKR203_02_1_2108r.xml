@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+
+　私はたばこを吸うことについて反対する方です。<cp/>
+　一番の理由はからだに障るためです。もちろん、ストレス解消を図って吸うことですが一本を吸えば寿命を何時間ずつちぢめ<del>ると</del>して<rep value="問">間</rep>題<rep value="じゃありませんか">になることいませんか</rep>。二番の理由は環境の問題です。たばこを吸う人々がたばこの吸い殻をごみ箱にすてれば問題になることがありません。しかし、<movefrom id="1">ほとんど</movefrom>たばこの吸い殻がちいさいので<moveto id="1"/>なんの気もなしにすてて問題になります。一人が吸<rep value="わなければ">いませんと</rep>おおぜい<put value="の"/>人々に被害を与えない<del>方</del>です。さいごにたばこを吸えない人にはたばこの煙が頭をいた<rep value="く">い</rep>して吐き気<rep value="が">を</rep>する程<del>度に</del>いやです。<better value="">ところで、</better>自分のストレス解消を図る<rep value="ために">と</rep>人に被害を与えるこんな行動は<put value="、"/>本当<better value="の">に</better>文化市民の姿<rep value="じゃ">が</rep>ない<del>だ</del>と思います。<rep value="少">小</rep>数の人々<put value="な"/>ので多数の人々が被害をこうむることは<del>あることが</del>ない<del>ことだ</del>と思います。たばこを吸う権利を主張す<rep value="るなら">れば</rep>人に被害を与え<del>る</del>ないはんいで吸った<rep value="らいいというの">とすること</rep>が私の意見です。<cp/>
+　そして、これは<better value="別">べっと</better>の問題<rep value="ですが">のに</rep>私は女がたばこを吸うことについてりかい<rep value="が">を</rep>できません。理由は皆さんも思うように流産や奇形児など<rep value="を">が</rep>出産<rep value="する">できる</rep>かくりつが高いためです。もちろん、こどもをつく<rep value="ら">り</rep>ない女性もいるようです。しかし、みんなが自分のかんがえのとおりにできる<rep value="こと">の</rep>はない<del>だ</del>と思います。たばこが与える悪影<rep value="響">響*</rep>をもういちど考えてみて行動するといいと思います。<cp/>
+
+</comp>

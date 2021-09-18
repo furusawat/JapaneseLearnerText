@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl" ?>
+
+<comp>
+　私はたばこは<rep value="嗜好品（しこうひん）">きこうしょくひん</rep>だと思います。<rep value="世の中には">だから</rep>たばこを吸う<better value="人">ひと</better>もい<rep value="れば">ますがまた</rep>たばこを吸わない<better value="人">ひと</better>もいます。<doubt>これが問題です。その中で私はいまたばこを吸っているからちょっとむずかしいです。</doubt>しかし　私も公共の場所でたばこを吸うことについて<put value="は"/>反対<rep value="で">しま</rep>す。なぜかというと、たばこを吸わないひとに<rep value="害を及ぼす">ひがいがあります</rep>からです。<del>ひ</del><better value="害">がい</better>というのはまずにおいです。たばこのにおいはたばこを吸っているひと<put value="に"/>はわかりません<rep value="が">けど</rep>吸<rep value="わ">い</rep>ないひと<put value="にとって"/>はがまんできないほどくるしい<put value="もの"/>です。また<del>自身が</del>たばこを吸う<rep value="と自分">こと</rep>より<rep value="まわ">とな</rep>りの人<rep value="に害を及ぼし">がもっとひがいが大いおこり</rep>ます。<rep value="です">だ</rep>から会社やレストランでたばこを吸えないよう<put value="に"/>しなければ<better value="いけません">ならないです</better>。そして、<better value="公共の場">バスや電車など</better><rep value="に喫煙コーナーを設けるのも">はたばこを吸えようところをじゅうびすることも</rep>いい<put value="考え"/>だと思います。<doubt>差別をいいます。</doubt><del>また、</del><newp/>たばこのコマーシャル<rep value="については">はテレビで放送の時間を</rep>子どもたちが<rep value="寝静まる時間帯">ねる時</rep>に放送すれば<rep value="いい">だいじょうぶだ</rep>と思います。たとえば、放送時間を深夜<rep value="に限定するというようにです">ですることです</rep>。<rep value="そうしたら">それで</rep>子どもたち<rep value="はコマーシャルを">が</rep>みることができない<rep value="ので">ですから</rep>悪い影響を受け<rep value="ずにすみます">ないです</rep>。放送を<rep value="禁止に">できないように</rep>すればたばこ会社などから反発が<rep value="起こるという">発生する</rep>可能<put value="性"/><rep value="も">が</rep>あり<del>そうだと思い</del>ます。なぜかというと、たばこ会社が<rep value="経済">經濟</rep>的損失をこうむるからです。要するに、無<rep value="条">條</rep>件<rep value="に">的</rep>禁止<put value="する"/>よりお互い<del>に</del>話し合って改善する方がいい<del>だ</del>と思います。
+
+
+<remark value="經濟（×）→経済（○）無條件（×）→無条件（○）"></remark>
+
+</comp>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　現在、世界中<correct value="で" comment=""/>、コン<correct value="ピ" comment="">プ</correct>ューター使う人が多くなってきました。コン<correct value="ピ" comment="">プ</correct>ューターの便*利所<better value="は" comment="">が</better>たくさん<correct value="あります" comment="">です</correct>。これらの内で、ワープロソフト<correct value="は" comment="">が</correct>とても大切ですが、どんな国でも、ワープロソフトが母語の全体の<better value="知識" comment="">流暢</better>に<correct value="影響を与えています" comment="">困っています</correct>。<newparagraph/>例えば、英語のワープ<correct value="ロ" comment="">ル</correct>ソフト<correct value="に" comment=""/>は<better value="、" comment=""/>自動的につづりを書き直す「スペルチェック」という特徴があります。ですから、ワープロをよく使ったら、だんだん、正しいつづりが本当に分かる言葉が減少します。<correct value="日本では、" comment="1"/>日本語の<unclear comment="">仮</unclear>字が英語のアルファベットより複雑なので<correct value="、" comment=""/><correct comment="1">日本では、</correct>私にとって、その問題<better value="は" comment="">が</better>もっと大きいです。<newparagraph/>つづり<correct value="の" comment=""/>問題だけではなく<better comment="">て</better>、書く問題<correct value="も" comment="">で</correct>あります。漢字が読めて意味が分かればいいですが、<better value="それでは" comment=""/>十分ではなくて流暢ではありません。日本語では<correct value="、" comment=""/><correct value="ひらがな" comment="">ひらがかな</correct>のつづりが同じで漢字が違う単語が多いです。ですから、手で書<correct value="か" comment="">き</correct>なければならなかったら、ひらがな<better value="しかできない" comment="">ばかりできる</better>ことは不十分です。その上、今や日本でワープロを使う人は<correct value="、" comment=""/>学校で漢字の意味と読むことと書くことを<correct value="学んでいます" comment="">学びました</correct>。<unclear comment="この２つの文は関係がありますか？">ですので、<unclear comment="どういう意味ですか？">ワープロ<correct value="を" comment="">が</correct>使っても、この人は書かない人より日本語が<correct value="理解" comment="">了解</correct>できます。</unclear>二字の漢字が同類だったら、よく識別できます。</unclear><newparagraph/>さらに、日本文化は<unclear comment="">仮</unclear>字に関係します。ワープロが漢字の大切さを減少させると、日本文化<correct value="を" comment="">も</correct><correct comment="">損</correct>害すると思います。 <cp/>
+　したがって、日本語の流暢<correct value="さ" comment=""/>は書けることに依存します。<cp/>
+
+	</essay>
+</composition>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　今、日本<put value="だけ"/>ではなく、中国で<rep value="も">は</rep>たばこ<rep value="が">のことも</rep>問題に<rep value="なっている">なる</rep>。<cp/>
+　<better value="">歴史についての</better>資料に<rep value="よると">よって</rep>、たばこを吸<rep value="う">った</rep>ことは明時代から始まったそうだ。最初*、人<rep value="々">人</rep>はたばこを吸<rep value="えば">うたら</rep>、体を調節できると思<rep value="っていた">う</rep>。恐らくこれ<rep value="が">は</rep>たばこが作られた<note value="学習者の表記が見にくいので、誤りだと思い指摘している"><rep value="原">原</rep></note>因だろう。<cp/>
+　しかし、<movefrom id="1">人<rep value="々">人</rep>は</movefrom>最近健康<put value="に対する"/>意識<better value="が高まる">を増強*する</better>とともに、<moveto id="1"/>たばこは人間に<rep value="害">損害</rep><better value="を与える">がある</better>という点に気がついた。そして、たばこを吸った人よりもそのはたけを吸わされた人の方が<rep value="被害">損害</rep>を受けがちな<better value="ことが分かった">ものだ</better>。それにしても、ある人たちはたばこを吸い続<better value="けている">ける</better>。彼<put value="ら"/><del>たち</del>はたばこ<better value="の悪影響">を吸う損害</better>が<better value="分かっている">わかる</better>のに、公共の場所でたばこを吸う。それは<remark value="「すごい」の意味はとても広いです　少し分かりにくいです">すごい</remark>。<cp/>
+　私は<better value="中学２年生のころ">やく中学二年生になった時に</better>、たばこを吸い始めた。<rep value="その理由">と言う原因</rep>は<better value="大人">おとな</better>の<better value="世界">生活</better><put value="へ"/>の憧れと好奇心から<rep value="だった">だ</rep>。そうして、いつもクラスメートとたばこを吸っ<better value="ていた">た</better>。最近、「会社やレストラン、バスや電車などの公共の場所ではたばこを吸<better value="ってはいけない">えない</better>」と言う規則が見える<put value="と"/>同時に、たばこを吸わないよう<rep value="にという">な</rep><better value="呼びかけ">宣伝</better>が始<rep value="まっている">まる</rep>。それ<put value="ら"/>に<put value="は"/><del>よって</del>、たばこを<put value="たくさん"/>吸う<rep value="と">なら</rep>、癌<rep value="になりがちだ">を起りがちだ</rep><better value="と書かれている">そうだ</better>。<cp/>
+　<note value="少し意味が分かりません">生命はきれいで、ありがたくないか。</note>だから悪い習慣を<better value="改">矯</better>めなければならない。たばこがその<rep value="一つ">一部分</rep>だ。もし、<better value="自分の">個人な</better>悪い習慣<better value="が改められない">を保つ</better>ために、生命<better value="という大切なもの">のようなありがたいもの</better>さえ失う<rep value="なら">たら</rep>、ばか<put value="らしい"/>ではないか。<cp/>
+
+</comp>

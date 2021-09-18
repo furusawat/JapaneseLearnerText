@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　今、日本<correct value="だけ" comment=""/>ではなく、中国で<correct value="も" comment="">は</correct>たばこのこと<correct value="は" comment="">も</correct>問題にな<correct value="ってい" comment=""/>る。<cp/>
+　<better comment="">歴史についての</better>資料に<correct value="ると" comment="">よって</correct>、たばこを吸ったことは明時代から始まったそうだ。<better comment="">最初*、人人は</better>たばこを吸う<correct value="と" comment="">たら</correct>、体を調節できると思<correct value="ったようだ" comment=""/><correct comment="">う</correct>。恐らくこれ<correct value="が" comment="">は</correct>たばこが作られた原因だろう。<cp/>
+　しかし、<correct value="最近" comment="1"/><better comment="">人人は</better><correct comment="1">最近</correct>健康意識を<unclear comment="が高まるにつれて">増強*するとともに</unclear>、たばこは人間に損害があるという点に気がついた。そして、たばこを吸った人よりも<unclear comment="その煙">そのはたけ</unclear>を吸わされた人の方が<correct value="被" comment="">損</correct>害を受け<unclear comment="るそうだ">がちなものだ</unclear>。<better value="しかしながら" comment="">それにしても、</better><correct value="人々は">ある人たち</correct>はたばこを吸い続ける。彼<correct value="ら" comment="">たち</correct>はたばこ<correct value="の煙" comment=""/>を<unclear comment="吸う危害を知っているのに">吸う損害がわかるのに</unclear>、公共の場所でたばこを吸う。<unclear comment="これは、ひどいことである">それはすごい</unclear>。<cp/>
+　私は<unclear comment="だいたい">やく</unclear>中学二年生になった時に、たばこを吸い始めた。<correct value="その" comment="">と言う</correct>原因はおとなの生活の憧れと好奇心からだ<correct value="った" comment=""/>。そうして、いつもクラスメートとたばこを吸った。最近、｢会社やレストラン、バスや電車などの公共の場所ではたばこを吸えない｣と言う規則が<correct value="できると" comment="">見える</correct>同時に、たばこを吸わないよう<correct value="にという" comment=""/><correct comment="">な</correct>宣伝が始ま<correct value="った。" comment="">る</correct>。それによ<correct value="ると" comment="">って</correct>、たばこを吸う<correct value="と" comment="">なら</correct>、癌を起<correct value="しやすくなるそうだ" comment="">りがちだそうだ</correct>。<cp/>
+　<better value="命" comment="">生命</better>は<unclear comment="大切なものではないだろうか">きれいで、ありがたくないか</unclear>。<better value="したがって" comment="">だから</better>悪い習慣を<correct comment="">矯</correct><correct value="あらた" comment=""/>めなければならない。たばこがその一<correct value="例" comment="">部分</correct>だ。もし、個人<correct value="的" comment=""/>な悪い習慣を保<correct value="ったがた" comment="">つた</correct>めに、<better value="命" comment="">生命</better><unclear comment="を失うようなことがあるとするならば">のようなありがたいものさえ失うたら、</unclear>ばか<correct value="げたこと" comment=""/>ではない<correct value="だろう" comment=""/>か。<cp/>
+
+	</essay>
+<review comment="たばこは吸うべきではないという意見を述べています。文法的な誤り、言葉の誤用があり、まっすぐ私に入ってきませんでした。惜しいと思います"/>
+</composition>

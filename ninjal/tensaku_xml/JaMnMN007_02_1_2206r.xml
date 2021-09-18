@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+今、日本だけで<del>は</del>なく<put value="、"/>世界で<del>は</del>たばこのことが問題になっています。モンゴル人は言います。「たばこは人の<better value="寿命（じゅみょう）を五歳縮め、">生きることを五歳*で短くなせる。</better><del>「</del>お酒は人の<better value="寿命を十歳縮める。」">生きることを十歳*で短くなせる」。</better>モンゴル人はみんなそう言います<rep value="が、">けど</rep>年々たばこを<rep value="吸">使</rep>う人の数は増<rep value="え">っ</rep>ています。<cp/>
+　今<put value="では"/>、八<rep value="歳">歳*</rep>の子供<rep value="が">は</rep>たばこを<rep value="吸って">吸いて</rep>いるのは普通のことになりました。<doubt value="？この理由が何なのかとふかく考える人もいないそうです">こ<del>れ</del>の理由は何でしょうかと思っている人はいないそうです</doubt>。<better value="子供がそういうことをするのは">そう言うことをできるのは</better><put value="、"/>会社やレストラン、バスや電車など公共の場所で<put value="、"/><rep value="若い人も年とった人も">若くて年とった</rep>みんなでたばこを<rep value="吸って">吸いて</rep>いるからです。また公共のテレビや新聞などのコマーシャルでは<moveto id="1"/>たばこについて<movefrom id="1">いつも</movefrom>話しているからです。<cp/>
+　ある人は自分の<rep value="権">権*</rep>利<rep value="は">を</rep>よく<rep value="知ってい">知り</rep>ます<better value="が">けど</better>、役割をよく分か<rep value="っていない">うい</rep>ように思われます。例えば「私にはたばこを吸う権*利があるはずだ」と言うけど<put value="、"/>たばこを<rep value="吸った">吸いた</rep>後で<put value="、すいがらを"/>どこ<put value="に"/>でもすぐ落とします。このせいで<put value="、"/>モンゴルで<put value="は"/><rep value="特に">別に</rep>田舎に火事が出ることが増えました。人<rep value="が">の</rep>気をつけないことから<put value="、"/>モンゴルの広い野原はあっと言う間に<rep value="何も">どんなにも</rep>生きているものがないよう<rep value="な">に</rep>灰になります。<put value="たった"/>一本<del>だけ</del>のすいがらからそんなあぶないことが起こる<put value="という"/>ことを<put value="、人びとに"/>よく注意させる<rep value="ことが">のは</rep>必要です。<cp/>
+
+<review>かぎかっこ(「。」)は１マスに入れてください。</review>
+
+</comp>

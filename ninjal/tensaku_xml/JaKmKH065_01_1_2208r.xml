@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　　　<title>おはらい<del>のこと</del></title><cp/>
+<remark value="それなら題名を「カンボジアのおはらい」にしましょう。">　<del>おはらいのことについて、</del>日本にも<put value="おはらいは"/>ありますが<put value="、"/><rep value="ここでの">今の</rep>話はカンボジアのおはらいのことです。<cp/>
+</remark><cp/>
+<moveto id="3"/>　クメール人は<better value="ふだんの / にちじょう">まいにちの</better>生活<del>に</del><del>時々</del><doubt value="わ?">わ</doubt>るいことがある時<put value="には"/>お寺へ行って、おぼうさん<rep value="に">が</rep><rep value="おはらい / お清め">そうじ</rep>してもらい<del>たがい</del>ます。時々、おぼうさん<rep value="を">に</rep>自分のうちへしょうたいして、うちでいろいろものをじゅんびして、<rep value="盛大な">大き</rep>おはらいをします。でもたくさんものが<rep value="必要なので">あって</rep>、お金がたくさんかかります。あまりお金がない人はすこし<movefrom id="1">もの</movefrom>だけ<moveto id="1"/><put value="を"/>じゅん<note value="「ぴ」に見える文字を訂正している">び</note>します。うちへおぼうさんをしょうたい<rep value="する事">の</rep>はクメール語でソートムンルムドスクルスと言います。お寺でおぼうさんが<movefrom id="2">人に</movefrom>バラモン教と仏教のようなおきょうを<better value="唱えて">あんしょうして</better>、<moveto id="2"/>みず<rep value="を">だけ</rep>ちょっとかけるのはスラオーチテックと言います。<cp/>
+　おはらい<del>のこと</del>はいつしますか。カンボジア人<rep value="は">には、</rep><del>時々</del>わるいゆめ<rep value="を見たとき">があって</rep>、<put value="本当に"/>わるいことがおこらないために、<put value="おはらいを"/>します。<del>時々</del>わるいことが<del>も</del><rep value="本当にあったときには、">あいましたが</rep><rep value="新たに">新</rep>わるいことがおこらないようにします。わるいことがたくさんある時はうんがわるいと言います。<del>時々</del>わるいこともまだ<rep value="なく">ありません</rep>、わるいゆめもまだ<rep value="見ていないときにも、">ありませんが</rep><rep value="占い師">しょうらいについて<rep value="言う">言い</rep>人</rep>が人に「あなたはらいしゅうとからい<rep value="げ">け</rep>つとかことしなどわるいことがあります<rep value="よ">ょ</rep>」<put value="と"/>言っておはらいをします。<cp/><runon/>
+　おはらい<del>のこと</del>をしてから、人々<put value="の生活"/>は<rep value="平和">あんぜん</rep>に<rep value="なるのでしょう">なります</rep>か。<del>時々</del><rep value="平和">あんぜん</rep>に<rep value="なるときも、">なります。</rep><del>時々</del>まだわるいことが<rep value="あるときもあります">あります</rep>。<newp/><movefrom id="3"><better value="">はっきりわかりませんが</better>カンボジア<put value="人"/><del>がよくします。</del><rep value="全員ではありません">ぜんぶみなさんがしません</rep>が、<rep value="多くの">たくさん</rep>人が<put value="おはらいを"/>します。これも、カンボジアのしゅうかんのひとつで<rep value="で、">す。そのしゅうかんは</rep>バラモン教とカンボジアのむかしからのしんこうです。でも、そのおはらいの時は、おぼうさんが人々にしてあげますから、仏教<rep value="とも関係が">も</rep>あります。<newp/></movefrom><del>その</del>おはらい<del>こと</del><rep value="は">も</rep>カンボジアの<doubt value="「一つの可能性」? 良く分かりません">いとつのかのせい</doubt>です。そのことがなくなったら、ざんねんです。
+</comp>

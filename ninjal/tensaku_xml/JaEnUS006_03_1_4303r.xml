@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　現在、世界中<correct value="で" comment=""/>、コン<correct value="ピ" comment="">プ</correct>ューター<correct value="を" comment=""/>使う人が多くなってきました。コン<correct value="ピ" comment="">プ</correct>ューターの便*利<correct value="な" comment=""/>所<correct value="は" comment="">が</correct>たくさん<correct value="あります" comment="">です</correct>。これらの内で、ワープロソフトがとても大切ですが、どんな国でも、ワープロソフトが母語の<unclear comment="書く能力を低めて（下げて）います。">全体の流暢に困っています。</unclear>例えば、英語のワープ<correct value="ロ" comment="">ル</correct>ソフトは自動的につづりを書き直す「スペルチェック」という特徴があ<correct value="るので、" comment="">ります。ですから、</correct>ワープロをよく使<correct value="うと" comment="">ったら</correct>、だんだん、正しいつづり<correct value="の" comment="">が</correct><better comment="">本当に</better>分かる言葉が減少します。<newparagraph/><better comment="">日本語の</better><correct value="漢" comment="">仮</correct>字が<better comment="">英語の</better>アルファベットより複雑なので<better comment="">日本では、</better>私にとって、その問題がもっと大きいです。<unclear comment="">つづり問題だけではなくて、書く問題であります</unclear>。<better comment="">漢字が読めて意味が分かればいいですが、十分ではなくて流暢ではありません。</better>日本語では<better value="読み|音" comment="">ひらが<correct comment="">か</correct>なのつづり</better>が同じで漢字が違う単語が多いです。ですから<better comment="">、手で書<correct value="か" comment="">き</correct>なければならな<correct value="いとし" comment="">かっ</correct>たら、</better>ひらがな<correct value="だけ" comment="">ばかり</correct>できる<correct value="ので" comment="">こと</correct>は不十分です。その上、今<correct comment="">や</correct>日本でワープロを使う人は学校で漢字の意味と読むことと書くことを<unclear comment="学んだ人です。">学びました</unclear>。ですので、ワープロ<correct value="を" comment="">が</correct>使っても、<correct value="そ" comment="">こ</correct>の人は書かない人より<correct value="は" comment=""/>日本語<correct value="をよく理解" comment="">が了解</correct>できます。<unclear comment="">二字の漢字が同類だったら</unclear>、よく識別できます。<newparagraph/>さらに、日本文化は<correct value="漢" comment="">仮</correct>字に関係し<correct value="てい" comment=""/>ます。ワープロが漢字の大切さを減少させると、日本文化<correct value="の" comment="">も</correct>損<correct value="失にな" comment="">害す</correct>ると思います。 <cp/>
+　<unclear comment="日本語の能力は書くことに依存します。">したがって、日本語の流暢は書けることに依存します。</unclear><cp/>
+
+	</essay>
+<review comment="第1段落「つづり問題だけではなくて、書く問題であります」→つづりを学ぶ（知る）のは、書くためなので、「つづり問題」＝「書く問題」ではないか？"/>
+</composition>

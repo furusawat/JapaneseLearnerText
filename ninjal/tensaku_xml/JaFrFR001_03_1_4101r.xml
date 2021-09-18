@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。会社で<correct value="は" comment=""/>みんな<correct comment="">さんは</correct>ワープロソフトで<correct value="しょるいを" comment="1"/>書く<correct comment="1">しょるいを</correct><correct comment="">利用する</correct>からです。だから、<correct value="学生は" comment="2"/>学校で<correct comment="2">学生は</correct>使い方を習うべきだと思います。 <cp/>
+　それでも、手で漢字を書<correct value="くこと" comment="">き方</correct>も大事です。いつもワープロソフトを使えば、その<correct value="書き" comment=""/>方をわすれ<correct comment="">てなり</correct>ますから、小学校<correct value="や" comment="">と</correct>中学校<correct value="の" comment=""/>とき学生は手で書<correct value="くこと" comment="">き方</correct>だけ習うべきです。その後で、高校<correct value="で" comment="">の学生</correct>は手でもワープロソフトでも<correct value="どちらでもいいことにしたらどうでしょうか。" comment="">漢字を書くことを知っているはずです。</correct> <cp/>
+　でも、ある人は書かなければ習<correct value="った" comment="">う</correct>漢字の書き方をわすれると言っています。<better value="これは" comment=""/>ほんとうですが、ワープロソフトを使ったら<correct value="書き方を忘れても" comment=""/>だいじょうぶで<correct value="す。" comment="">、</correct><better value="そして" comment=""/>使わなかったらじしょを<correct value="見ればいいと思います。" comment="">えらびます。</correct><cp/>
+
+	</essay>
+<review comment="どうして手で書くことが大事ですか。少しわかりにくいですね。"/>
+</composition>

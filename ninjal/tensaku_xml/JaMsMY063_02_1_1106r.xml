@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　世界中<put value="で"/>たばこは有名な物である。男性のみならず女性にも人気がある。現<note value="在（漢字の誤りを訂正している）">在＊</note>たばこを吸うのは大人だけではな<rep value="い。">く</rep>子供までたばこを吸<rep value="う">います</rep>。<del>それは</del><movefrom id="1">どうしてこんなふうになったのだろうか。</movefrom>学校内では禁煙<rep value="である">です</rep>。<del>だれかが</del>たばこを吸う<rep value="と">のは</rep>先生に罰せられ<rep value="る">ます</rep>。それでもたばこを吸う学生はまだい<rep value="る">ます</rep>。<moveto id="1"/><cp/>
+
+　マレーシアのル<put value="ー"/>ルによると未成年の喫煙は禁止されているそう<rep value="だ">です</rep>。<doubt value="？">それならこのル<put value="ー"/>ルを守らなければならないが<put value="、"/>だれにもたばこを吸う権利があるのが気にかか<rep value="る">ります</rep>。</doubt><del>というのも</del>どんな悪い効果があ<rep value="っても、それは">るか</rep>自分の責任<rep value="だ">です</rep>。すなわちたばこを<rep value="すうかどうかは">してほしい</rep>自由<rep value="だ">です</rep>。私はこのように考えているが<put value="、"/>たばこはだれ<put value="の体"/>にも<rep value="良">食</rep>くないと思<rep value="う">います</rep>。<cp/>
+
+　私<rep value="が">は</rep>一番考えているのは体の健康<rep value="のことだ">です</rep>。世界<del>の</del>中<rep value="の人は">には</rep>全員たばこの中に何<rep value="が">か</rep>あるか知ってい<rep value="る">ます</rep>。学校でもたばこの材料<rep value="を">が</rep>先生に教え<rep value="られる">ます</rep>。学校や大学ではたばこについていろいろな実験を行<rep value="っている">います</rep>。その結果たばこの材料は体に悪い<movefrom id="2">響</movefrom>影<moveto id="2"/>を与える<rep value="ということ">の</rep>がわか<rep value="った">ります</rep>。しかし多くの学生は学校<rep value="を">から</rep>卒業した後すぐたばこを吸う<put value="。"/><rep value="これは">のに</rep>ふしぎな<rep value="ことだ">のです</rep>。<cp/>
+
+　たばこは食べ物ではな<rep value="いのに">く</rep>、<del>でも</del>どうして<rep value="人">入</rep>気があるか問題にな<rep value="る">ります</rep>。多くのたばこを吸<rep value="う">った</rep>人はたば<put value="こ"/>を吸う<put value="こと"/>によって悩みを解＊決できると考えてい<rep value="る">ます</rep>。実はこの<movefrom id="3">法</movefrom>方<moveto id="3"/>は一番いい<movefrom id="4">法</movefrom>方<moveto id="4"/>では<rep value="ない">ありません</rep>。おかねもたくさんかかるし体にも悪い<movefrom id="5">響</movefrom>影<moveto id="5"/>を与え<rep value="るからだ">ます</rep>。つまりたばこを吸う<movefrom id="6">法</movefrom>方<moveto id="6"/>は<rep value="良">食</rep>くないと思<rep value="う">います</rep>。だからみんなたばこの悪さを<note value="知（漢字の誤りを訂正している）">知＊</note>らなければな<rep value="らない">りません</rep>。<cp/>
+
+
+</comp>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　現在、世界中<correct value="で" comment=""/>、コン<correct value="ピ" comment="">プ</correct>ューター<correct value="を" comment=""/>使う人が多くなってきました。コン<correct value="ピ" comment="">プ</correct>ューターの便*利<correct value="な" comment=""/>所がたくさん<correct value="あります" comment="">です</correct>。これらの<correct value="中" comment="">内</correct>で、ワープロソフトがとても大切ですが、どんな国でも、ワープロソフトが母語の<correct comment="">全体の</correct>流暢<correct value="さ" comment=""/>に<correct value="全体的に" comment=""/><correct value="影響し" comment="ママ">困って</correct>います。例えば、英語のワープ<correct value="ロ" comment="">ル</correct>ソフトは自動的につづりを書き直す「スペルチェック」という特徴があります。ですから、ワープロをよく使ったら、だんだん、正しいつづりが本当に分かる言葉が減少します。日本語の<correct value="漢字は" comment="">仮字が</correct>英語のアルファベットより複雑なので<correct value="、" comment=""/><correct comment="1">日本では</correct>、私にとって、<correct value="日本では" comment="1"/>その問題がもっと大き<correct value="くなります" comment="">いです</correct>。<newparagraph/>つづり<correct value="の" comment=""/>問題だけではなくて、<unclear comment="">書く</unclear>問題<correct value="も" comment="">で</correct>あります。漢字が読めて<better value="すぐ" comment=""/>意味が分かればいいですが、<correct value="私は" comment=""/>十分ではなくて流暢で<correct value="も" comment="">は</correct>ありません。<correct value="でも、" comment=""/>日本語ではひらが<correct comment="">か</correct>なのつづりが同じで漢字が違う単語が多いです。ですから、手で書<correct value="くとき、" comment="">きなければならなかったら、</correct>ひらがなばかり<correct value="書く" comment="">できる</correct>ことは不十分です。その上、今や日本でワープロを使う人は学校で漢字の意味と読むことと書くことを学<correct value="んでいます。|んできました。" comment="">びました</correct>。ですので、ワープロ<correct value="を" comment="">が</correct>使っても、<better comment="">この人は</better>書かない人より日本語が<correct value="理解" comment="">了解</correct>できます。二字の漢字が同類だったら、よく識別できます。<newparagraph/>さらに、日本文化は<correct value="漢字と深い関係があります。" comment="">仮字に関係します</correct>。ワープロが漢字の大切さを減少させると、日本文化<correct value="に" comment=""/>も<better value="損失" comment="「損害」→よく事故に使います">損害</better><correct value="がある" comment="">する</correct>と思います。 <cp/>
+　したがって、<unclear comment="日本語が流暢になるためには、書けることがとても大切です。？">日本語の流暢<correct value="さ" comment=""/>は書けることに<better value="" comment="悪い意味">依存</better>します</unclear>。<cp/>
+
+	</essay>
+<review comment="２段落目の２行目と３行目のつながりがちょっとわかりにくいです。（もう少し説明しましょう）"/>
+</composition>

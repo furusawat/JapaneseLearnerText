@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。<correct value="それは" comment=""/>会社で<correct comment="">みんなさんは</correct><correct comment="①">ワープロソフト</correct>で<correct value="②を" comment="②"/>書く<correct value="とき" comment=""/><correct comment="②"><better value="書類" comment="">しょるい</better></correct><correct value="①" comment=""/>を利用するからです。だから、学校で学生は使い方を習うべきだと思います。 <cp/>
+　それでも、手で漢字を書<correct value="くこと" comment="">き方</correct>も大事です。いつもワープロソフトを使<correct value="っていたら" comment="">えば</correct>、<correct value="漢字の" comment="">その</correct><correct value="書き" comment=""/>方を<better value="忘れて" comment="">わすれて</better><correct value="しまいます" comment="">なります</correct>から、小学校と中学校<correct value="では" comment="">とき</correct>学生は<correct value="漢字を" comment=""/>手で<better value="書いたほうがいいです" comment="">書き方だけ習うべきです</better>。<better value="そうしたら" comment="">その後で</better>、<better value="高校生" comment="">高校の学生</better>は手でもワープロソフトでも漢字<better value="が書ける" comment="">を書くことを知っている</better>はずです。 <cp/>
+　でも、ある人は書かなければ<correct value="習った" comment="">習う</correct>漢字の書き方を<better value="忘れる" comment="">わすれる</better>と言っています。<better value="その話は" comment=""/><better value="本当" comment="">ほんとう</better>ですが、ワープロソフトを使ったら<better value="大丈夫" comment="">だいじょうぶ</better><correct value="だし" comment="">で</correct>、使わ<correct value="なくても" comment="">なかったら</correct><better value="辞書" comment="">じしょ</better><correct value="で" comment="">を</correct><correct value="調べられます" comment="">えらびます</correct>。<cp/>
+
+	</essay><review comment="○○さんは漢字が好きですか。○○さんはワープロソフトを使ったほうが簡単ですか。今はけいたい電話でメールができますから、とても便利になりました。でもけいたい電話の漢字もときどき正しくないです。ですから、手で書く練習もしなければならないと思います。○○さんは作文の中でたくさん漢字を使っていますがもっと使ってみてください。"/>
+</composition>

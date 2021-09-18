@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは<better value="大切" comment="">大事</better>だと思います。<better value="というのは、" comment=""/>会社でみんなさんはワープロソフトで書く<better value="書類" comment="">しょるい</better>を利用するからです。だから、学校で学生は使い方を習うべきだと思います。 <cp/>
+　それでも、手で漢字を書<correct value="く" comment="">き</correct>方も大事です。いつもワープロソフトを使<better value="っていると" comment="">えば</better>、<unclear comment="手で漢字を書くこと">その方</unclear>を<better value="忘" comment="">わす</better>れて<correct value="しまい" comment="">なり</correct>ますから、小学校と中学校<correct value="では" comment=""/><correct comment="">とき</correct>学生は手で<better value="漢字を" comment=""/><better value="書くこと" comment="">書き方</better>だけ<better value="を" comment=""/>習うべきです。<better value="そうすれば" comment="">その後で</better>、高校の学生は手でもワープロソフトでも漢字を書くこと<better value="ができる" comment="">を知っている</better>はずです。 <cp/>
+　でも、ある人は<better value="手で" comment=""/>書かなければ習う漢字の書き方を<better value="忘" comment="">わす</better>れると言っています。<better value="それは" comment=""/>ほんとうですが、ワープロソフトを使ったらだいじょうぶで、使わなかったら<better value="辞書" comment="">じしょ</better>を<better value="選" comment="">えら</better>びます。<cp/>
+
+	</essay>
+<review comment="最後の段落の中の文章のつながりがよく分かりません。"/>
+</composition>

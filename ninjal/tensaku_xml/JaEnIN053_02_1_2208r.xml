@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+<sperr value="0"/>十<note value="漢字の誤りを訂正している">年＊</note><del>間</del>前にタバコを<rep value="吸うのは">吸いのくせは</rep>せんれんされている<rep value="こと">活動</rep><rep value="だと">を</rep>考えられていました<note value="丸で囲っている">。</note>この<rep value="習慣">くせ</rep>はせんでん<rep value="で">から</rep>いい物のように<better value="広められました">ふき<note value="丸で囲っている">ょ</note>うされました</better><note value="丸で囲っている">。</note>ほとんど<del>う</del>の人々は<doubt value="誰ですか?">彼らのモデル</doubt>を見ると<rep value="これ">このくせ</rep>を<rep value="まねしたがり">取り上がり</rep>ました<note value="丸で囲っている">。</note>えいがの主人公もタバコを<rep value="吸って">吸いて</rep><note value="丸で囲っている">、</note><doubt value="分かりません">何*をほしいをもらいから</doubt>大勢の人々が吸い<del>を</del><rep value="始め">始まり</rep>ました<note value="丸で囲っている">。</note><cp/>
+
+<sperr value="0"/>しかし今<put value="、"/><del>ますますの</del>人々<rep value="は">が</rep>タバコの有がいな<better value="作用">結果＊</better>を<rep value="知っています">知られます</rep><note value="丸で囲っている">。</note>きつえ<put value="ん"/>者は<better value="自分"></better>自身<del>をがい</del>の他にし<note value="丸で囲っている">ょ</note>うき<note value="丸で囲っている">ょ</note>く的なきつえ<put value="ん"/>者<better value="を"></better>もきずつけます<note value="丸で囲っている">。</note><better value="公共の場所"><put value="他の"/>人々<rep value="の">に</rep><rep value="いる">ある</rep>所</better><rep value="でも">にも</rep>きつえん者はタバコを<rep value="吸って">吸いて</rep>います<note value="丸で囲っている">。</note>子供たちもせんでんや<note value="漢字の誤りを訂正している">年＊</note>上の<rep value="吸って">吸いて</rep>いる<del>の</del>人々を見てたばこを吸い<rep value="始め">始まり</rep>ます<note value="丸で囲っている">。</note>私の<del>一つの</del>ともだちは学校時代に先生<rep value="が">を</rep>けむりのわを<rep value="作るのを">作＊り</rep><rep value="見て、">見えました<note value="丸で囲っている">。</note></rep><rep value="それ">その物</rep>をしたい<rep value="ために">から</rep>彼はタバコを吸い<rep value="始め">始まり</rep>ました<note value="丸で囲っている">。</note>今彼は<better value="タバコを">このくせを</better>止めることができません<note value="丸で囲っている">。</note><cp/>
+
+<sperr value="0"/><better value="公共の場所"><put value="他の"/>人々<rep value="が">に</rep><rep value="いる">ある</rep>所</better><rep value="では">には</rep>タバコを<rep value="吸うこと">吸い</rep>を<rep value="禁じる">きんじられるために</rep>法律<rep value="を">が</rep>じ<note value="丸で囲っている">っ</note>こうにうつすべきです<note value="丸で囲っている">。</note>この事をすると<rep value="非">不</rep>きつえん者はきれいな空気<rep value="を">が</rep><rep value="呼吸">いきを</rep>できます<note value="丸で囲っている">。</note>世界<rep value="を">は</rep>きれいな<rep value="で">と</rep>げん気<rep value="な">の</rep><movefrom id="1">ために</movefrom>良い所に<rep value="戻す">かえりました<note value="丸で囲っている">。</note></rep><moveto id="1"/><put value="、"/>ぜひ<del>に</del>これは<rep value="実現するべき">じつ</rep>です<note value="丸で囲っている">。</note><cp/>
+
+
+<review>句読点には1マス使いましょう。</review>
+<review>撥音、拗音などの小文字にも1マス使いましょう。</review>
+</comp>

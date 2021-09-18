@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　今、<better comment="">日本ではなく、</better>中国ではたばこ<better comment="">のこと</better><correct value="が" comment="">も</correct>問題に<correct value="なっている" comment="">なる</correct>。<cp/>
+　歴史についての資料に<correct value="よると" comment="">よって</correct>、たばこを<better value="吸う" comment="">吸った</better>ことは明時代から始まったそうだ。最初*、人<correct comment="">人</correct>はたばこを吸う<correct value="と" comment="">たら</correct>、体を調節できると思う。恐らくこれはたばこが作られた原因だろう。<cp/>
+　しかし、人人は最近健康<better value="に対する" comment=""/>意識<unclear comment="強くなり">を増強*するとともに</unclear>、たばこは人間に損害があるという点に気がついた。そして、たばこを吸った人よりもその<unclear comment="近くで煙を">はたけを</unclear>吸わされた人の方が<correct comment="">損</correct>害を受け<correct value="る" comment="">がちな</correct>ものだ。<unclear comment="それでも">それにしても</unclear>、ある人たちはたばこを吸い続ける。彼<better value="ら" comment="">たち</better>はたばこを吸う<correct comment="">損</correct>害が<better value="わかっている" comment="">わかる</better>のに、公共の場所でたばこを吸う。それはすごい。<cp/>
+　<unclear comment="私の場合ははやく|私は">私はやく</unclear>中学二年生になった時に、たばこを吸い始めた。<better value="その原因は|なぜなら" comment="">と言う原因は</better>おとなの生活<correct value="へ" comment=""/>の憧れと好奇心からだ。そ<better comment="">う</better>して、いつもクラスメートとたばこを吸った。最近、｢会社やレストラン、バスや電車などの公共の場所ではたばこを吸えない｣と言う規則<correct value="を見ると" comment="">が見える</correct>同時に、たばこを吸わないような宣伝が<better value="始まっている|流れている" comment="">始まる</better>。それに<unclear comment="よると">よって</unclear>、たばこを吸う<unclear comment="と|たら">なら</unclear>、<unclear comment="癌になりやすい">癌を起りがちだ</unclear>そうだ。<cp/>
+　生<better comment="">命</better>はきれいで、<unclear comment="ありがたいものではないか">ありがたくないか</unclear>。だから悪い習慣を<unclear comment="改め">矯め</unclear>なければならない。たばこがその<unclear comment="一例|一つ">一部分</unclear>だ。もし、個人<correct value="の" comment="">な</correct>悪い習慣を保つために、生命のようなありがたいもの<better value="を" comment="">さえ</better><correct value="失っ" comment="">失う</correct>たら、ばかではないか。<cp/>
+
+	</essay>
+<review comment="意見、根拠を整理すること　ex.　・たばこを吸うこと（喫煙《煙：誤字》）に賛成？反対？・感情的な根拠、論理的な根拠のどれをえらぶか・・・"/>
+<review comment="便利な表現　ex.意見をいう時「私は.....に（賛成・反対）だ。なぜなら....からだ。例えは（ママ）....。」"/>
+</composition>

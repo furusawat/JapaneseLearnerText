@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　<title>作文課題2</title><cp/>
+
+　日本でタバコを吸う人数は<rep value="多">高</rep>いと思います。それは日本に行った<movefrom id="1">こと</movefrom><del>の</del>時<put value="の"/><moveto id="1"/>やテレビ放送やいろいろ<rep value="な">の</rep>本<rep value="や">か</rep>雑志を読むことなどからの印象である。特に、タバこを吸って、酒によっているビジネスマンのイメージははっきり<rep value="している　もしくは　もっている。">である</rep>。<cp/>
+
+　日本でタバコ<rep value="に">を</rep>反対するキャンペ<remark value="長い音"><rep value="ー">ィ</rep></remark>ンもあって、日本人<rep value="は">が</rep>タバコの悪さもよく知っているそうである。それにもかかわらず、タバコを生活の一部にする人が増＊えています。<cp/>
+
+　私は<rep value="「">「*</rep>だれに<put value="で"/>もタバコを吸う権利があるはずた。<rep value="」">」*</rep><better value="という">の</better>意見<rep value="に">を</rep>賛成します。しかし、子供に<better value="そういった">そんな</better>悪い影響＊を与えることを防ぐのは社会の最も大切な責任であると思います。<cp/>
+
+　子供が小さいころから<rep value="「">「*</rep>タバコは生活の一部<rep value="」">」*</rep><better value="という">の</better>印象を防ぐべきだ。テレビ放送と公共の場所でタバコ<put value="を"/>禁止<del>ことに</del>すること<put value="だけ"/>でなく、新聞＊、雑<rep value="誌">志</rep>、書籍にタバコの広告を出すのも禁止<put value="する"/>規則を作る。それに、タバコ<rep value="が">を</rep>簡単に手に<rep value="入る（状況）">つく</rep>のもやめることにする。例えば、自動販売機でタバコを売らないこ<rep value="と">ど</rep><rep value="や">と</rep><better value="年齢が達していない">年齢*未満*</better>の若者にタバコを売らないこと<put value="など"/>だ。<cp/>
+
+　人はタバコを吸う権利がある。人は自分の健康と環境を選ぶ権利もあるはずだ。<rep value="け">煙</rep>むたい環境<rep value="で">に</rep>子供を育てない<better value="ほうがよいと思う。">で下（くだ）さい。</better><cp/>
+
+<review>ふつう体とていねい体どちらかに統一しましょう。</review>
+
+</comp>

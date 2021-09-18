@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。会社でみ<correct comment="">ん</correct>なさんはワープロソフトで書くしょるいを利用するからです。だから、学校で学生は使い方を習うべきだと思います。 <cp/>
+　それでも、<correct value="手で漢字を書く方法｜漢字の書き方" comment="「方法」「漢字の書き方」どちらでもいいです">手で漢字を書き方</correct>も大事です。いつもワープロソフトを使<better value="うと" comment="">えば</better>、その方をわすれて<correct value="しまい" comment="">なり</correct>ますから、小学校と中学校<correct value="の" comment=""/>とき学生は手で書き方だけ習うべきです。<unclear comment="そうすれば">その後で</unclear>、<better value="高校生" comment="">高校の学生</better>は手でもワープロソフトでも漢字を<better value="書ける" comment="">書くことを知っている</better>はずです。 <cp/>
+　でも、ある人は書かなければ習う漢字の書き方をわすれると言っています。<unclear comment="ほんとうの話ですが">ほんとうですが</unclear>、ワープロソフトを使ったらだいじょうぶで、<unclear comment="どういう意味ですか？「（その人は）ワープロソフトを使わないで、手で書く時はじしょが必要」という意味ですか？">使わなかったらじしょをえらびます</unclear>。<cp/>
+
+	</essay>
+</composition>

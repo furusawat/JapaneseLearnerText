@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+十<rep value="年">年＊</rep><del>間</del>前にタバコを吸<rep value="うこと">いのくせ</rep>はせんれんされて<rep value="た">いる</rep><rep value="行">活</rep>動<rep value="だと">を</rep>考えられていました<note value="一マスの中に文字と句点を書いたので、句点は次のマスに書くように指示がある">。</note><rep value="たばこ">このくせ</rep>はせんでんからいい物のように<rep value="広めら">ふきょうさ</rep>れました<note value="一マスの中に文字と句点を書いたので、句点は次のマスに書くように指示がある">。</note>ほとんど<del>う</del>の人々<rep value="が">は</rep><movefrom id="1">彼ら</movefrom><movefrom id="2">の</movefrom>モデル<moveto id="2"/><moveto id="1"/>を見<rep value="て">ると</rep><rep value="たばこ">このくせ</rep>を<rep value="すいはじめ">取り上がり</rep>ました<note value="一マスの中に文字と句点を書いたので、句点は次のマスに書くように指示がある">。</note>えいがの主人公もタバコを吸<rep value="っ">い</rep>て、<doubt value="？">何*をほしいをもらいから</doubt>大勢の人々が吸い<del>を</del>始<rep value="め">まり</rep>ました<note value="一マスの中に文字と句点を書いたので、句点は次のマスに書くように指示がある">。</note><cp/>
+
+<sperr value="0"/>しかし<rep value="最近">今</rep>ますます<del>の</del>人々<rep value="に">が</rep>タバコの有<better value="害">がい</better>な結果＊<rep value="が">を</rep>知られ<put value="てい"/>ます<note value="一マスの中に文字と句点を書いたので、句点は次のマスに書くように指示がある">。</note>きつえ<put value="ん"/>者は自<rep value="分">身</rep><rep value="だけでなく">をがいの</rep>他<rep value="の">に</rep>しょうきょく的なきつえ<put value="ん"/>者もきずつけます<note value="一マスの中に文字と句点を書いたので、句点は次のマスに書くように指示がある">。</note>人々<doubt value="？がいる">にある</doubt>所<rep value="で">に</rep>もきつえん者はタバコを吸<rep value="っ">い</rep>ています<note value="一マスの中に文字と句点を書いたので、句点は次のマスに書くように指示がある">。</note>子供たちもせんでんや<rep value="年">年＊</rep>上<rep value="が">の</rep>吸<rep value="っ">い</rep>ているの<del>人々</del>を見て<put value="、"/>たばこを吸い始<rep value="め">まり</rep>ます<note value="一マスの中に文字と句点を書いたので、句点は次のマスに書くように指示がある">。</note>私の一<rep value="り">つ</rep>のともだちは学<rep value="生">校</rep>時代に先生<doubt value="？けむりの作り方をならいました">をけむりのわを作＊り見えました</doubt>。<doubt value="？そのけむりを作りたい">その物をしたい</doubt>から彼はタバコを吸い始<rep value="め">まり</rep>ました。今彼はこのくせを止めることができません。<cp/>
+
+<sperr value="0"/>人々<rep value="がいる">にある</rep>所<rep value="で">に</rep>はタバコを吸<rep value="うこと">い</rep>をきんじ<del>られ</del>るため<rep value="の">に</rep>法律がじっこうにうつ<rep value="される">す</rep>べきです。この<rep value="法律が実行される">事をする</rep>と<del>不</del>きつえん<put value="しない"/>者はきれいな空気<rep value="で">が</rep>いきを<put value="することが"/>できます<note value="一マスの中に文字と句点を書いたので、句点は次のマスに書くように指示がある">。</note>世界はきれいな<put value="地球"/>と<put value="人々の"/><better value="健康">げん気</better>のために良い所に<rep value="もどり">かえり</rep>ま<rep value="す">した</rep>。<doubt value="？">ぜひにこれはじつです</doubt>。<cp/>
+
+
+<review>「。」や「、」は一文字と考えます。<cp/>
+段落を変えたら１文字あけて下さい</review>
+
+</comp>

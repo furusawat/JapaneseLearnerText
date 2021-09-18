@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　現在、世界中<correct value="で" comment=""/>、コン<correct value="ピ" comment="">プ</correct>ューター<correct value="を" comment=""/>使う人が多くなってきました。コン<correct value="ピ" comment="">プ</correct>ューター<correct value="には" comment="">の</correct>便*利<correct value="な" comment=""/>所がたくさん<correct value="あります" comment="">です</correct>。これらの<correct value="中" comment="">内</correct>で、ワープロソフトがとても大切ですが、どんな国でも、ワープロソフトが<unclear comment="母語の能力に及ぼす影響">母語の全体の流暢に</unclear>困っています。<newparagraph/>例えば、英語のワープ<correct value="ロ" comment="">ル</correct>ソフト<correct value="に" comment=""/>は自動的につづりを書き直す「スペルチェック」という特徴があります。ですから、ワープロ<better value="ばかりを使っていたら" comment="">をよく使ったら</better>、だんだん、正しいつづり<better value="ができることばの数" comment="">が本当に分かる言葉</better>が<better value="少なくなります。" comment="">減少します</better>。<newparagraph/>日本語の<correct value="漢字は" comment="">仮字が</correct>英語のアルファベットより複雑なので日本<correct value="語" comment=""/>では、私にとって、その問題がもっと大きいです。つづり<correct value="の" comment=""/>問題だけではなくて、<correct value="漢字を" comment=""/>書く<correct value="力の" comment=""/>問題であります。漢字が読めて意味が分かればいいですが、<correct value="それも" comment=""/>十分では<better comment="">なくて<unclear comment="">流暢</unclear>では</better>ありません。日本語ではひらが<correct comment="">か</correct>なのつづりが同じで漢字が違う単語が多いです。ですから、手で<correct value="書くときは" comment="">書きなければならなかったら</correct>、ひらがなばかり<correct value="で書いていては" comment="">できることは</correct>不十分です。<better comment="">その上、今や</better>日本でワープロを使う人は学校で漢字の意味と読むことと書くことを学<correct value="んでいます。" comment="">びました</correct>。です<correct value="から" comment="">ので</correct>、ワープロ<correct value="を" comment="">が</correct>使っても、<better comment="">この人は</better><correct value="漢字を" comment=""/><better value="書いたことがない" comment="">書かない</better>人より日本語が<correct value="よくわかります。" comment="">了解できます</correct>。<unclear comment="">二字の漢字が同類だったら、よく識別できます</unclear>。<newparagraph/>さらに、日本文化は<correct value="漢字" comment="">仮字</correct>に<better value="深く" comment=""/>関係し<better value="てい" comment=""/>ます。ワープロが漢字の大切さを減少させると、日本文化も<better value="損われる" comment="">損害する</better>と思います。 <cp/>
+　したがって、日本語の<unclear comment="能力">流暢</unclear>は書けることに依存<correct value="すると思います。" comment="これが結論ですか？">します</correct>。<cp/>
+
+	</essay>
+<review comment="流暢ということばをどういう意味で使っていますか？"/>
+<review comment="ワープロソフトの問題はどの国にもある→日本では漢字があるからさらに重大　　
+・つづりだけでなく、意味を使い分けることが大切　・ワープロを使う前に、漢字の意味と読み、書きを勉強することが必要。　さらに日本文化と漢字は深いつながりがある。≪ここまでだいたいわかりましたが≫
+『だから・・・』　　この結論の部分が不十分です。"/>
+</composition>

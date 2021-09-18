@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　最近、たばこのことが問題になっています<put value="。"/><note value="行の頭に句点を書いたので、削除された"><del>。</del></note>日本だけではなくどこ<put value="の"/>国でも<rep value="多(おお)く">たくさん</rep>の人はたばこを吸う<rep value="自由">権利</rep>があります。健康のためにたばこを吸わないように<put value="、"/><rep value="注">主</rep>意がたくさん<note value="1マス詰めるように←の指示がある">　</note>はってあ<rep value="る">ります</rep>けれど<put value="も、"/>たばこをやめられない人々がたくさんいます。なぜかというと<put value="、"/>たばこが生活になってい<rep value="るからです。">ます</rep>。それに体に悪い<rep value="影">　</rep><rep value="響">こと</rep>を与えるという<put value="ことが"/>わかっているのに<put value="、"/>たばこをやめようとしない傾向があります。<cp/>
+
+　今、子供までたばこを吸うことがとても　深刻な問題になりつつあります。技術が発展<rep value="す">してい</rep>るとともに<moveto id="1"/>家族より<movefrom id="1">親<rep value="は">が</rep></movefrom>仕事を大切にします。その結果、子供達は悪いことをしやすいという<rep value="環境が">影響を</rep>与えられます。規則を作って<put value="も"/>禁止するのは無視されています。どこでもたばこ<rep value="が売られ">を売っ</rep>ています。小学校ぐらいの子供もたばこを買うことができます。<cp/>
+
+　<put value="それ"/>では、たばこの問題はなかなか解<rep value="決し">け</rep>ません<put value="。"/><del>が</del>やめようとし<rep value="たいのなら">たら</rep>それぞれ<put value="各"/>自<del>分</del>の努力次第です。健康のために吸わない方がよいです。
+
+</comp>

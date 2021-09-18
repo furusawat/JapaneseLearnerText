@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+<title>ソングラン</title><cp/>
+　<sperr value="1"/>ソングランは昔のタイのお正月だ。４月１２日から１４日まで行われる。１３日<del>に</del>は一番大きい<put value="お"/>祝い<put value="の"/>日である。<cp/>
+　<sperr value="1"/><better value="(昔の)">昔の</better>伝説<rep value="によれば">は</rep>ソングランの女神様<rep value="は">が</rep>７人<rep value="いて、">ある。</rep>各年<rep value="ごとに">は</rep>一人<rep value="決まっている">だけある</rep>。<rep value="そしてそれぞれの">全部</rep>の女神様は<rep value="違う">表現の</rep>意味<rep value="を">が</rep><rep value="持っている">違う</rep>。<del>ある人が悪いし良*い意味だ。</del><better value="(例えば、)">例えば、</better><put value="たとえば"/>ある女神様は悪い意味を表して<put value="いて、"/>その年は<moveto id="1"/>悪い事<rep value="が">を</rep>起<put value="こ"/>る<rep value="と言われている">はずだ</rep>。<del>つまり、</del><movefrom id="1">水不足とか食<rep value="料">品</rep>不足<put value="のような"/></movefrom><del>がおきる。</del><put value="しかしこれとは反対に、良い女神様の年もある。"/><better value="(女神様は順番に各年にある。)">女神様は順番に各年にある。</better><cp/>
+　<sperr value="1"/>１３日には朝<put value="、"/><rep value="お坊さんに食物をさしあげて">はくたつして</rep>、仏像に水やいいにおいがする水をゆっくりかける。あとは祖父<del>と祖母や親類の所に行って健康<del>になるように</del>とか多幸を祈る。<put value="この休みは"/>長い<del>時期だ</del>から<rep value="ふるさと">地元</rep>にある家へ帰る<rep value="ことが">のは</rep>できる<put value="のだ"/>。<cp/>
+　<sperr value="1"/>チェンマイでは<put value="タイで"/>一番大きい<rep value="ソンクランの祭りが行わ">行事を開ら</rep>れる<rep value="ので、">。</rep>観光客はよくここに来る。水をかけるのは朝から夜までである。<put value="また"/>地方によって<rep value="行う催し">活動＊</rep>が違<rep value="っている">う</rep>。<cp/>
+　<sperr value="1"/>タイでは４月ごろとても暑いから、この<put value="ように"/><rep value="水をかけ合うのだ。">行事を作った。</rep><better value="(水をかける)">水をかける</better><put value="その"/>目的は生き生き<rep value="として元気になるためである。">にする。</rep>でも、現在*<rep value="で">に</rep>は<put value="水をかけるのは"/>楽しみのために行われ<put value="てい"/>る。<cp/>
+
+<review>段落の始めは□を１つ（２つ×）あけます。</review>
+</comp>

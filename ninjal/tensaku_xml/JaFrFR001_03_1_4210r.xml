@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。会社<better value="など" comment=""/>で<correct comment="">みんなさんは</correct>ワープロソフトで<correct value="書いた" comment="">書く</correct><better value="書類" comment="">しょるい</better>を利用するからです。だから、学校で学生は使い方を習うべきだと思います。 <cp/>
+　<correct comment="">それ</correct>でも、手で漢字を書<correct value="くこと" comment="">き方</correct>も大事です。いつもワープロソフトを<better value="使っていたら" comment="">使えば</better>、<correct value="漢字が覚えらえません" comment="">その方をわすれてなります</correct>から、小学校と中学校<correct value="では" comment="">とき</correct><better value="生徒" comment="">学生</better>は手で<correct value="書くことを" comment="">書き方だけ</correct>習うべきです。その後で、<correct value="ワープロを習えば" comment=""/>高校の学生は手でもワープロソフトでも漢字を書くこと<better value="ができる|ができるようになる" comment="">を知っている</better>はずです。 <cp/>
+　でも、ある人は書かなければ<correct value="習った" comment="">習う</correct>漢字の書き方を<better value="忘れる" comment="">わすれる</better>と言っています。<unclear comment="">ほんとうですが、ワープロソフトを使ったらだいじょうぶで、使わなかったらじしょをえらびます</unclear>。<cp/>
+
+	</essay>
+</composition>

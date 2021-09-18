@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　現在、世界<correct value="で" comment="">中</correct>、コン<correct value="ピ" comment="">プ</correct>ューター使う人が多くなってきました。コン<correct value="ピ" comment="">プ</correct>ューター<unclear comment="には便利なところがたくさんあります。">の便*利所がたくさんです</unclear>。これらの<correct value="中" comment="">内</correct>で、ワープロソフトがとても大切ですが、どんな国でも、ワープロソフトが母語の<unclear comment="理解をむずかしくしています。">全体の流暢に困っています</unclear>。<newparagraph/>例えば、英語のワープ<correct value="ロ" comment="">ル</correct>ソフトは自動的につづりを書き直す「スペルチェック」という<correct value="機能" comment="">特徴</correct>があります。ですから、ワープロを<better value="たくさん" comment="">よく</better>使ったら、だんだん、正しいつづり<correct value="方" comment=""/>が本当に<unclear comment="分からなくなってしまいます">分かる言葉が減少します</unclear>。日本語の<correct value="カタカナ" comment="">仮字</correct>が英語のアルファベットより複雑なので<better comment="">日本では</better>、私に<correct value="は" comment="">とって</correct>、その問題がもっと<correct value="も" comment=""/>大きいです。<newparagraph/><correct value="また、" comment=""/>つづり<correct value="の" comment=""/>問題だけではなく<correct comment="">て</correct>、書く問題で<correct value="も" comment=""/>あります。漢字が読めて意味が分かればいいですが、十分<unclear comment="に理解できません。">ではなくて流暢ではありません</unclear>。日本語ではひらが<correct comment="">か</correct>なのつづりが同じで漢字が違う単語が多いです。ですから、手で書<correct value="か" comment="">き</correct>なければならな<better value="いときは" comment="">かったら</better>、ひらがなばかり<unclear comment="になってしまいます">できることは不十分です</unclear>。<newparagraph/><better comment="">その上、</better>今<correct value="、" comment=""/><correct comment="">や</correct>日本でワープロを使う人は学校で漢字の意味と読むことと書くことを学<correct value="んでいます" comment="">びました</correct>。ですので、ワープロが使<correct value="える人は、" comment="">っても</correct>、<better comment="">この人は</better>書かない人より日本語が<correct value="理解" comment="">了解</correct>できます。<better comment="">二字の漢字が同類だったら、よく識別できます。さらに、</better>日本文化は<correct value="カタカナ" comment="">仮字</correct>に関係します。ワープロ<correct value="で" comment="">が</correct>漢字の大切さを減少させると、日本文化<correct value="の損失になる" comment="">も損害する</correct>と思います。 <cp/>
+　したがって、日本語の<unclear comment="理解を深めること">流暢</unclear>は書<correct value="く" comment="">ける</correct>ことに依存します。<cp/>
+
+	</essay>
+<review comment="漢字の書けない人を増やすワープロには、二面性がある、と言いたかったのでしょうか。利便性をすすめると意味理解を深められなくなる、と言いたかったのでしょうか？ワープロからテーマを努力して広げていると思いました。"/>
+</composition>

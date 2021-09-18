@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。<better value="なぜなら" comment=""/>会社で<better value="は" comment=""/><better value="誰も" comment="">みんな</better><correct comment="">さん</correct><correct value="が" comment="">は</correct>ワープロソフトで書く<better value="書類" comment="">しょるい</better>を利用するからです。だから、<correct value="私は" comment=""/><correct comment="1">学校で</correct>学生は<correct value="学校で" comment="1"/>使い方を習うべきだと思います。 <cp/>
+　<correct value="しかし" comment="">それでも、</correct><better comment="">手で</better>漢字<correct value="の" comment="">を</correct>書き方も大事<better value="だと思います" comment="">です</better>。<better comment="">いつも</better>ワープロソフト<correct value="ばかり" comment=""/>を使<correct value="っていると、" comment="">えば</correct>、<correct value="漢字の書き" comment="">その</correct>方を<better value="忘れ" comment="">わすれ</better><correct value="てしまいます" comment="">てなります</correct>から、小学校と中学校<correct value="では" comment="">とき</correct><better comment="">学生は</better><better comment="">手で</better>書き方だけ<better value="を" comment=""/>習うべき<better value="だと思います。" comment="">です</better>。<correct value="そうすれば、" comment="">その後で</correct>、<better value="高校生になったら" comment="">高校の学生は</better>手でもワープロソフトでも漢字を書くこと<correct value="ができるようになるからです。" comment="">を知っているはずです</correct>。 <cp/>
+　<better value="しかし、" comment="">でも、</better><better value="書かなければ、漢字の書き方を忘れると言う人もいます" comment="">ある人は書かなければ習<correct value="った" comment="">う</correct>漢字の書き方を<better value="忘れる" comment="">わすれる</better>と言っています</better>。<correct value="確かにそうですが、" comment="">ほんとうですが、</correct><unclear comment="">ワープロソフトを使ったらだいじょうぶで、使わなかったら<better value="辞書" comment="">じしょ</better>を<better value="選びます" comment="">えらびます</better>。</unclear><cp/>
+
+	</essay>
+<review comment="最後の文の内容がちょっとわかりません。"/>
+<review comment="「～方」は名詞ですから、「を」ではなく、「の」を使いましょう。ワープロソフト{×を／○の}使い方（名詞）"/>
+<review comment="自分の意見を言いたいときは、「～だと思います」を使いましょう。"/>
+<review comment="「なります」の使い方に注意しましょう。
+「なります」＝変化をあらわす文型
+●寒く（い形容詞）なります。
+●静かに（な形容詞）なります。
+●（日本語が）話せるように（動詞）なります（　ない→　きる！！）
+×てなります　　　
+でも、「忘れる」はもともと変化をあらわす動詞ですから、（覚えている→覚えていない）「忘れるようになった」は言いませんね。"/>
+
+</composition>

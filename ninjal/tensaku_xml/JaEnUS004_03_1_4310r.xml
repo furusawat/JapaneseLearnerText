@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　　<correct value="今日" comment="">きょう</correct>、日本<correct value="では" comment="">に</correct>コンピュータのワープロソフトはありふれたもの<correct value="であ" comment="">にな</correct>る。インターネット、電子メール、けいたい電話など<correct value="の" comment=""/><better value="技術" comment="">ぎじゅつ</better><correct value="により" comment="">で</correct>情報は早く伝<correct value="わ" comment="">え</correct>る。しかし、この<better value="技術" comment="">ぎじゅつ</better>は新しい間題をひき起こした。ワープロソフトは、一方で<correct comment="">は</correct>便*利<correct value="であ" comment="">だ</correct>り、使*いやすい<correct comment="">である</correct>が他方では漢字<correct value="の" comment="">を</correct>書き方<correct value="を" comment="">が</correct>忘<correct comment="">ら</correct>れやすい<correct comment="">だ</correct><better value="ので" comment="">から</better>、日本語の教<correct value="師" comment="">し</correct>は日本語学習にワープロソフトを使わせる<correct value="べき" comment=""/>か<correct value="ど" comment="">と</correct>うか分らない<correct value="という" comment=""/>間題<correct value="が" comment="">で</correct>ある。 <cp/>
+　私<correct value="の" comment="">にとって</correct>先生は、私にワープロソフトを使わせなかったから<better value="、" comment=""/>たくさん<correct value="の" comment=""/>経験<correct value="は" comment="">が</correct>ないが使ったときに便利<correct value="だ" comment=""/>と思った。<better value="辞書" comment="">じしょ</better>で漢字の書き方を<correct comment="">あおぎ</correct>見ないでワープロソフトで作文を書いた。しかし、ふつうの場合は手で日本語の作文と漢字を書いており、漢字の意味、読み方、書き方も覚え<unclear comment="る助けになる">て手伝いた</unclear>と思う。<correct comment="">それ</correct>だから、日本語学習の教育のために教<correct value="師" comment="">し</correct>は生<correct value="徒" comment="">と</correct><correct value="に" comment=""/>ワープロソフトと手で書くこと<correct value="両方の方法により" comment="">とともに</correct>作文を書<correct value="かせれば" comment="">けば</correct>いいと思う。<correct value="それぞれ" comment="">それのはめいめいに</correct><correct value="長所" comment="">び点</correct>と<correct value="短所" comment="">弱点</correct>があるか<unclear comment="ら両方を使った">はい合の</unclear>ほうがいいと思う。<cp/>
+
+	</essay>
+</composition>

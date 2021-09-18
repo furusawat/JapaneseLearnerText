@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　<better comment="">最近日本では、日本語の文章を書く時にコンピュータのワープロソフトを使うことが多くなったと言う作文課題2について述べたいと思う。</better><unclear comment="">一般文字の問題、あるいはコンピュータに対する本の残存物についての議論と同じ議論だと思う</unclear>。技術の進歩や伝達網<correct value="の広がり" comment=""/>を止めること<correct value="はできないし" comment="">ができなく</correct>、手で書かれた文字の放棄<correct value="も" comment="">は</correct>考えられない<correct comment="">ようなことだ</correct>。 <cp/>
+　<unclear comment="">最初に</unclear><correct comment="①">日本語<correct value="の" comment="">について</correct>手書きの文字は、</correct>漢字が筆の線から生れ<correct value="ただけに" comment="">るだけ</correct><correct value="①" comment="①"/><correct comment="">ますます</correct><correct value="重要だ|大切だ" comment="">重大なことだ</correct>。<correct comment="②">書道は日本文化のある基本的な芸術ではないだろうか。</correct>　日本において、手書きの文字の放棄は日本が<correct comment="">極度に</correct>推進<correct value="してきた" comment="">される</correct>書道の死を意味する<correct comment="">　</correct>だろうと思う。<correct value="②" comment="②"/>日本<correct value="人" comment=""/>の心は文字の線の<correct value="細い部分" comment="">細く</correct>と太い部分で<correct value="表わされる" comment="">表われる</correct>。<unclear comment="">線は言葉の意味の伝達手段で、言葉を書くと読者に作家が表現しよう意味を交付する。</unclear> <cp/>
+　文字は言葉の媒体だ。<unclear comment="">手で書かれたことは日本語の知識を得る</unclear>ことにとって不可欠だ。それはすべての言葉に関係がある。紙に手で字を書くことに<unclear comment="">存する練習</unclear>をコンピュータのキー<correct value="で" comment="">の</correct>代りにすることができない。<unclear comment="">それは無知な社会を作ることに身をさらし、人間は熟考の上でコンピュータの言いなりになる</unclear>。<unclear comment="">それでは、情報理論網は伝達手段や知識の取得という間接的な方法で人間の存在を支配下に置く。</unclear>ある芸術をマスターするために一番簡単な手段と練習はしばしば一番有効だ。 <cp/>
+　<correct value="しかし、一方、" comment=""/>もし昨日<correct value="から" comment="">と</correct>今日<correct value="へ" comment=""/>の進歩がなかったなら、明日の進歩<correct value="も" comment="">が</correct>ないだろう。<correct comment="">展開される</correct>知識の連鎖だ。鎖の新しい<better value="一つ" comment="">一環</better><correct value="が" comment="">は</correct>発生<correct value="しても、" comment="">するが、それでも</correct>その前の環はなくなら<correct value="ない" comment="">なかった</correct>。人間関係が複雑になっている社会でコンピュータと万年筆は欠かせない道具だ。<unclear comment="">新しい各進歩は知識機構に置く石のようだと思う。</unclear>技術<correct value="の" comment=""/>進歩は人間<correct value="の" comment=""/>進歩<unclear comment="を助けるもの">の仲介物</unclear>だ<correct comment="">けだ</correct>。<unclear comment="">知識が自由なので技術の支配は自分の生活の支配する効果がある。</unclear> <cp/>
+
+
+	</essay>
+<review comment="「コンピュータのワープロソフトを使うことも手書きもどちらも大切だ」という意見ですか。その意見を読む人に理解しやすくなるように、全体の構成をはっきりさせましょう。"/><review comment="１段落「技術の進歩（ワープロソフトで書けるようになったこと）はとめられないし、手で書かれた文字の放棄も考えられない」ことをはっきり述べる。"/><review comment="２段落「手書き文字の意味」"/><review comment="３段落「コンピュータのワープロソフトが欠かせない理由」"/><review comment="４段落「結論の再確認」"/>
+</composition>

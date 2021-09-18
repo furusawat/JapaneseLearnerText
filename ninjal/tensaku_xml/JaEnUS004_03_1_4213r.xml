@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　　<correct value="こんにち" comment="">きょう</correct>、日本<correct value="で" comment="">に</correct>コンピュータのワープロソフトはありふれたものに<correct value="なった" comment="">なる</correct>。インターネット、電子メール、けいたい電話などぎじゅつで情報は早く伝え<correct value="られる" comment="">る</correct>。しかし、このぎじゅつは新しい間題をひき起こした。ワープロソフトは、一方では便*利<correct value="で" comment="">だり</correct>、使*いやすい<correct comment="">である</correct>が<correct value="、" comment=""/>他方では漢字を<better comment="">書き方が</better>忘<correct comment="">ら</correct>れやすい<correct value="。" comment=""/>だから、日本語の<unclear comment="">教し</unclear>は日本語学習にワープロソフトを使わせるか<correct value="ど" comment="">と</correct>うか分らない間題である。 <cp/>
+　私にとって先生は、私にワープロソフトを使わせなかったから<correct value="、" comment=""/>たくさん経験がないが<correct value="、" comment=""/>使ったときに便利<correct value="だ" comment=""/>と思った。じしょで漢字の書き方を<unclear comment="">あおぎ見ないで</unclear>ワープロソフトで作文を書いた。しかし、ふつうの場合は手で日本語の作文と漢字を書いており、漢字の意味、読み方、書き方も覚えて<better value="役に立っている" comment="">手伝いた</better>と思う。それだから、日本語学習の教育のために<unclear comment="">教し</unclear>は<unclear comment="">生と</unclear>ワープロソフトと手で<correct comment="">書くこととともに</correct>作文を書けばいいと思う。それのはめいめいに<better value="美" comment="">び</better>点と弱点がある<unclear comment="">かはい合</unclear>のほうがいいと思う。<cp/>
+
+	</essay>
+<review comment="手書きとワープロソフト、どちらもよいところがあるから、両方とも使って書いたほうがいいという意見ですね。（波線）のところは、意味がわかりにくいので、他の表現に直したほうがいいです。"/>
+</composition>

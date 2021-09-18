@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　世界<rep value="に">で</rep>は、いろいろなお祭りがあります。例<put value="え"/><rep value="ば">は</rep>ハリラヤとか、中国<put value="のお"/>正月とか、デーパバリなどがあります。マレーシ<rep value="ア">ヤ</rep>で<put value="は"/>、<rep value="マ">ア</rep>レー人はハリラヤ<del>をおいわいして</del>、中国人<rep value="は">が</rep>中国正月<del>をおいわいして</del>、インド<rep value="人は">が</rep>デーパバリをおいわいします。<cp/>
+　中国正月の一週間前に、<del>大勢の</del>中国人<rep value="は">が</rep>いろいろな食<put value="べ"/>物とか、服<del>装</del>とか、かざりなどを買います。正月が近くなると、家をそうじし<rep value="たり">て</rep>、かざっ<rep value="たりします。">て、</rep>一番大切<put value="な"/>の<rep value="は">が</rep>戸に<moveto id="1"/>赤<put value="い"/><rep value="紙">紙*</rep><movefrom id="1">「福」<put value="と書いた"/></movefrom>をは<rep value="ることで">っていま</rep>す。<put value="そして"/>おかしとか、新<put value="しい"/>服とか、飲み物などを準備し<rep value="ます">ている</rep>。<cp/>
+　中国正月<put value="の"/>朝<del>時</del>、祖父<del>で</del>、祖母<del>で</del>、両<rep value="親がお互いに">視と間違うことを</rep>謝ま<rep value="り">ってもらい</rep>ます。祖父<del>で</del>、祖母<del>で</del>、両<rep value="親">視</rep>からお金<rep value="の入った">があるの</rep><better value="お年玉">小紅包</better>を<rep value="もらい">いただき</rep>ます。結婚した<del>の大</del>人は<del>自分の</del>子供<rep value="達に">と他人の子供を</rep>小紅包を<del>さし</del>あげます。<cp/>
+　午後<del>の時</del>、<rep value="知り合い">他の人</rep>の家へ行って、一緒に御飯を食べたり、<rep value="話を">相談</rep>したり、じょうだ<put value="んをいいあったり"/>します。とても楽しくてたま<rep value="りません">らない</rep>。ときどき、家族と一緒にトランプで遊ん<rep value="だりし">でい</rep>ます。<cp/>
+　夜<del>の時</del>、はなび<rep value="や">で</rep>、爆竹で遊<rep value="び">んでい</rep>ます。とても面白<del>ろ</del>くてたま<rep value="りません">らない</rep>。その後<del>で</del>、<rep value="みんなで">大家庭の家族と</rep>一緒に御飯を食べ<rep value="ま">るはずで</rep>す。<cp/>
+　さいごは家族みんなで、お酒を飲んだり、<rep value="話し合っ">相談し</rep>たり、夜遅くまで、寝ないで、遊<rep value="び">んでい</rep>ます。久しぶり<rep value="に">の</rep>家族と一緒にお酒を飲<rep value="むの">ん</rep>で、よっぱらって<rep value="し">い</rep>まいます。
+</comp>

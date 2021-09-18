@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。会社でみんなさん<correct value="が" comment="">は</correct>ワープロソフトで書<correct value="いた" comment="">く</correct><better value="書類" comment="">しょるい</better>を利用するからです。<correct value="ですから" comment="">だから</correct>、学校で学生は使い方を習うべきだと思います。 <cp/>
+　<correct value="けれども" comment="">それでも</correct>、手で漢字を<correct value="書くこと" comment="">書き方</correct>も大事です。いつもワープロソフトを使えば、<correct value="漢字の書き方" comment="">その方</correct>をわすれて<correct value="しまい" comment="">なり</correct>ますから、小学校と中学校<correct value="では" comment="">とき</correct>学生<correct value="に" comment="">は</correct>手で<correct value="書くことを" comment="">書き方だけ</correct><correct value="教える" comment="">習う</correct>べきです。<correct value="そうすれば" comment="">その後で</correct>、高校の学生は手でもワープロソフトでも漢字を書くこと<correct value="ができるようになる" comment="">を知っている</correct>はずです。 <cp/>
+　でも、ある人は書かなければ<correct value="習った" comment="">習う</correct>漢字の書き方をわすれると言っています。<correct value="それは" comment=""/>ほんとうですが、ワープロソフトを使ったらだいじょうぶで、使わな<correct value="いときは" comment="">かったら</correct>じしょ<correct value="で調[しら]べます" comment="">をえらびます</correct>。<cp/>
+
+	</essay>
+<review comment="○○さんの意見がよくわかります。"/>
+<review comment="最後の文は、「～、使わないときは辞書で調べればいいと思います」と書いてもいいです。"/>
+</composition>

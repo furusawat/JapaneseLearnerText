@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　今、日本<put value="だけ"/>ではなく、中国で<rep value="も">は</rep>たばこのこと<rep value="は">も</rep>問題になる。<cp/>
+　歴史<better value="">について</better>の資料によ<rep value="ると">って</rep>、たばこを吸<rep value="う">った</rep>ことは明時代から始まったそうだ。最初*、人<rep value="々">人</rep>はたばこを吸<rep value="っ">う</rep>たら、体を調節できると<rep value="思っていた">思う</rep>。恐らくこれ<rep value="が">は</rep>たばこが作られた原因だろう。<cp/>
+　しかし、<moveto id="1"/>人<rep value="々">人</rep>は<movefrom id="1">最近</movefrom>健康意識を増強*する<rep value="につれて">とともに</rep>、たばこは人間に損害があるという点に気がついた。そして、たばこを吸った人よりもその<doubt value="？けむり">はたけ</doubt>を吸わされた人の方が損害を受けがちな<rep value="ことにも気がついた">ものだ</rep>。それ<rep value="がわかっても">にしても</rep>、ある人たちはたばこを吸い続ける。彼<rep value="ら">たち</rep>はたばこを吸う損害がわか<rep value="っている">る</rep>のに、公共の場所でたばこを吸う。それは<remark value="何がすごいのですか？">すごい</remark>。<cp/>
+　私は<del>やく</del>中学二年生になった<put value="くらいの"/>時に、たばこを吸い始めた。<rep value="その">と言う</rep><rep value="理由">原因</rep>はおとなの生活<put value="へ"/>の憧れと好奇心からだ。<better value="">そうして</better>、いつもクラスメートとたばこを吸った。<newp/>最近、「会社やレストラン、バスや電車などの公共の場所ではたばこを吸えない」と言う規則が見<rep value="られ">え</rep>る同時に、たばこを吸わないよう<rep value="に">な</rep>宣伝が始まる。それによ<rep value="ると">って</rep>、たばこを吸う<rep value="と">なら</rep>、癌<rep value="が">を</rep>起り<rep value="やすい">がちだ</rep>そうだ。<cp/>
+　<better value="">生</better>命はきれいで、ありがた<rep value="い">く</rep><put value="ものでは"/>ないか。だから悪い習慣を<rep value="改">矯</rep>めなければならない。たばこがその一部分だ。もし、個<put value="的"/>人な悪い習慣を保つために、<better value="">生</better>命のようなあ<better value="り">り</better>がたいもの<rep value="を">さえ</rep>失う<put value="のな"/><del>た</del>ら、ばかではないか。<cp/>
+
+<review>☆間違えたり、何か付け加えたりするときは消しゴムで消してから、書き直してください。
+☆「て■」「は■」（濁点が上下につなげて打ってある）などの「゛」濁点ははなして「゛」か続ける場合でも縦に「■」（濁点が左右につなげて打ってある）としてください。</review>
+
+</comp>

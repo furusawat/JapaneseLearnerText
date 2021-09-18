@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　　<correct value="今日[こんにち]" comment="">きょう</correct>、日本<correct value="で" comment="">に</correct>コンピュータのワープロソフトはありふれたものにな<correct value="った" comment="">る</correct>。インターネット、電子メール、けいたい電話など<correct value="の" comment=""/><better value="技術" comment="">ぎじゅつ</better>で情報は早く伝<correct value="わる" comment="">える</correct>。しかし、この<better value="技術" comment="">ぎじゅつ</better>は新しい<correct value="問題" comment="">間題</correct>をひき起こした。ワープロソフトは、一方では便*利<correct value="で" comment="">だり</correct>、使*いやすい<correct comment="">である</correct>が<correct value="、" comment=""/>他方では漢字<correct value="の" comment="">を</correct>書き方<correct value="を" comment="">が</correct>忘られやすい<correct value="ため" comment="">だから</correct>、<better value="日本語教師" comment="">日本語の教し</better>は日本語学習にワープロソフトを使わせるか<correct value="ど" comment="">と</correct>うか分らない<correct value="問題" comment="">間題</correct>である<correct value="と思っている。|と言っている。" comment="あなたの意見ではありませんね。"/>。 <cp/>
+　私<correct value="の" comment="">にとって</correct>先生は、私にワープロソフトを使わせなかった<correct value="ので、" comment="">から</correct><better value="あまり" comment="">たくさん</better>経験がないが使ったときに<correct value="は" comment=""/>便利<better value="だ" comment=""/>と思った。<better value="辞書" comment="">じしょ</better>で漢字の書き方を<unclear comment="">あおぎ見ないで</unclear>ワープロソフトで作文を書いた。しかし、<better value="普通" comment="">ふつう</better><better comment="">の場合</better>は手で日本語の作文と漢字を書<unclear comment="今、あなたは手書きで書いていますか。">いており</unclear>、漢字の意味、読み方、書き方も覚えて<unclear comment="おきたい">手伝いた</unclear>と思う。<correct value="そのため、" comment="">それだから</correct>、日本語学習の教育のために<correct value="は、" comment=""/><better value="教師" comment="">教し</better>は<better value="生徒" comment="">生と</better><correct value="に" comment=""/>ワープロソフトと<correct value="②" comment="②"/>手で<correct comment="">書くことと</correct><correct comment="②">ともに</correct>作文を書<correct value="かせれ" comment="">け</correct>ばいいと思う。それ<correct comment="">の</correct>は<correct value="、" comment=""/><correct value="それぞれ" comment="">めいめい</correct>に<better value="長所と短所" comment=""><better value="美" comment="">び</better>点と<correct value="欠" comment="">弱</correct>点</better>がある<correct value="ので" comment="">か</correct><correct value="合わせた" comment="">はい合の</correct>ほうがいいと思う<better value="からである" comment=""/>。<cp/>
+
+	</essay>
+<review comment="2段落目をもう少しまとめましょう。"/>
+<review comment="自分の経験と意見がかけていますね。"/>
+</composition>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　最近日本では、日本語の文章を書く時にコンピュータのワープロソフトを使うことが多くなったと言う作文課題2について述べたいと思う。<newparagraph/><unclear comment="">一般文字の問題</unclear>、あるいはコンピュータに対する本の<unclear comment="">残存物</unclear>についての議論と同じ議論だと思う。<correct value="手で書かれた文字放棄は" comment="1"/>技術の進歩や<unclear comment="">伝達網を止める</unclear>ことができなく、<correct comment="1">手で書かれた文字<correct comment="">の</correct>放棄は</correct>考えられないようなことだ。 <cp/>
+　最初に日本語<correct value="の" comment="">について</correct>手書きの文字は、漢字が筆の線から生れるだけ<correct value="に" comment=""/><correct comment="">ますます</correct>重大なことだ。<correct comment="2">書道は日本文化のある基本的な芸術ではないだろうか。</correct>　日本において、手書きの文字の放棄は日本<correct value="で" comment="">が</correct>極度に<correct value="進む" comment="">推進される</correct>書道の死を意味する<correct comment="">　</correct>だろうと思う。<correct value="書道は日本文化のある基本的な芸術ではないだろうか。" comment="2"/>日本の心は文字の線の細<correct value="い部分" comment=""/><correct comment="">く</correct>と太い部分で表われる。線は言葉の意味の伝達手段で、言葉を書く<correct value="時" comment="">と</correct><correct value="作家が読者に" comment="">読者に作家が</correct>表現しよう<correct value="とする" comment=""/>意味を<unclear comment="表わす">交付する</unclear>。 <cp/>
+　文字は言葉の媒体<correct value="の一つ" comment=""/>だ。手で書かれたことは日本語の知識を得ることにとって不可欠だ。それはすべての言葉に関係がある。<newparagraph/>紙に手で字を書くことに<correct value="依" comment=""/>存する練習をコンピュータのキー<correct value="で" comment="">の</correct>代りにすることができない。それは無知な社会を作ることに<unclear comment="">身をさらし</unclear>、人間は熟考の<unclear comment="後">上</unclear>でコンピュータの言いなりになる。<correct value="それで" comment="">それでは</correct>、<unclear comment="">情報理論網は伝達手段や知識の取得という間接的な方法で人間の存在を支配下に置く</unclear>。ある芸術をマスターするために一番簡単な手段と練習はしばしば一番有効だ。 <cp/>
+　もし昨日と今日の進歩がなかったなら、明日の進歩がないだろう。展開される知識の連鎖だ。<correct value="例えば" comment=""/>鎖の新しい<unclear comment="">一環</unclear>は発生するが、それでもその前の環はなくならなかった。人間関係が複雑になっている社会でコンピュータと万年筆は欠かせない道具だ。新しい<correct comment="">各</correct>進歩は知識<unclear comment="">機構に置く石のようだ</unclear>と思う。技術進歩は<unclear comment="">人間進歩の仲介物だけ</unclear>だ。知識が自由なので技術の支配は自分の生活<correct value="を" comment="">の</correct>支配する効果がある。 <cp/>
+
+	</essay>
+<review comment="手で書くことは「日本文化のある基本的な芸術」それと、ワープロソフトを使うことが多くなったこととの関係をあなたがどう思っているのかちょっと分かりにくかったです。"/>
+<review comment="言いたいことがたくさんあるのがよくわかりました。書く前に自分が何を一番書きたいかよく考えてみましょう。友達とこのテーマについて話すこともいいと思います"/>
+</composition>

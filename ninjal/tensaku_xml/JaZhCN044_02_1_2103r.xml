@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　今、日本<put value="だけ"/>ではなく、中国で<rep value="も">は</rep>たばこのこと<rep value="が">も</rep>問題に<rep value="なっている">なる</rep>。<cp/>
+　歴史についての資料に<rep value="よると">よって</rep>、たばこを吸<rep value="う">った</rep>ことは明時代から始まったそうだ。最初*、<remark value="kanji"><better value="人々">人人</better></remark>はたばこを吸う<rep value="と">たら</rep>、体<rep value="が">を</rep>調節できると<rep value="思ったらしい">思う</rep>。恐らくこれ<rep value="が">は</rep>たばこが作られた<doubt value="？理由">原因</doubt>だろう。<cp/>
+　しかし、<movefrom id="1"><rep value="人々の">人人</rep></movefrom><del>は</del>最近<moveto id="1"/>健康意識<rep value="が">を</rep><rep value="高まる">増強*する</rep>とともに、<put value="人々は"/>たばこは人間に<better value="害">損害</better>があるという点に気がつ<rep value="き始めた">いた</rep>。そして、たばこを吸った人よりもその<doubt value="？">はたけ</doubt>を吸わされた人の方が<better value="">損</better>害を受けがちな<rep value="ことも、わかってきた">ものだ</rep>。それにしても、<rep value="多くの">ある</rep>人たちはたばこを吸い続ける。<del>彼たちは</del>たばこを吸う<better value="">損</better>害がわかるのに、公共の場所でたばこを吸う。それは<doubt value="どういう意味ですか。”ひどい”という気持ち？”あきれてしまう”という気持ち？">すごい</doubt>。<cp/>
+　私は<note value="この「やく」を削除したところから、「時/（ベター表現の）ころ」のところへ矢印がひかれている"><del>やく</del></note>中学二年生になった<better value="ころ">時</better>に、たばこを吸い始めた。<rep value="その">と言う</rep>原因はおとなの生活<put value="へ"/>の憧れと好奇心からだ。そうして、いつもクラスメートとたばこを吸った。最近、<note value="かぎかっこのつけ方の誤りを指摘して、前のマスに書くように矢印で指示している">「</note>会社やレストラン、バスや電車などの公共の場所ではたばこを吸えない<note value="かぎかっこのつけ方の誤りを指摘して、後ろのマスに書くように矢印で指示している">」</note>と言う規則が<rep value="できた">見える</rep><put value="と"/>同時に、たばこを吸わないような宣伝が始ま<rep value="った">る</rep>。<doubt value="？その宣伝によると？？">それによって</doubt>、たばこを吸う<rep value="と">なら</rep>、癌<rep value="に">を</rep><rep value="なりやすい">起りがちだ</rep>そうだ。<cp/>
+　生命はきれいで、ありがた<rep value="い">く</rep><put value="ものでは"/>ないか。だから悪い習慣を<rep value="や">矯</rep>めなければならない。たばこがその<rep value="ひとつ">一部分</rep>だ。もし、個人<rep value="の">な</rep>悪い習慣を<rep value="続けた">保つ</rep>ために、生命のようなあ<note value="学習者の表記が、「い」か「り」か判別が難しい。"><doubt value="？り">り</doubt></note>がたいものさえ失<rep value="っ">う</rep>たら、<rep value="ばかばかしい">ばか</rep>ではないか。<cp/>
+
+</comp>

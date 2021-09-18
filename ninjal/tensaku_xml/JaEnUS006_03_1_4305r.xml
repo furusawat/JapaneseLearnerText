@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　現在、世界中<better value="で" comment=""/>、コン<correct value="ピ" comment="">プ</correct>ューター<correct value="を" comment=""/>使う人が多くなってきました。コン<correct value="ピ" comment="">プ</correct>ューターの<better value="利点は" comment="">便*利所が</better>たくさん<better value="あります" comment="">です</better>。これらの内で、ワープロソフトがとても大切ですが、どんな国でも、ワープロソフトが<unclear comment="">母語の全体の流暢に</unclear>困っています。例えば、英語のワープ<correct value="ロ" comment="">ル</correct>ソフトは自動的につづりを書き直す「スペルチェック」という特徴があります。ですから、ワープロをよく使ったら、だんだん、正しいつづりが本当に分かる言葉が減少します。日本語の仮字が英語のアルファベットより複雑なので日本では、私にとって、その問題がもっと大きいです。つづり問題だけではなくて、書く問題<better value="も" comment="">で</better>あります。漢字が読めて意味が分かればいいですが、十分ではなくて流暢ではありません。日本語ではひらが<correct comment="">か</correct>なのつづりが同じで漢字が違う単語が多いです。ですから、手で書<correct value="か" comment="">き</correct>なければならなかったら、ひらがなばかりできること<correct value="で" comment=""/>は不十分です。その上、今や日本でワープロを使う人は学校で漢字の意味と読むことと書くことを学びました。<unclear comment="">ですので、ワープロが使っても、この人は書かない人より日本語が了解できます。</unclear>二字の漢字が<unclear comment="">同類</unclear>だったら、よく識別できます。さらに、日本文化は仮<correct value="名文" comment=""/>字に関係します。ワープロが漢字の大切さを減少させると、日本文化も損<better value="なわれる" comment="">害する</better>と思います。 <cp/>
+　したがって、日本語の流暢<correct value="さ" comment=""/>は書けることに依存します。<cp/>
+
+	</essay>
+<review comment="日本文化が仮名文字に関係していることと、ワープロが漢字の大切さを減少させることと、日本文化が損なわれることとの関連がわかりにくいです。"/>
+</composition>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　今、日本<correct value="だけ" comment=""/>ではなく、中国で<correct value="も" comment=""/><correct comment="">は</correct>たばこのこと<correct value="は" comment="">も</correct>問題にな<correct value="っている" comment="">る</correct>。<cp/>
+　<better value="歴史的な" comment="">歴史についての</better>資料に<correct value="よると" comment="">よって</correct>、たばこを<correct value="吸う" comment="">吸った</correct>ことは明時代<better value="に" comment="">から</better>始まったそうだ。最初*、人<correct value="々" comment="">人</correct>はたばこを吸<correct value="っ" comment="">う</correct>たら、体を調節できると思<correct value="っていた" comment="">う</correct>。恐らく<correct value="、" comment=""/>これ<correct value="が" comment="">は</correct>たばこが作られた<better value="理由|要因" comment="（どうして？～から）の意味|原因⇔結果">原因</better>だろう。<cp/>
+　しかし、人<correct value="々" comment="">人</correct>は最近健康意識を<correct value="高める" comment="">増強*する</correct>とともに、たばこは人間に<better value="害" comment="">損害</better>があるという点に気がつ<correct value="くようになってきた|なった" comment="変化！">いた</correct>。そして、たばこを吸った人よりもその<unclear comment="吐いた煙？">はたけ</unclear>を吸わされた人の方が損害を受け<correct value="やすいものだ。" comment="自分がすること（～がち）">がちなもの</correct>だ。<newparagraph/>それにしても、ある人たちはたばこを吸い続ける。彼<correct value="ら" comment="">たち</correct>はたばこを吸う<better value="害" comment="">損害</better>がわかるのに、公共の場所でたばこを吸う。<better value="全く驚かされる　etc." comment="">それはすごい</better>。<cp/>
+　私は<correct comment="">やく</correct>中学二年生になった<correct value="頃" comment="約の意味">時</correct>に、たばこを吸い始めた。<correct value="その" comment="">と言う</correct>原因はおとなの生活<correct value="へ" comment=""/>の憧れと好奇心からだ<correct value="った" comment=""/>。そうして、<better value="" comment="これについてはどう思いますか？">いつもクラスメートとたばこを吸った</better>。<newparagraph/>最近、｢会社やレストラン、バスや電車などの公共の場所ではたばこを<better value="吸ってはいけない" comment="">吸えない</better>｣と<better value="い" comment="">言</better>う規則が見<correct value="られ、" comment="">える</correct><correct comment="">同時に</correct>、たばこを吸わないよう<correct value="にと、" comment="">な</correct>宣伝が始ま<correct value="った" comment="">る</correct>。それによって、たばこを吸うなら、<unclear comment="">癌を起りがちだそうだ</unclear>。<cp/>
+　生命はきれいで、ありがた<correct value="いものでは" comment="">く</correct>ないか。だから悪い習慣を<better value="" comment="">矯め</better>なければならない。たばこがその<correct value="一つ" comment="">一部分</correct>だ。もし、個人<correct value="的" comment=""/>な悪い習慣を保つために、生命のようなありがたいものさえ失<correct value="っ" comment="">う</correct>たら、<better value="愚か" comment="">ばか</better>ではないか。<cp/>
+
+	</essay>
+<review comment="中学二年生のときにたばこを吸ったことについてどう思いますか。同じように、若者がたばこを吸っていますが、どう思いますか。"/>
+</composition>

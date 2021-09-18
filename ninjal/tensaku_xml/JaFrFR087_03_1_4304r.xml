@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　<correct value="「" comment=""/>最近日本では、日本語の文章を書く時にコンピュータのワープロソフトを使うことが多くなった<correct value="」" comment=""/>と言う<correct value="課題作文" comment="">作文課題</correct>2について述べたいと思う。一般文字の問題、あるいはコンピュータに対する本の<unclear comment="">残存物</unclear>についての議論と同じ<better value="もの" comment="">議論</better>だと思う。技術の進歩や<unclear comment="何の伝達網ですか？情報？">伝達網</unclear>を止めることができな<correct value="いように" comment="">く</correct>、<better value="手書きの" comment="">手で書かれた</better>文字の放棄は考えられない<correct comment="">ような</correct>ことだ。 <cp/>
+　<better value="始め（ママ）" comment="">最初</better>に日本語に<correct value="おいて" comment="">ついて</correct>手書きの文字は、漢字が筆の線から生れ<correct value="た" comment="">る</correct>だけ<correct value="に" comment=""/>ますます重大なことだ。書道は日本文化の<better comment="">ある</better><better value="一つの" comment=""/>基本的な芸術ではないだろうか。　日本において、手書きの文字の放棄は<correct value="、" comment=""/>日本が<better value="大いに" comment="">極度に</better>推進<correct value="する" comment="">される</correct>書道の死を意味する<better comment="">　だろう</better>と思う。<unclear comment="日本人の心">日本の心</unclear>は文字の線の細<correct comment="">く</correct><correct value="い部分" comment=""/>と太い部分で表わ<correct value="される|れる" comment="この文の主語は何ですか。">れる</correct>。線は言葉の意味の伝達手段で<better value="あり" comment=""/>、言葉を書くと読者に作家が表現しよう<better value="とする" comment=""/>意味<correct value="が伝わる" comment="">を交付する</correct>。 <cp/>
+　<better value="次に" comment=""/>文字は言葉の媒体だ。手で書<correct value="く" comment="">かれた</correct>ことは日本語の知識を得る<correct value="ために" comment="">ことにとって</correct>不可欠だ。それはすべての言葉に関係がある。紙に手で字を書くことに<correct value="あたる" comment="">存する</correct>練習をコンピュータのキー<correct value="で" comment="">の</correct>代りにすること<correct value="は" comment="">が</correct>できない。それは無知な社会を作ることに身をさらし、人間は<unclear comment="">熟考の上で</unclear>コンピュータの言いなりになる。<correct value="そうすると" comment="">それでは</correct>、情報理論網は伝達手段や知識の取得という間接的な方法で人間の存在を支配下に置く。ある芸術をマスターするために<correct value="は" comment=""/>一番簡単な手段<correct value="の" comment="">と</correct>練習は<correct value="、" comment=""/>しばしば一番有効だ。 <cp/>
+　もし昨日と今日の進歩がなかったなら、明日の進歩<correct value="も" comment="">が</correct>ないだろう。展開される知識の連鎖<better value="にすぎない" comment="">だ</better>。<unclear comment="この文の例えはわかりにくいです。">鎖の新しい一環は発生するが、それでもその前の環はなくならなかった</unclear>。人間関係が複雑になっている社会でコンピュータと<better value="" comment="なぜ万年筆ですか。">万年筆</better>は欠かせない道具だ。新しい各進歩は<unclear comment="">知識<correct value="構造" comment="">機構</correct>に置く石</unclear>のようだと思う。技術進歩は人間進歩の仲介物<better value="にすぎない" comment="">だけだ</better>。<unclear comment="">知識が自由なので</unclear>技術の支配は自分<correct value="達" comment=""/>の生活<correct value="を" comment="">の</correct>支配する効果がある。 <cp/>
+
+	</essay>
+<review comment="第3段落目の文章について：文の根拠は何ですか。"/>
+<review comment="各段落の出出しは統一しましょう。各段落のつながりがよくわかりません。始めに→次に→最後に"/>
+<review comment="あなたが1番言いたいことは何ですか。"/>
+<review comment="擬人法(人以外を主語にすること）を使うときには、文のつながりをよく確認しましょう。"/>
+</composition>

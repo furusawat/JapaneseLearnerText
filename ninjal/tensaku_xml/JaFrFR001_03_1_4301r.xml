@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。会社でみんなさんはワープロソフトで書<correct value="いた書類" comment="">くしょるい</correct>を利用するからです。だから、学校で学生は<better value="ワープロソフトの" comment=""/>使い方を習うべきだと思います。 <cp/>
+　それでも、手で漢字を書<correct value="く" comment="">き</correct>方<correct value="法" comment=""/>も大事です。いつもワープロソフトを使<better value="うと" comment="">えば</better>、その方<correct value="法" comment=""/>を<better value="忘" comment="">わす</better>れ<correct comment="">てなり</correct>ますから、小学校と中学校<correct value="では" comment="">とき</correct><better value="生徒" comment="小・中高の場合、普通学生とは言いません。">学生</better>は手で書<correct value="く" comment="">き</correct>方<correct value="法" comment=""/>だけ<better value="を" comment=""/>習うべきです。その後で、高校の<better value="生徒" comment="">学生</better>は手でもワープロソフトでも漢字を書くことを<unclear comment="習うべき">知っているはず</unclear>です。 <cp/>
+　でも、ある人は書かなければ習<correct value="った" comment="">う</correct>漢字の書き方を<better value="忘" comment="">わす</better>れると言っています。<better value="それは" comment=""/><better value="本当" comment="">ほんとう</better>ですが、ワープロソフトを使<better value="うときは" comment="">ったら</better><better value="それでも" comment=""/><better value="大丈夫" comment="">だいじょうぶ</better>で、使わな<better value="いときは" comment="">かったら</better><better value="辞書" comment="">じしょ</better>を<unclear comment="ひけばよいと思います">えらびます</unclear>。<cp/>
+
+	</essay>
+</composition>

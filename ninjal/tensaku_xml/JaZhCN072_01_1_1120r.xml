@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+春　■<cp/>
+<note value="2マス空けてあるので、段落の頭は１マスだけ空けて書くようにとの指示がある">　　</note>中国では、<better value="旧">農</better>歴の一月一日は春■です。それは中国の一番重要な<better value="まつり">きせつ</better>です。<cp/>
+<note value="2マス空けてあるので、段落の頭は１マスだけ空けて書くようにとの指示がある">　　</note>春■のまえに<del>だんだんぜんぶの</del>ひとびとは<put value="みんな"/>うちへ帰<put value="っ"/>て<rep value="一緒に">きせつを</rep>過ごし<del>てい</del>ます。<cp/><runon/>
+　　その時、<del>毎日</del>ひとびとは<moveto id="1"/><put value="毎日"/>たいへんいそがし<rep value="いです">くて</rep><movefrom id="1">春■を準び<put value="で"/></movefrom><del>しています</del>。<cp/><runon/>
+　　ぼくはちちとい<put value="っ"/><note value="1マスの中に拗音を書いたので、四角で囲んである">しょ</note><del>う</del>に部屋を大掃じします。へやはとてもきれいになります。はははスーパ<put value="ー"/>へ行<put value="っ"/>て色色なもの<put value="を"/><rep value="か">カ</rep>います。にくや魚や野菜な<rep value="ど">と</rep><rep value="です">あります</rep>。それからおいしい<rep value="料理">たべ物</rep>を作ります。ぼくも父もははの作<put value="っ"/>たものが大すきです。<rep value="そしてまた">そのうえ</rep><rep value="春節">きせつ</rep>のまえに<rep value="ぼ">ほ</rep>くはいつも友達とい<put value="っ"/><note value="1マスの中に拗音を書いたので、四角で囲んである">しょ</note><del>う</del>にマーケットへ新しいふく<del>そう</del>を買いに行きます。<rep value="ぼ">ほ</rep>くたちはすきなふく<del>そう</del>を選びます。<cp/>
+<note value="2マス空けてあるので、段落の頭は１マスだけ空けて書くようにとの指示がある">　　</note>十二月三十一日は<better value="大晦日">除夕</better>です。<rep value="そ">あ</rep>の日の夜<del>に</del>はぼくは両親とい<put value="っ"/><note value="1マスの中に拗音を書いたので、四角で囲んである">しょ</note><del>う</del>に自<rep value="分">分＊</rep>で作<put value="っ"/>た<note value="1マスの中に拗音を書いたので、四角で囲んである">ギョ</note>ーザをたべておさけをのんでテレビを見ます。<rep value="そ">あ</rep>の時ぼくはとてもたのしいです。<cp/>
+
+<review>☆いっしょ(しょ−2マス使う)</review>
+
+</comp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　最近日本では、日本語の文章を書く時にコンピュータのワープロソフトを使うことが多くなった<better comment="">と言う作文課題2について述べたいと思う</better>。<unclear comment="">一般文字</unclear>の問題、あるいはコンピュータに対する<unclear comment="批判">本の残存物についての議論</unclear>と同じ<better comment="">議論</better>だと思う。技術の進歩や伝達網を止めることができなく<correct value="なり" comment=""/>、手で書かれた文字の放棄は考えられない<better value="という" comment="">ような</better>ことだ。 <cp/>
+　<better value="まず" comment="">最初に</better>日本語<unclear comment="の場合">について</unclear>手書きの文字は、漢字が筆の線<unclear comment="非常に重要">から生れるだけますます重大</unclear>なことだ。書道は日本文化のある基本的な芸術ではないだろうか。<better comment="">　</better>日本において、手書きの文字の放棄は日本が極度に推進<correct value="する" comment="">される</correct>書道の死を意味する<better comment="">　だろう</better>と思う。日本の心は文字の線の細<correct value="さ" comment="">く</correct>と太い部分で表<correct value="わされる" comment="">われる</correct>。線は言葉の意味の伝達手段で、言葉を<correct value="書いて" comment="">書くと</correct>読者に<better comment="">作家が</better>表現しよう<correct value="とする" comment=""/>意味を<unclear comment="提示">交付</unclear>する。 <cp/>
+　文字は言葉の媒体だ。<unclear comment="手書きの文字を理解すること">手で書かれたこと</unclear>は日本語の知識を得ることにとって不可欠だ。それはすべての言葉に関係がある。紙に手で字を書く<better comment="">ことに存する</better>練習をコンピュータ<better comment="">のキー</better><correct value="が" comment="">の</correct>代りにすること<better value="は" comment="">が</better>できない。それは無知な社会を作ることに身をさらし、人間は熟考の上でコンピュータの言いなりになる。それでは、<unclear comment="コンピューター社会">情報理論網</unclear>は伝達手段や知識の取得という間接的な方法で人間の存在を<unclear comment="コンピューターの">支配下</unclear>に置く<better value="ことになる" comment=""/>。<better comment="">ある</better>芸術をマスターするために<better value="は" comment=""/>一番簡単な手段と練習<better value="が" comment="">は</better>しばしば一番有効だ。 <cp/>
+　もし<better comment="">昨日と</better>今日の進歩がなかったなら、明日の進歩がないだろう。<unclear comment="既にある知識も新しい知識も鎖のように１つにつながっているという意味？">展開される知識の連鎖だ。鎖の新しい一環は発生するが、それでもその前の環はなくならなかった。</unclear>人間関係が複雑になっている社会でコンピュータと万年筆は欠かせない道具だ。新しい各進歩は<unclear comment="">知識機構に置く石の</unclear>ようだと思う。<unclear comment="">技術進歩は人間進歩の仲介物だ</unclear>けだ。<unclear comment="">知識が自由なので技術の支配は自分の生活の支配する効果がある。</unclear> <cp/>
+
+	</essay>
+<review comment="最後の段落で、一番いいたい文はどれか？また、それを説明している文はどれか？をはっきりさせること"/>
+<review comment="例をあげるときはもっと具体的に説明すること　exコンピューターと万年筆は欠かせない道具、新しい各進歩は知識機構に置く石（～最後の段落より～）"/>
+<review comment="文章中の段落の役割をはっきりさせること　ex意見の段落、例示の段落、まとめの段落"/>
+</composition>

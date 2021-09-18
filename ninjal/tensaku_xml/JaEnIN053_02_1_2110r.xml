@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+<sperr value="0"/>十<rep value="年">年＊間</rep>前<rep value="まで、">に</rep>タバコを吸<rep value="うこと">いのくせ</rep>は<better value="かっこいい">せんれんされている</better><rep value="ことだと">活動を</rep>考えられていました<remark value="句点は1マス使いましょう">。</remark><rep value="それは">このくせは</rep><movefrom id="1">せんでん</movefrom><del>から</del>いい物のように<moveto id="1"/><del>ふきょう</del>され<rep value="たからです。">ました</rep><remark value="1マス使いましょう">。</remark>ほとんど<del>う</del>の人<del>々</del>は<del>彼らの</del>モデル<rep value="のタバコの吸い方を真似しました。">を見るとこのくせを取り上がりました</rep><note value="下線が引いてある">。</note><better value="映画">えいが</better>の主人公もタバコを吸<rep value="っているので、">いて</rep>、<doubt value="？">何*をほしいをもらいから</doubt>大勢の人々が<put value="それをまねしてタバコを"/>吸い<del>を</del>始<rep value="め">まり</rep>ました<remark value="1マス使って書きましょう">。</remark><cp/>
+
+<sperr value="0"/>しかし今<rep value="多く">ますます</rep>の人<del>々</del>がタバコ<rep value="が">の</rep>有<better value="害">がい</better><rep value="であること">な結果＊</rep>を知<rep value="ってい">られ</rep>ます<note value="下線が引いてある">。</note><better value="喫煙">きつえ<put value="ん"/></better>者は自<rep value="分">身</rep><rep value="以外">をがい</rep>の<rep value="人（間接喫煙者）">他にしょうきょく的なきつえ者</rep><put value="に"/>も<rep value="害を与え">きずつけ</rep>ます<note value="下線が引いてある">。</note>人<del>々</del><rep value="がい">にあ</rep>る所<rep value="で">に</rep>も<better value="喫煙">きつえん</better>者はタバコを吸<better value=""><rep value="っ">い</rep>て</better>います<note value="下線が引いてある">。</note>子供たちも<better value="宣伝、広告">せんでん</better>や<rep value="大人が">年＊上の</rep>吸<rep value="っ">い</rep>ているの<del>人々</del>を見てたばこを吸い始<rep value="め">まり</rep>ます<note value="下線が引いてある">。</note>私の<better value="">一つの</better>ともだちは<better value="学生の頃">学校時代に</better>先生<rep value="が">を</rep><better value="煙">けむり</better><better value="で">の</better><better value="輪">わ</better>を作＊<rep value="るのを">り</rep>見<del>え</del>ました<note value="下線が引いてある">。</note>そ<rep value="れが">の物を</rep>したい<better value="ために">から</better>彼はタバコを吸い始<rep value="め">まり</rep>ました<note value="下線が引いてある">。</note>今彼はこのくせを<better value="や">止</better>めることができません<remark value="1マス使って、書きましょう">。</remark><cp/>
+
+<sperr value="0"/>人<rep value="がい">々にあ</rep>る所<rep value="で">に</rep>はタバコを<better value="">吸<rep value="うの">い</rep>を</better>きんじ<del>られ</del>る<better value="">ため<rep value="の">に</rep></better>法律がじ<remark value="小さい「っ」も1マス使って書きましょう">っ</remark>こう<better value="">にうつ</better><rep value="される">す</rep>べきです<note value="下線が引いてある">。</note>こ<rep value="うすることによって">の事をすると</rep><rep value="非">不</rep>きつえん者はきれいな空気<rep value="を吸うことが">がいきを</rep>できます<note value="下線が引いてある">。</note><put value="また、"/><better value="世の中">世界</better>はきれい<rep value="で">なと</rep><rep value="体に">げん気のために</rep>良い所にか<rep value="わ">え</rep>りま<rep value="す。">した</rep><note value="下線が引いてある">。</note>ぜひ<del>に</del>これは<doubt value="？">じつです</doubt>。<cp/>
+
+<review>句点「。」は1マス使って、書きましょう。（例：です。でも、）<cp/>
+しかし、行の終わりに句点がくる場合は、文字と一緒に書いてもかまいません。</review>
+
+
+</comp>

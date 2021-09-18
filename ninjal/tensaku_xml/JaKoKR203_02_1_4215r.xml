@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　私はたばこを吸うことについて反対<correct value="します。" comment="">する方です</correct>。<cp/>
+　一番の理由はからだに障るためです。もちろん、ストレス解消を図って吸う<correct value="もの" comment="">こと</correct>ですが<correct value="、" comment=""/>一本<correct comment="">を</correct>吸えば寿命を<correct value="数" comment="">何</correct>時間ずつちぢめるとし<correct value="たら" comment="">て</correct>問題になる<correct value="と思" comment="">こと</correct>いませんか。二番<correct value="目" comment=""/>の理由は環境の問題です。たばこを吸う人々がたばこの吸い殻をごみ箱にすてれば問題になること<correct value="は" comment="">が</correct>ありません。しかし、<correct comment="">ほとんど</correct>たばこの吸い殻<correct value="は" comment="">が</correct>ちいさいのでなんの気もなしにすてて問題になります。一人が吸<correct value="わない" comment="">いません</correct>とおおぜい<correct value="の" comment=""/>人々に被害を与え<correct value="ません" comment="">ない方です</correct>。<newparagraph/>さいごに<correct value="、" comment=""/>たばこを吸えない人にはたばこの煙が頭をいた<correct value="く" comment="">い</correct>して吐き気を<correct value="もよおす程、" comment="">する程度に</correct>いやです。<unclear comment="">ところで</unclear>、自分のストレス解消を図ると人に被害を与え<better value="てしまう" comment="">る</better>こんな行動は本当に<unclear comment="">文化市民の姿</unclear><better value="では" comment="">が</better>ない<correct comment="">だ</correct>と思います。小数の人々の<correct value="せい" comment=""/>で多数の人々が被害をこうむることは<unclear comment="あってはならないこと">あることがないこと</unclear>だと思います。たばこを吸う権利を主張す<correct value="るならば" comment="">れば</correct>人に被害を与え<correct comment="">る</correct>ないはんいで吸<correct value="う" comment="">ったとする</correct>ことが私の意見です。<cp/>
+　そして、これは<correct value="別" comment="">べっと</correct>の問題<correct value="で" comment="">のに</correct>私は女がたばこを吸うこと<correct value="を" comment="">について</correct>りかい<correct comment="">を</correct>できません。理由は皆さんも思うように流産や奇形児などが出産できるかくりつが高いためです。もちろん、こどもをつく<correct value="ら" comment="">り</correct>ない女性もいるようです。しかし、みんなが<unclear comment="">自分のかんがえのとおりにできるのはないだと思います</unclear>。たばこが与える悪影響をもういちど考えてみて行動するといいと思います。<cp/>
+
+	</essay>
+<review comment="助詞、接続詞の機能をもう１度整理してみて下さい。"/>
+<review comment="動詞等の活用にも注意して下さい"/>
+</composition>

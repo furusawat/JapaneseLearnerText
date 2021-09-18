@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　　<better value="今日" comment="">きょう</better>、日本<correct value="で、" comment="">に</correct>コンピュータのワープロソフトはありふれたものにな<correct value="ってい" comment=""/>る。インターネット、電子メール、<better value="携帯" comment="">けいたい</better>電話など<better value="の" comment=""/><better value="技術" comment="">ぎじゅつ</better>で情報は早く伝え<correct value="られ" comment=""/>る。しかし、この<better value="技術" comment="">ぎじゅつ</better>は新しい間題をひき起こした。ワープロソフトは、一方では<unclear comment="便利で、つまり使いやすいもので">便*利だり、使*いやすいで</unclear>あるが他方では漢字<correct value="の" comment="">を</correct>書き方が忘<correct value="れ" comment=""/>られやすい<correct value="。" comment=""/><better value="したがって" comment="">だから</better>、日本語<better comment="">の</better>教<better value="師" comment="">し</better>は日本語学習にワープロソフトを使わせるか<correct value="ど" comment="">と</correct>うか<better value="むずかしい" comment="">分らない</better><better value="の" comment="">間題</better>である。 <cp/>
+　<correct value="辞書で漢字の書き方をあまり見ないでワープロソフトで作文を書いた" comment="1"/><better comment="">私にとって</better>先生は、私にワープロソフトを<correct value="たくさん" comment="2"/>使わせなかった<better value="ので、" comment="">から</better><correct comment="2">たくさん</correct><better value="はっきり言え" comment="">経験が</better>ないが使ったとき<correct comment="">に</correct>便利<correct value="だ" comment=""/>と思った。<correct comment="1"><better value="辞書" comment="">じしょ</better>で漢字の書き方を<unclear comment="あまり">あおぎ</unclear>見ないでワープロソフトで作文を書いた。</correct>しかし、ふつうの場合は手で日本語の作文と漢字を書いており、漢字の意味、読み方、書き方も<unclear comment="覚えながら書けたと思う">覚えて手伝いたと思う</unclear>。<newparagraph/><unclear comment="したがって">それだから</unclear>、日本語学習<better comment="">の教育</better>のために教<better value="師" comment="">し</better>は生<better value="徒" comment="">と</better><correct value="に" comment=""/>ワープロソフトと手で書くこと<unclear comment="を同じようにして">とともに</unclear>作文を書けばいいと思う。<unclear comment="それぞれに">それのはめいめいに</unclear><unclear comment="長所と短所">び点と弱点</unclear>がある<unclear comment="のだから">かはい合のほうがいいと思う</unclear>。<cp/>
+
+	</essay>
+<review comment="内容としては、すっきりわかりやすいものが書けています。「それぞれに、よさがあり、一方だけに偏ることなく利用するのがいい」という主張は、よくわかりました。"/>
+</composition>

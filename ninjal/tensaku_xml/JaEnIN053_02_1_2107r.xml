@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+<remark value="新しい段落は1マス分空けます。"><sperr value="0"/></remark>十年＊<del>間</del>前<put value="、"/><del>に</del><better value="煙草">タバコ</better>を吸<rep value="う習慣">いのくせ</rep>は<rep value="ファッション">せんれんされている活動</rep><rep value="と">を</rep>考えられてい<remark value="文末の文体は常体（〜だ。〜である。）で書いて下さい、句点は1マス分使って下さい。"><del>まし</del>た。</remark>この<rep value="習慣">くせ</rep>は<better value="宣伝">せんでん</better><rep value="を通して、格好いいというイメージが">からいい物のように</rep><better value="普及">ふき<rep value="ゅ">ょ</rep>う</better><rep value="した">されました</rep>。ほとんど<del>う</del>の人々は<put value="、"/><better value="">彼らのモデルを見ると</better>この<rep value="習慣を取り入れた。">くせを取り上がりました。</rep><better value="映画">えいが</better>の主人公もタバコを吸い<rep value="、">て、</rep><better value=""><doubt value="？">何*をほしいをもらいから</doubt></better><put value="その影響で"/>大勢の人々が吸い<del>を</del>始<rep value="め">まりまし</rep>た。<cp/>
+
+<remark value="新しい段落は1マス分空けます。"><sperr value="0"/></remark>しかし<put value="、"/>今<rep value="多く">ますます</rep>の人々がタバコの有<better value="害">がい</better>な結果＊を知<rep value="っている">られます</rep>。<better value="喫煙">きつえ<put value="ん"/></better>者<rep value="が">は</rep><better value="">自身を</better><better value="害">がい</better><rep value="を被る">の</rep>他に<put value="、"/><doubt value="？"><better value="消極">しょうきょく</better>的な<better value="喫煙">きつえ<put value="ん"/></better>者も<better value="傷">きず</better>つけます。</doubt><rep value="公共の場所で">人々にある所に</rep>も<better value="喫煙">きつえん</better>者はタバコを吸いてい<rep value="る。">ます。</rep>子供たち<rep value="は、">も</rep><better value="宣伝">せんでん</better>や<rep value="煙草を">年＊上の</rep>吸<rep value="っ">い</rep>ている<rep value="年長者">の人々</rep>を見てたばこを吸い始<rep value="める。">まります。</rep>私の<better value="">一<rep value="人">つ</rep>の</better><better value="友達">ともだち</better>は<put value="、"/><remark value="中学校？">学校時代</remark>に<doubt value="？先生がタバコの煙で輪を作るのを見た。">先生をけむりのわを作＊り見えました。</doubt>そ<rep value="れ">の物</rep>をした<rep value="くて、">いから</rep>彼はタバコを吸い始<rep value="め">まりまし</rep>た。今彼はこのくせを止めることができ<rep value="ない。">ません。</rep><cp/>
+
+<remark value="新しい段落は1マス分空けます。"><sperr value="0"/></remark><rep value="公共の場所では、喫煙を禁じる">人々にある所にはタバコを吸いをきんじられるために</rep>法律が<rep value="実施されている。"><better value="実行">じっこう</better>にうつすべきです。</rep><rep value="そうすれば">この事をすると</rep><better value="禁煙者">不きつえん者</better>はきれいな空気<better value="を吸える。">がいきをできます。</better>世界はきれいな<doubt value="？空気と健康">とげん気</doubt>のために<rep value="よいことである。">良い所にかえりました。</rep><better value="">ぜひにこれはじつです。</better><cp/>
+
+
+<review>結論として、何を言いたいのかがよくわかりません。</review>
+
+</comp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。会社で<better value="みな" comment="">みんな</better>さんはワープロソフトで書く<better value="書類" comment="">しょるい</better>を利用するからです。だから、学校で学生は使い方を習うべきだと思います。 <cp/>
+　それでも、手で漢字を<better value="書く方法" comment="">書き方</better>も大事です。いつもワープロソフトを使えば、その<better value="方法" comment="">方</better>をわすれ<better value="るように" comment="">て</better>なりますから、小学校と中学校<correct value="の" comment=""/>とき学生は手で<better value="書く方法" comment="">書き方</better>だけ習うべきです。その後で、高校の学生は手でもワープロソフトでも漢字を書くことを知っているはずです。 <cp/>
+　でも、ある人は書かなければ習う漢字の書き方をわすれると言っています。ほんとうですが、ワープロソフトを使ったらだいじょうぶで、使わなかったら<better value="辞書" comment="">じしょ</better>をえらびます。<cp/>
+
+	</essay>
+<review comment="○○さんの主張が少し分かりにくい文章だと思います。ワープロソフトの使い方を知るべきだという主張を出すのであれば、そう思う理由をもっと書くと、より説得力が増すと思います。"/>
+<review comment="最後の一行がよくわかりませんでした。"/>
+<review comment="日本語はきれいで、とても読みやすい文章でした。"/>
+</composition>

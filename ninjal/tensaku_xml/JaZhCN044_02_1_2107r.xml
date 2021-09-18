@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　今、日本<put value="だけ"/>ではなく、中国で<rep value="も">は</rep><better value="煙草">たばこ</better>の<better value="良し悪し">こと</better><rep value="は">も</rep>問題にな<put value="ってい"/>る。<cp/>
+　歴史<del>について</del>の資料によ<rep value="れば">って</rep>、<moveto id="1"/>たばこを吸<rep value="っていた">ったことは</rep><movefrom id="1">明時代から</movefrom><del>始まった</del>そうだ。最初*、<note value="添削者は行末の句読点を欄外に書くように指示している"><put value="、"/></note>人<rep value="々">人</rep>はたばこを吸<rep value="えば">うたら</rep>、体を<doubt value="？覚醒">調節</doubt>できると<rep value="考えた">思う</rep>。恐らくこれはたばこが作られた原因だろう。<cp/>
+　しかし<note value="読点がカンマになっているために訂正している"><rep value="、">、</rep></note><moveto id="2"/>人<rep value="々">人</rep>は<movefrom id="2">最近<put value="、"/></movefrom>健康<rep value="面に注意を払うようになっており">意識を増強*するとともに</rep>、たばこは人間に<del>損</del>害があるという点に気がついた。そして、たばこを吸った人よりもその<doubt value="？">はたけ</doubt>を吸わされた人の方が<del>損</del>害を受けがち<rep value="である">なものだ</rep>。それ<rep value="で">にして</rep>も、<del>ある人たちは</del>たばこを吸い続ける<put value="人がいる"/>。彼たちはたばこを吸う<rep value="ことでどんな悪影響があるか">損害が</rep>わかるのに、公共の場所でたばこを吸う。それはすごい。<cp/>
+　私は<del>やく</del>中学二年生<put value="くらいで"/><del>になった時に</del>、たばこを吸い始めた。<rep value="それ">と言う原因</rep>はおとなの生活の憧れと好奇心からだ。そ<del>う</del>して、いつもクラスメートとたばこを吸った。最近、「会社やレストラン、バスや電車などの公共の場所ではたばこを吸えない」と言う規則が<rep value="出てきたと">見える</rep>同時に<note value="添削者は行末の句読点を欄外に書くように指示している"><rep value="、">、</rep></note>たばこを吸わない<rep value="という">ような</rep>宣伝が始ま<rep value="っている">る</rep>。そ<rep value="の宣伝によれば">れによって</rep>、たばこを吸う<rep value="人は">なら</rep>、癌を起<rep value="こしやすい">りがちだ</rep>そうだ。<cp/>
+　<doubt value="？生命は尊いものだ。">生命はきれいで、ありがたくないか。</doubt>だから悪い習慣を矯め<rep value="た方がよい">なければならない</rep>。たばこ<rep value="も">が</rep>その一<rep value="例">部分</rep>だ。もし、<del>個</del>人<rep value="が">な</rep>悪い習慣を<rep value="続けた">保つ</rep>ために、生命<rep value="を">のようなありがたいものさえ</rep>失う<rep value="な">た</rep>ら、<rep value="なんと残念では">ばかでは</rep>ないか。<cp/>
+
+<review>☆読点は「，」ではく「、」と書いて下さい。
+☆あなたの結論は、禁煙に賛成のようですが、その結論への過程があいまいに思われます。
+　あなたは喫煙者のようですが、あなたの体験が書かれていると、もっと説得力があります。</review>
+
+</comp>

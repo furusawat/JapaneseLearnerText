@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+<sperr value="１マス空けるように→の指示がある"/>最近マレイシア<put value="だけ"/>ではなく<rep value="他">地</rep>の国<put value="で"/>も大きな問題になって<rep value="いることがあります。">います。</rep>それはたばこを吸う人<rep value="が">は</rep><moveto id="1"/>どんどん多くなって<rep value="いることです。">、</rep><movefrom id="1">びっくり<rep value="するほど">しました。</rep></movefrom>そんなとき、どう<del>に</del>なるのでしょうか、考えています。たばこ<rep value="が">は</rep>たくさんみせで売られ<put value="てい"/>るのが見<rep value="られ">え</rep>ます。たばこはざっしとか服のようにおみせの前にならべてかってに売られています<note value="行の頭に句点があるので、前の段落の最後に書くように矢印で指示がある">。</note><cp/>
+<sperr value="１マス空けるように→の指示がある"/>ところで、たばこはからだに悪い効果を与えます。そのことを<rep value="わかっていても">わかるですが</rep>無視する人はまだたくさんいます。<put value="たばこによって"/>からだとはいが弱くな<rep value="ります。">るという効果です。</rep>さらに<better value="寿命(じゅみょう)">生きている間</better>もみじかくなります。それだけで私<rep value="は">が</rep>こわくなってぜんぜんたばこを吸いません。私<rep value="なら">にとって</rep>たばこを買ったつもりで食事をしま<rep value="す">した</rep>。私はたばこを<rep value="吸った">吸うこと</rep>けいけんがあります。しかし一ど<rep value="だけ">しか</rep>吸ってもう吸うまい<put value="と思っています"/>。ち<put value="ょ"/>っとのどがいたくなります。私の<rep value="周囲">囲意</rep>はだいたいたばこを吸えます。だから影響されやすいのは無りではないでしょう。<cp/>
+<sperr value="１マス空けるように→の指示がある"/>ストレスをかいしょうするためにたばこを吸うというわけ<rep value="でしょうか">だ</rep>。<del>そう思いますか。</del>人によって<rep value="違うでしょう">違います</rep>。でもどうしてそういうほうほうを<rep value="えらぶのでしょう">決めます</rep>か。食事をしないでずっとたばこを吸う人さえいるのはしんじられ<rep value="ません">ない</rep>。<cp/>
+　だれにもたばこを吸う権利がありますが<put value="、"/>ある<rep value="場">場＊</rep>所で<del>は</del>たばこを<rep value="吸うことが">吸って</rep>禁止<rep value="されていれば">されるのは</rep>　守る<rep value="べき">はず</rep><rep value="です">だ</rep>。な<rep value="ぜ">せ</rep>かというと<rep value="他">地</rep>の人<rep value="に">を</rep>影響<rep value="を与(あた)え">され</rep>ないようにそのルールを<rep value="作ったからです">作ります</rep>。<cp/>
+<review>・たばこについて、いろいろな観点(かんてん)から自分(じぶん)の意見(いけん)を書いていますが、それぞれの段落(だんらく)がよくつながっていません。構成(こうせい)を工夫(くふう)したほうがいいです。</review><cp/>
+<review>・急(きゅう)に終(お)わる感(かん)じなので、最後(さいご)にまとめの段落(だんらく)があったほうがいいです。</review><cp/>
+<review>・段落(だんらく)の初(はじ)めは１字分あけます。</review>
+</comp>

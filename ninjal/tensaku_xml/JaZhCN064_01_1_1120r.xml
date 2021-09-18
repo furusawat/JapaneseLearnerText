@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+中国の田舎の結婚式<cp/>
+
+<note value="2マス空けてあるので、段落の頭は１マスだけ空けて書くようにとの指示がある">　　</note>現在依然として中国の田舎にはたくさんの伝統的な風習が残っています。たとえば結婚式、<moveto id="1"/><moveto id="2"/>地方によって風習は違います<movefrom id="2">が</movefrom><movefrom id="1">大体の形式は同じです</movefrom>。私の故*郷の結婚式は特におもしろいと思います。<cp/>
+
+<note value="2マス空けてあるので、段落の頭は１マスだけ空けて書くようにとの指示がある">　　</note>結婚式の前の夜、花嫁の<rep value="親">親*</rep>戚は嫁<rep value="入">入*</rep>り道具を花婿の家に届けます。嫁<rep value="入">入*</rep>り道具と言えば以前<put value="は"/>大体布団ややかんなど<put value="でしたが、"/>今<put value="は"/>生活の水準が上がるにつれて嫁<rep value="入">入*</rep>り道具の水準も上が<rep value="ってきました。">ります。</rep>例えばテレビや洗濯機など<put value="を"/>よく<better value="贈">送</better>ります。<cp/>
+
+<note value="2マス空けてあるので、段落の頭は１マスだけ空けて書くようにとの指示がある">　　</note>結婚する当日の朝<put value="、"/>花婿は車で花嫁の家に行き花嫁を迎えます。花婿が到着した時家のすべてのドアは閉められて<rep value="い">あり</rep>ます。いくら敲いても開けません。花婿は必ず三度の御辞儀をしていく<rep value="ら">つ</rep>かのお金を包*んである<note value="赤いペンで丸がつけてある">「</note>紅包*<remark value="1マス使う">」</remark>をドアに詰め込*まなければなら<rep value="ず">な</rep><rep value="その">い</rep>後、<put value="やっと"/>ドアが開けられます。特に花嫁がいる部屋<rep value="に">を</rep><rep value="入">入*</rep>りたければも<remark value="1マス使う">っ</remark>と難しいです。花婿はたくさんの御辞儀をして<note value="マスの中に書いていないので、赤いペンで丸がつけてある">「</note>紅包*<note value="赤いペンで丸がつけてある">」</note>を詰め<rep value="込">込*</rep>ん<rep value="んで、はじめて">だ後</rep>花嫁の顔を見ることができます。それから彼らは一緒に花嫁の両親にお茶を飲ま<del>さ</del>せてお礼を<better value="言い">述べ</better>ます<put value="。"/>その後二人は花婿の家へ行きます。花婿の家に着いて花婿は花嫁を抱いて部屋の中まで歩きます。司会の<better value="指示">手配</better>のもとに天地と両親に御辞儀をしてからお互<put value="い"/>に御辞儀をします。その後<note value="マスの中に書いていないので、赤いペンで丸がつけてある">「</note>洞房<note value="赤いペンで丸がつけてある">」</note>という新婚夫婦の部屋に入ります。部屋の中に<rep value="は">ある</rep>両親と子供<rep value="の">も</rep>いる<del>の</del>女性<put value="がいて、"/><del>は</del>ベットを<rep value="ととのえておいてくれます。">整理します。</rep>彼女は<rep value="その">整理する</rep>時ベ<note value="マスの中に書いていないので、丸で印をつけた">ッ</note>トの四つの角にそれぞれ一つ<rep value="ずつ">の</rep>リン<rep value="ゴ">ご</rep>を置いて布団の中になつめや落花生や竜眼やくりの実などを<rep value="入れ">置き</rep>ます。これは「四平八穏。早生貴子」と言う意味です。日本語<rep value="に">の</rep>訳<rep value="すと">して</rep>無事で幸せな生活を送り一日も<put value="早く"/>子供に惠まれるよう<put value="に"/>という意味です<rep value="。">。＊</rep>それから宴会が始まります。そのうちに新婚夫婦はお客さんにお酒を配りお礼の言葉を述べます。最後にみんな一緒に<rep value="乾">幹</rep>杯します。こ<put value="れら"/>のすべての行事は彼らの幸せを祈る<del>ために</del>心からの祝福を表わしています。<cp/>
+
+<note value="2マス空けてあるので、段落の頭は１マスだけ空けて書くようにとの指示がある">　　</note>このような結婚式は今都市で<put value="は"/>見られません。おもしろい風習<rep value="は">にとって</rep>大切にすべき<put value="だ"/>と思います
+
+</comp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+
+<note value="前者は一マスの中に「す」と句点を書いたもの、後者は二マス使って「す」と句点を書いたものである"><remark value="×〜ます。○〜ます。"></remark></note>
+
+<sperr value="0"/>十<rep value="年">年＊</rep>間前にタバコを吸<rep value="うこと">いのくせ</rep>はせんれんされている活動<rep value="だと">を</rep>考えられていました。<rep value="たばこ">このくせ</rep>はせんでんからいい物のようにふきょうされました。ほとんど<del>う</del>の人々は彼らのモデルを見るとこのくせを取り上<rep value="げ">がり</rep>ました。えいがの主人公もタバコを吸<rep value="っ">い</rep>て、<doubt value="？">何*をほしいをもらいから</doubt>大勢の人々が吸い<del>を</del>始<rep value="め">まり</rep>ました。<cp/>
+
+<sperr value="0"/>しかし今ますます<put value="多く"/>の人々がタバコの有がいな結果＊を知<rep value="っています">られます</rep>。きつえ<put value="ん"/>者は<put value="自分"/>自身<rep value="への">を</rep>がいの他にしょうきょく的なきつえ<put value="ん"/>者もきずつけます。<put value="他の"/>人々<rep value="もいる">にある</rep>所<rep value="で">に</rep>もきつえん者はタバコを吸<rep value="っ">い</rep>ています。子供たちもせんでんや<rep value="年">年＊</rep>上の吸<rep value="っ">い</rep>ている<del>の</del>人々を見てたばこを吸い始<rep value="め">まり</rep>ます。私の<movefrom id="1">一<rep value="人">つ</rep></movefrom><del>の</del>ともだち<put value="の"/><moveto id="1"/>は学校時代に先生<rep value="の">を</rep>けむりの<rep value="わっか">わを</rep>作＊り<put value="を"/>見<del>え</del>ました。<rep value="同じこと">その物</rep>をしたいから彼はタバコを吸い始<rep value="め">まり</rep>ました。今<put value="、"/>彼はこのくせを止めることができません。<cp/>
+
+<sperr value="0"/>人々<rep value="がいる">にある</rep>所<rep value="で">に</rep>はタバコを吸<rep value="うこと">い</rep><rep value="が">を</rep>きんじられる<del>ために</del>法律<rep value="を">が</rep>じっこうにうつすべきです。この事をすると不きつえん者はきれいな空気<rep value="で">が</rep>いき<rep value="が">を</rep>できます。世界<rep value="が">は</rep>きれい<rep value="で">なと</rep>げん気<put value="である"/><del>の</del>ために良い所に<doubt value="？">かえりました</doubt>。ぜひ<del>に</del>これは<doubt value="？実現（じつげん）してほしいです">じつです</doubt>。<cp/>
+
+
+</comp>

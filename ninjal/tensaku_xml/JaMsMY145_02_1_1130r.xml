@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+　たばこというのは<doubt comment="?">ある物が吸える物</doubt>です。現在はたばこを吸う人<put value="が"/>ますます増えました。たばこ<rep value="は">も</rep>かんたんに手<rep value="に">を</rep>入<rep value="り">れ</rep>ます。ねだんもそんなに高くないです。しかし、たばこを吸うのはどうして<rep value="でしょう">です</rep>か。<cp/>
+　いっぱん<put value="に"/>人はおとなになったしょうちょうとしてたばこを吸います。でも、たばこを吸わなければ大人にならな<put value="い"/>でしょうか。こんな考え方は<del>ある</del><rep value="正しい">上手な</rep>人としてないはずです。<cp/>
+　ところで、ストレスがたまったときたばこを吸う人もいますが本当にストレス<rep value="の">が</rep>解消になるかとい<put value="う"/>と、そんなことはないでしょう。本当にばかばかしい<rep value="ことです。">だろう。</rep>たばこを吸う<rep value="と">のは</rep>どんなかんじになる<put value="でしょう"/>か。たとえば、一つのじっけんを*しました。前にとこか一つの高校<put value="の高校"/>生をあつめて、アンケ<put value="ー"/>トをおねがいしま<rep value="した">す</rep>。どうしてたばこを吸いますか。このあとのへんじはいろいろ<rep value="でした。">なへんじがかえてもらいます。</rep><put value="たとえば"/>「私はさびしい<del>の</del>時吸います<put value="｣"/>、<put value="｢"/>お金が<rep value="ある時吸います">あります</rep><put value="｣"/>、<put value="｢"/>しつれ*ん<rep value="した時吸います">しました</rep><put value="｣"/>、<put value="｢"/>眠*くてたまらない<put value="時吸います"/>」という<del>学生の</del>へんじ<rep value="がありました。">を*言ってもらいます。</rep>おおぜいの人は<movefrom id="1">わるい</movefrom>けんこうに<moveto id="1"/><put value="ことが"/>わ*かっていますがたばこを吸ってくまいました。<cp/>
+　けれどもいい点<rep value="も">が</rep>あります。もし少ない数<del>で</del>吸ったらくすりに<rep value="なり">なれ</rep>ます。でも私にとってもちろんたばこはわるい<del>の</del>ことです。
+
+<remark value="・最初(さいしょ)の段落(だんらく)は質問(しつもん)を使(つか)っていて上手（じょうず）です。｢どうしてか｣という質問(しつもん)の答(こた)えとして、アンケートのことをその次(つぎ)に入(い)れたほうが、わかりやすかったかもしれません。"></remark>
+<remark value="・たばこのいい点もあると言っていますが、くわしく書いていないので、｢私にとって-わるい｣という終(おわ)わり方(かた)があまりはっきりしません。"></remark>
+</comp>

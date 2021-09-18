@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="correction.xsl"?>
+
+<comp>
+<title>鬼のまつり</title><cp/>
+　シンガポ<put value="ー"/>ルで<put value="は、"/>いろいろ<better value="と">な</better>民族的な行事が行われています。その中<rep value="で">に</rep><better value="一番">いちばん</better><better value="賑">にぎ</better>やかなのは<put value="、"/>陰暦七月一日から三十一日までに行われ<rep value="る">たの</rep><put value="「"/>鬼のまつり<put value="」"/>です。<cp/>
+　この<better value="祭">まつり</better>は<put value="、"/>中国に<better value="昔">むかし</better>から<rep value="ある">の</rep>伝説です。毎年<put value="、"/>地獄の神様は地獄の門を<better value="開">あ</better>けて<put value="、"/>鬼たちが一年<put value="に"/>一度だけ人間<put value="界"/>に<better value="遊">あそ</better>びに<better value="行">い</better>くことを許しました。人間<rep value="たち">の人</rep>は<put value="、"/>その鬼たちに酒や<better value="食物">たべもの</better>を供えます。神社の人は<put value="、"/>棚を<better value="作">つく</better>って<movefrom id="1">歌手とか<better value="芝居">しばい</better>を<better value="雇">やと</better><rep value="い">われて</rep></movefrom><doubt value="？供物">福物</doubt>を棚の上に<better value="置">お</better><rep value="き">い</rep><moveto id="1"/><del>てあり</del>ます。<better value="夜">よる</better>に<put value="なって"/>信者がぞくぞく<better value="着">つ</better><rep value="くと、">いた時</rep>みんなが<better value="食">た</better>べたり酒を<better value="飲">の</better>ん<rep value="だ">た</rep>りします。その時<put value="、"/>神社の人は<better value="置">お</better>いてある福物を<better value="一">ひと</better>つずつ<better value="出">だ</better>して<put value="、"/>マイク<rep value="で">に</rep>大きい<del>な</del>声を値段を<doubt value="？読み上げていき">よんでいて</doubt><put value="、"/><better value="一番">いちばん</better>高い値段を<doubt value="？つけた">よんだ</doubt>人が<better value="貰">もら</better>えます。商売<rep value="が">を</rep>うまくなるように<put value="、また"/>来年もっとよい年を<del>お</del><better value="過">す</better>ごしたい人たちは<put value="、"/>この福物を<better value="貰">もら</better>えなければなりません。私<rep value="は">も</rep><put value="それまでに"/>一度も参加しなかった<rep value="ので">から</rep><put value="、"/>よく<better value="解">わか</better>りませんでした。でも<put value="、"/>毎年そんな<better value="賑">にぎ</better>やかな行事を<better value="観">み</better>たらとてもおもしろいと<better value="思">おも</better>っています。この<better value="祭">まつり</better><put value="で"/>は結婚とか家を<better value="引越し">ひっこし</better>とかしないほうがいいと<better value="多">おお</better>くの人が信じています。<cp/>
+
+
+<note value="★添削者８のデータでは、最後の文の「しんじています」は添削前の文でもひらがな表記です。（他の添削データでは漢字で表記されています）">　</note>
+<note value="★上述箇所で、添削者８はbetterタグで「しん」→「信」の置換をしていますが、他の添削データにあわせて取り消します">　</note>
+
+</comp>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　　<correct value="こんにち" comment="">きょう</correct>、日本<correct value="で" comment="">に</correct>コンピュータのワープロソフトはありふれたもの<correct value="である" comment="">になる</correct>。インターネット、電子メール、けいたい電話など<better comment="">ぎじゅつで</better>情報は早く伝<correct value="わる" comment="">える</correct>。しかし、このぎじゅつは新しい間題をひき起こした。ワープロソフトは、一方では便*利だ<correct value="し" comment="">り</correct>、使*いやすい<correct comment="">である</correct>が他方では漢字<correct value="の" comment="">を</correct>書き方<correct value="を" comment="">が</correct>忘<correct comment="">ら</correct>れやすい<correct value="。" comment=""/>だから、日本語<better comment="">の</better>教しは日本語学習にワープロソフトを使<correct value="うかどうか問" comment="">わせるかとうか分らない間</correct>題<correct value="になる" comment="">である</correct>。 <cp/>
+　私<correct value="の" comment="">にとって</correct>先生は、私にワープロソフトを使わせなかったから<correct value="、" comment=""/><correct value="あまり" comment="">たくさん</correct>経験がないが<correct value="、" comment=""/>使った<correct value="ら" comment="">ときに</correct>便利<correct value="だろう" comment=""/>と思った。じしょで漢字の書き方を<correct comment="">あおぎ</correct>見ないでワープロソフトで作文を書いた。<unclear comment="">しかし</unclear>、ふつうの場合は手で日本語の作文と漢字を書いており、漢字の意味、読み方、書き方も覚えて<unclear comment="いた？">手伝いた</unclear>と思う。<better comment="">それ</better>だから、日本語学習<correct comment="">の教育</correct>のために教しは<unclear comment="生徒？">生と</unclear><correct value="に" comment=""/>ワープロソフトと手で<correct value="作文を" comment="1"/><correct comment="">書くこととともに</correct><correct comment="1">作文を</correct>書けばいいと思う。それ<correct comment="">の</correct>は<better value="それぞれ" comment="">めいめい</better>にび点と弱点がある<unclear comment="">かはい合</unclear>のほうがいいと思う。<cp/>
+
+	</essay>
+<review comment="まずい言いたいことを１文ずつ、その後で文と文をつなげていくようにして下さい。"/>
+</composition>

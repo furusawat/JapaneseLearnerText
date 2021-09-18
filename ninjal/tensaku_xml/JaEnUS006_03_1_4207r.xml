@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　現在、世界中<correct value="で" comment=""/>、コン<correct value="ピ" comment="">プ</correct>ューター使う人が多くなってきました。コン<correct value="ピ" comment="">プ</correct>ューターの<better value="便利なところ" comment="">便*利所</better>がたくさん<correct value="あるから" comment=""/>です。これらの<better value="中で" comment="">内<better comment="">で</better></better>、ワープロソフトがとても大切ですが、どんな国でも、ワープロソフトが母語<better comment="">の</better>全体の流暢<correct value="さを" comment="">に</correct><correct value="妨[さまた]げ" comment="">困っ</correct>ています。例えば、英語のワープ<correct value="ロ" comment="">ル</correct>ソフトは自動的につづりを書き直す「スペルチェック」という<better value="機能[きのう]" comment="">特徴</better>があります。ですから、ワープロをよく使ったら、だんだん、正しいつづりが<better comment="">本当に</better>分かる言葉が減少します。日本語の仮<correct value="名" comment="">字</correct>が英語のアルファベットより複雑なので<better comment="">日本では</better>、私にとって、その問題がもっと大きいです。つづり<correct value="の" comment=""/>問題だけではなくて、書く問題<correct value="も" comment="">で</correct>あります。漢字が読めて意味が分かればいいですが<better value="それだけでは" comment=""/>、十分ではなくて<better value="日本語が流暢になりません" comment="">流暢ではありません</better>。日本語ではひらがかなのつづりが同じで漢字が違う単語が多いです。ですから、手で書<correct value="か" comment="">きなければなら</correct>なかったら、ひらがなばかり<correct value="しかできなくて、それでは" comment="">できることは</correct>不十分です。その上、<unclear comment="日本の学生のことですか？">今や日本でワープロを使う人は</unclear>学校で漢字の意味と読むことと書くことを学びました。ですので、ワープロ<correct value="を" comment="">が</correct>使っても、この人は<unclear comment="日本語を勉強している人ですか？">書かない人</unclear>より日本語が<correct value="理解" comment="">了解</correct>できます。二字の漢字が<unclear comment="ひらがなのつづりが同じで漢字が違う単語のことですか?誰が?何が？よく識別できますか？">同類だったら、よく識別できます</unclear>。さらに、日本文化は仮<correct value="名" comment="">字</correct>に関係します。ワープロが<unclear comment="漢字を書く機会[きかい]">漢字の大切さ</unclear>を減少させると、日本文化も損害<correct value="を受ける" comment="">する</correct>と思います。 <cp/>
+　したがって、日本語の流暢<correct value="さ" comment=""/>は書<correct value="く" comment="">ける</correct>ことに依存します。<cp/>
+
+	</essay>
+<review comment="手で文字を書くことが日本語の流暢さにつながると思っているのですね。読む人がわかるように？のところをもう一度書いてみましょう。"/>
+</composition>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　現在、世界中<correct value="で" comment="">、</correct>コン<correct value="ピ" comment="">プ</correct>ューター使う人が多くなってきました。コン<correct value="ピ" comment="">プ</correct>ューターの便*利<correct value="な" comment=""/>所がたくさん<correct value="あります" comment="">です</correct>。これらの<correct value="中" comment="">内</correct>で、ワープロソフトがとても大切ですが、どんな国でも、ワープロソフトが母語の全体の<unclear comment="">流暢に</unclear>困っています。例えば、英語のワープ<correct value="ロ" comment="">ル</correct>ソフトは自動的につづりを書き直す「スペルチェック」という<unclear comment="機能">特徴</unclear>があります。<correct value="だ" comment="「ですから」は話す時によく使われることばです。この時は「だから」を使いましょう。">です</correct>から、ワープロをよく使ったら、だんだん、正しいつづりが本当に分かる言葉が減少します。<newparagraph comment="今まで英語の話でしたが、ここから日本語の話が始まりますから行を変えた方がいいです。"/>日本語の<unclear comment="漢">仮</unclear>字が英語のアルファベットより複雑なので日本では、私にとって、その問題がもっと大きいです。つづり問題だけではなくて、書く問題<unclear comment="も">で</unclear>あります。漢字が読めて意味が分かればいいですが、十分<unclear comment="ではなかったら">ではなくて</unclear>流暢ではありません。日本語ではひらがかなのつづりが同じで漢字が違う単語が多いです。ですから、手で書<correct value="か" comment="">き</correct>なければならなかったら、ひらがなばかりで<unclear comment="書く">きる</unclear>ことは不十分です。<correct comment="">その上</correct>、今や日本でワープロを使う人は学校で漢字の意味と読むことと書くことを学<better value="んでいます" comment="「今や」は「今では」の意味なので、文末は「～ています」の方がいいです。">びました</better>。<correct value="な" comment="「ですので」は話しことばですからここでは「なので」を使いましょう。">です</correct>ので、ワープロ<correct value="を" comment="">が</correct>使っても、この人は書<correct value="け" comment="">か</correct>ない人より日本語が<correct value="理解" comment="">了解</correct>できます。二字の漢字が同類だったら、よく識別できます。<newparagraph/>さらに、日本文化は<unclear comment="漢">仮</unclear>字に関係します。ワープロが漢字の大切さを減少させ<correct value="たら" comment="">ると</correct>、日本文化も損害すると思います。 <cp/><runon/>
+　したがって、日本語の<unclear comment="">流暢は</unclear>書けることに<better value="　" comment="何に？"/><unclear comment="">依存します</unclear>。<cp/>
+
+	</essay>
+<review comment="どうして漢字の必要性があるか、説明が詳しく書かれていますが、最後のところで「日本文化は仮字に関係します」という意見になるのは、ちょっとわかりませんでした。もう少し説明があったらいいと思います。"/>
+</composition>

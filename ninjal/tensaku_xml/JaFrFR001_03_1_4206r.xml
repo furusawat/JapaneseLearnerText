@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロソフト <cp/>
+　ワープロソフト<correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。会社でみ<correct comment="">ん</correct>なさんは<correct value="、" comment=""/><correct comment="①">ワープロソフトで書く</correct><better value="書類" comment="">しょるい</better>を<correct value="①" comment="①"/><correct value="のに" comment=""/>利用するからです。<better value="ですから" comment="">だから</better>、学校で学生は使い方を習うべきだと思います。 <cp/>
+　<correct value="しかし" comment="">それでも</correct>、手で<correct value="書くこと" comment="">漢字を書き方</correct>も大事です。いつもワープロソフトを使<correct value="うと" comment="">えば</correct>、<correct value="漢字" comment="">その方</correct>をわすれて<correct value="しまいます" comment="">なります</correct>から、小学校と中学校<correct value="の" comment="">とき</correct>学生は<correct value="、" comment=""/>手で<correct value="書くこと" comment="">書き方だけ</correct><correct value="を" comment=""/><better value="学ぶ" comment="">習う</better>べきです。<correct value="高校生になったら" comment="">その後で、高校の学生は</correct><better value="手で書いても、ワープロソフトで書いても" comment="">手でもワープロソフトでも</better><correct value="、" comment=""/>漢字を書くことを<correct value="忘れない" comment="">知っている</correct>はずです。 <cp/>
+　<better value="しかし" comment="">でも</better>、<correct comment="">ある人は</correct>書かなければ<better value="覚えた" comment="">習<correct value="った" comment="">う</correct></better>漢字の書き方をわすれると<correct value="言う人もいます" comment="">言っています</correct>。<better value="それは" comment=""/>ほんとう<correct value="だと思いますが" comment="">ですが</correct>、<correct value="忘れてしまったら、辞書を見ればいいです。そうすれば、ワープロを使ってもだいじょうぶでしょう" comment="">ワープロソフトを使ったらだいじょうぶで、使わなかったらじしょをえらびます</correct>。<cp/>
+
+	</essay><review comment="ひとつひとつの文法に注意して下さい。たとえば、Ｎ『の』使い方|～を使う『と』、～する　などです"/><review comment="この作文は「です」「ます」を使っていますから、「だから」「でも」などを使わないでください。"/>
+</composition>

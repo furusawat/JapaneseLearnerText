@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="correction2.xsl"?>
+
+<composition>
+<essay>
+　ワープロ<better comment="">ソフト</better><cp/>
+　ワープロ<better comment="">ソフト</better><correct value="の" comment="">を</correct>使い方を知ることは大事だと思います。<better value="それは" comment=""/>会社でみんなさんはワープロ<better comment="">ソフトで書くしょるい</better>を利用するからです。だから、学校で学生は使い方を習うべきだと思います。 <cp/>
+　<better value="しかし" comment="">それでも</better>、<better comment="">手で</better>漢字を書<correct value="くこと" comment="">き方</correct>も大事です。いつもワープロ<better comment="">ソフト</better>を<better value="使っていると" comment="">使えば</better>、<unclear comment="漢字">その方</unclear>をわすれ<better comment="">てなり</better>ますから、小学<correct value="生" comment="">校</correct>と中学<correct value="生" comment="">校</correct><better comment="">とき学生</better>は手で<unclear comment="書くこと">書き方だけ</unclear>習うべきです。その後<better value="なら" comment="">で</better>、高校<better comment="">の学</better>生は手でもワープロ<better comment="">ソフト</better>でも漢字<correct value="が" comment="">を</correct><better value="書ける" comment="">書くことを知っている</better>はずです。 <cp/>
+　でも、ある人は書かなければ<correct value="習った" comment="">習う</correct>漢字<better comment="">の書き方</better>を<better value="忘れてしまう" comment="">わすれる</better>と言っています。<better value="事実" comment="">ほんとう</better>ですが、ワープロ<better comment="">ソフト</better>を使ったら<unclear comment="漢字を忘れません">だいじょうぶ</unclear><correct value="が" comment="">で</correct>、使わなかったら<unclear comment="">じしょをえらびます</unclear>。<cp/>
+
+	</essay>
+<review comment="一番いいたいことはどれですか？①学校でワープロをならうこと②手で漢字をかいて覚えること③その他"/>
+<review comment="～方／～ことの使い方に注意すること"/>
+<review comment="最後の「じしょをえらびます」は、よくわかりませんでした！！"/>
+</composition>
