@@ -22,9 +22,11 @@ def berteval(orig_txt):
 
         orig_idx = tokenizer.encode(orig_txt[i])[1]
 
-        score = torch.nn.functional.softmax(outs[0][:,i + 1][0], dim=0)[orig_idx]
+        pred_ids = outs[0][:, i + 1][0].topk(5).indices.tolist()
 
-        pred_ids = outs[0][:, i + 1].topk(5).indices.tolist()[0]
+        score = torch.nn.functional.softmax(outs[0][:,i + 1][0], dim=0)
+        score = score[orig_idx] / score[pred_ids[0]]
+
         preds = []
         for pred_id in pred_ids:
             preds.append(tokenizer.decode(pred_id))
@@ -38,7 +40,7 @@ with open("result.json") as fp:
 
 evalresultlist = []
 
-for eachsent in sentlist[:5]:
+for eachsent in sentlist:
     print(eachsent["sent"])
     evalresultlist.append(berteval(eachsent["sent"]))
 
