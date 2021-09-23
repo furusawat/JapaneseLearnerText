@@ -15,11 +15,11 @@ def berteval(orig_txt):
     
     txttmp = tokenizer.encode(orig_txt, return_tensors="pt")
 
-    for i in range(1, len(txt[0]) - 1):
+    for i in range(1, len(txttmp[0]) - 1):
 
-        txt = txttmp
+        txt = txttmp.clone()
 
-        orig_idx = txt[0][i]
+        orig_idx = int(txt[0][i])
         txt[0][i] = tokenizer.mask_token_id
 
         outs = model(txt)
@@ -33,7 +33,7 @@ def berteval(orig_txt):
         for pred_id in pred_ids:
             preds.append(tokenizer.decode(pred_id))
 
-        tmplist.append([orig_txt[i], float(score), preds])
+        tmplist.append([tokenizer.decode(orig_idx), float(score), preds])
 
     return tmplist
 
