@@ -6,25 +6,27 @@ from transformers import AutoTokenizer, AutoModelForMaskedLM
 import torch
 import json
 
-tokenizer = AutoTokenizer.from_pretrained("cl-tohoku/bert-base-japanese-char")
-model = AutoModelForMaskedLM.from_pretrained("cl-tohoku/bert-base-japanese-char")
+tokenizer = AutoTokenizer.from_pretrained("cl-tohoku/bert-base-japanese")
+model = AutoModelForMaskedLM.from_pretrained("cl-tohoku/bert-base-japanese")
 
 def berteval(orig_txt):
 
     tmplist = []
     
-    for i in range(len(orig_txt)):
+    txttmp = tokenizer.encode(orig_txt, return_tensors="pt")
 
-        txt = tokenizer.encode(orig_txt, return_tensors="pt")
-        txt[0][i + 1] = tokenizer.mask_token_id
+    for i in range(1, len(txt[0]) - 1):
+
+        txt = txttmp
+
+        orig_idx = txt[0][i]
+        txt[0][i] = tokenizer.mask_token_id
 
         outs = model(txt)
 
-        orig_idx = tokenizer.encode(orig_txt[i])[1]
+        pred_ids = outs[0][:, i][0].topk(5).indices.tolist()
 
-        pred_ids = outs[0][:, i + 1][0].topk(5).indices.tolist()
-
-        score = torch.nn.functional.softmax(outs[0][:,i + 1][0], dim=0)
+        score = torch.nn.functional.softmax(outs[0][:,i][0], dim=0)
         score = score[orig_idx] / score[pred_ids[0]]
 
         preds = []
