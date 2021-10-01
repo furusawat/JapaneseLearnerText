@@ -9,3 +9,5 @@ https://hinoki-project.org/natane/
 * 作文対訳データベース
 https://mmsrv.ninjal.ac.jp/essay/index.html
 
+* japanese-gpt2-medium
+https://huggingface.co/rinna/japanese-gpt2-medium
