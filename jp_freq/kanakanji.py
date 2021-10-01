@@ -1,32 +1,32 @@
 import json
 import regex
 
-hiradic = []
-katadic = []
-kanjidic = []
+hiradic = {}
+katadic = {}
+kanjidic = {}
 
 with open("freqresult.json") as fp:
     json_list = json.load(fp)
 
+topnum = json_list[0][1]
+
 for eachchar in json_list:
+    if eachchar[1] < topnum / 10000:
+        break
     tmp = regex.match(r"\p{Script=Hiragana}", eachchar[0])
     if tmp:
-        hiradic.append(eachchar)
+        hiradic[eachchar[0]] = eachchar[1]
         continue
 
     tmp = regex.match(r"\p{Script=Katakana}", eachchar[0])
     if tmp:
-        katadic.append(eachchar)
+        katadic[eachchar[0]] = eachchar[1]
         continue
 
     tmp = regex.match(r"\p{Script=Han}", eachchar[0])
     if tmp:
-        kanjidic.append(eachchar)
+        kanjidic[eachchar[0]] = eachchar[1]
         continue
-
-hiradic = sorted(hiradic, key = lambda x: x[1], reverse = True)
-katadic = sorted(katadic, key = lambda x: x[1], reverse = True)
-kanjidic = sorted(kanjidic, key = lambda x: x[1], reverse = True)
 
 with open("hirafreq.json","w") as fp:
     json.dump(hiradic, fp, ensure_ascii = False, indent = 2)
