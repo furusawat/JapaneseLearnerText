@@ -29,6 +29,7 @@ def gpt2test(text, tries = 100):
         tokens = tokenizer.encode(tmptext, add_special_tokens=False, return_tensors="pt").to(device)
         loss = model(tokens, labels = tokens)[0]
         if np.exp(loss.cpu().detach().numpy()) < rightprob:
+            print(tmptext)
             lowernum += 1
 
     return lowernum
