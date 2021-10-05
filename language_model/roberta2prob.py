@@ -68,11 +68,12 @@ def robertaeval(orig_txt):
         with torch.no_grad():
             outs = model(input_ids = txt_tensor, position_ids = posi_id_tensor)
 
-        outs = outs[0].index_select(2, torch.LongTensor(list(worddic[orig_idx].keys())).to(device))
+        #outs = outs[0].index_select(2, torch.LongTensor(list(worddic[orig_idx].keys())).to(device))
 
-        max_ids = outs[0, i].topk(1).indices
-        score = torch.nn.functional.softmax(outs[0,i], dim=0)
-        score = score[worddic[orig_idx][orig_idx]] / score[max_ids[0]]
+        max_ids = outs[0][0, i].topk(1).indices
+        score = torch.nn.functional.softmax(outs[0][0,i], dim=0)
+        #score = score[worddic[orig_idx][orig_idx]] / score[max_ids[0]]
+        score = score[orig_idx] / score[max_ids[0]]
 
         tmplist.append(float(score))
 
@@ -86,24 +87,27 @@ def robertaeval(orig_txt):
 def roberta2test(text, tries = 100):
     rightprob = robertaeval(text)
     print("{} : {} \n -> avg. with length-penalty {}".format(text, str(rightprob[0]), rightprob[1]))
-    print("*"*80)
+    print("- "*40)
 
-    lowernum = 0
+    tmptextscores = {}
+    finalscore = 0
     for i in range(tries):
         tmptext = perturb.perturb(text)
-        wrongprob = robertaeval(tmptext)
-        if wrongprob[1] > rightprob[1]:
-            print("{} : {} \n -> avg. with length-penalty {}".format(tmptext, str(wrongprob[0]), wrongprob[1]))
-            lowernum += 1
+        if tmptext not in tmptextscores:
+            wrongprob = robertaeval(tmptext)
+            if wrongprob[1] > rightprob[1]:
+                print("{} : {} \n -> avg. with length-penalty {}".format(tmptext, str(wrongprob[0]), wrongprob[1]))
+            tmptextscores[tmptext] = wrongprob[1]
+        finalscore += (rightprob[1] - tmptextscores[tmptext])
 
-    print("*"*80)
-    print("# of successful perturbation : {}\t(lower is better)".format(lowernum))
+    print("- "*40)
+    print("total sum of (orig. score - perturbed score)  : {}\t(higher is better)".format(finalscore))
 
 
 for i in range(len(rightlist)):
     roberta2test(rightlist[i]["sent"])
-    print("-"*80)
+    print("*"*80)
     roberta2test(wronglist[i]["sent"])
-    print("-"*80)
-    print("-"*80)
-    print("-"*80)
+    print("*"*80)
+    print("*-"*40)
+    print("*"*80)
