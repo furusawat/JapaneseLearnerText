@@ -80,8 +80,8 @@ def robertaeval(orig_txt):
 
 def roberta2test(text, tries = 100):
     rightprob = robertaeval(text)
-    print("{} : {} \n -> avg. with length-penalty {}".format(text, str(rightprob[0]), rightprob[1]))
-    print("- "*40)
+    #print("{} : {} \n -> avg. with length-penalty {}".format(text, str(rightprob[0]), rightprob[1]))
+    #print("- "*40)
 
     tmptextscores = {}
     finalscore = 0
@@ -89,18 +89,19 @@ def roberta2test(text, tries = 100):
         tmptext = perturb.perturb(text)
         if tmptext not in tmptextscores:
             wrongprob = robertaeval(tmptext)
-            if wrongprob[1] > rightprob[1]:
-                print("{} : {} \n -> avg. with length-penalty {}".format(tmptext, str(wrongprob[0]), wrongprob[1]))
+            #if wrongprob[1] > rightprob[1]:
+                #print("{} : {} \n -> avg. with length-penalty {}".format(tmptext, str(wrongprob[0]), wrongprob[1]))
             tmptextscores[tmptext] = wrongprob[1]
         finalscore += (rightprob[1] - tmptextscores[tmptext])
 
-    print("- "*40)
-    print("total sum of (orig. score - perturbed score)  : {}\t(higher is better)".format(finalscore))
+        print("-"*i,end="\r")
+    #print("total sum of (orig. score - perturbed score)  : {}\t(higher is better)".format(finalscore))
+    print(text)
     return finalscore
 
 evalresult = [["RoBERTa"]]
 
-with open("textlist.json") as fp:
+with open("testtext.json") as fp:
     textlist = json.load(fp)
 
 tmplist = []
@@ -109,14 +110,14 @@ for eachdata in textlist:
     tmp2list = [eachdata[0]]
     tmp3list = []
     for righttext in eachdata[1]:
-        tmp3list.append([righttext, roberta2test(righttext)])
+        tmp3list.append([righttext, [roberta2test(righttext)]])
     tmp2list.append(tmp3list)
     tmp3list = []
     for wrongtext in eachdata[2]:
-        tmp3list.append([wrongtext, roberta2test(wrongtext)])
+        tmp3list.append([wrongtext, [roberta2test(wrongtext)]])
     tmp2list.append(tmp3list)
     tmplist.append(tmp2list)
 evalresult.append(tmplist)
 
 with open("jsondata.js", "w") as fp:
-    json.dump(textlist, fp, ensure_ascii = False, indent = 2)
+    json.dump(evalresult, fp, ensure_ascii = False, indent = 2)
