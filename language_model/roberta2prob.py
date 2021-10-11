@@ -44,12 +44,6 @@ else:
     with open(vecpath, "rb") as fp:
         worddic = pickle.load(fp)
 
-with open("result.json") as fp:
-    rightlist = json.load(fp)
-
-with open("result.json.origin") as fp:
-    wronglist = json.load(fp)
-
 def robertaeval(orig_txt):
     tmplist = []
     txttmp = tokenizer.tokenize("[CLS]" + orig_txt)
@@ -102,12 +96,27 @@ def roberta2test(text, tries = 100):
 
     print("- "*40)
     print("total sum of (orig. score - perturbed score)  : {}\t(higher is better)".format(finalscore))
+    return finalscore
 
+evalresult = [["RoBERTa"]]
 
-for i in range(len(rightlist)):
-    roberta2test(rightlist[i]["sent"])
-    print("*"*80)
-    roberta2test(wronglist[i]["sent"])
-    print("*"*80)
-    print("*-"*40)
-    print("*"*80)
+with open("textlist.json") as fp:
+    textlist = json.load(fp)
+
+tmplist = []
+
+for eachdata in textlist:
+    tmp2list = [eachdata[0]]
+    tmp3list = []
+    for righttext in eachdata[1]:
+        tmp3list.append([righttext, roberta2test(righttext)])
+    tmp2list.append(tmp3list)
+    tmp3list = []
+    for wrongtext in eachdata[2]:
+        tmp3list.append([wrongtext, roberta2test(wrongtext)])
+    tmp2list.append(tmp3list)
+    tmplist.append(tmp2list)
+evalresult.append(tmplist)
+
+with open("jsondata.js", "w") as fp:
+    json.dump(textlist, fp, ensure_ascii = False, indent = 2)
