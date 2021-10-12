@@ -54,11 +54,13 @@ function datachange(){
 		series:[{type: "scatter", data: rightdata,
 			symbol: function(data){
 				if(data[3] == true){return "circle";}else{return "none";}},
-			label: {formatter: function (param) {return param.data[2];}, position: "top", show: true}},
+			label: {formatter: function (param) {return param.data[2];}, position: "top"},
+			emphasis: {label: {show: true}}},
 			{type: "scatter", data: wrongdata,
 			symbol: function(data){
 				if(data[3] == true){return "circle";}else{return "none";}},
-			label: {formatter: function (param) {return param.data[2];}, position: "top", show: true}}]
+			label: {formatter: function (param) {return param.data[2];}, position: "top"},
+			emphasis: {label: {show: true}}}]
 	};
 	mychart.setOption(option);
 };
