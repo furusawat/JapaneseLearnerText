@@ -51,6 +51,7 @@ function datachange(){
 	const option = {
 		xAxis:{},
 		yAxis:{},
+		dataZoom: {type: "inside"},
 		series:[{type: "scatter", data: rightdata,
 			symbol: function(data){
 				if(data[3] == true){return "circle";}else{return "none";}},
