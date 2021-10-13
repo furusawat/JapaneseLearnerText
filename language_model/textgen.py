@@ -3,13 +3,13 @@ import json
 textlist = []
 
 tmplist = ["日本語の文法"]
-with open("result.json") as fp:
+with open("dump/result.json") as fp:
     rightlist = json.load(fp)
 tmp2list = []
 for each in rightlist:
     tmp2list.append(each["sent"])
 tmplist.append(tmp2list)
-with open("result.json.origin") as fp:
+with open("dump/result.json.origin") as fp:
     wronglist = json.load(fp)
 tmp2list = []
 for each in wronglist:

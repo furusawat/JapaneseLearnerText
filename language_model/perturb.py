@@ -5,11 +5,11 @@ hiradic = {}
 katadic = {}
 kanjidic = {}
 
-with open("hirafreq.json") as fp:
+with open("dump/hirafreq.json") as fp:
     hiradic = json.load(fp)
-with open("katafreq.json") as fp:
+with open("dump/katafreq.json") as fp:
     katadic = json.load(fp)
-with open("kanjifreq.json") as fp:
+with open("dump/kanjifreq.json") as fp:
     kanjidic = json.load(fp)
 
 def perturb_main(text, dic, num):
