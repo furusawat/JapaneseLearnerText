@@ -8,6 +8,7 @@ import copy
 from gensim.models import KeyedVectors
 import os
 import pickle
+import math
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
@@ -75,10 +76,13 @@ def robertaeval(orig_txt):
         with torch.no_grad():
             outs = roberta_model(input_ids = txt_tensor, position_ids = posi_id_tensor)
 
-        score = [None, None]
+        score = [None, None, None]
         max_ids = outs[0][0, i].topk(1).indices
         score[0] = torch.nn.functional.softmax(outs[0][0,i], dim=0)
         score[0] = score[0][orig_idx] / score[0][max_ids[0]]
+
+        score[2] = torch.nn.functional.softmax(outs[0][0,i], dim=0)
+        score[2] = math.log(score[2][orig_idx] / score[2][max_ids[0]])
 
         tmpouts = outs[0].index_select(2, torch.LongTensor(list(roberta_worddic[orig_idx].keys())).to(device))
         max_ids = tmpouts[0, i].topk(1).indices
@@ -115,7 +119,7 @@ def lmtest(text, tries = 100):
     print(text)
     return [float(x) for x in finalscore]
 
-evalresult = [["RoBERTa", "RoBERTa (word vector limitation)", "GPT2"]]
+evalresult = [["RoBERTa", "RoBERTa (word vector limitation)", "RoBERTa (log function)", "GPT2"]]
 
 with open("testtext.json") as fp:
     textlist = json.load(fp)
