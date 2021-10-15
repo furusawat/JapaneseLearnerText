@@ -4,6 +4,7 @@ import regex
 hiradic = {}
 katadic = {}
 kanjidic = {}
+nihongodic = {}
 
 with open("freqresult.json") as fp:
     json_list = json.load(fp)
@@ -16,16 +17,19 @@ for eachchar in json_list:
     tmp = regex.match(r"\p{Script=Hiragana}", eachchar[0])
     if tmp:
         hiradic[eachchar[0]] = eachchar[1]
+        nihongodic[eachchar[0]] = eachchar[1]
         continue
 
     tmp = regex.match(r"\p{Script=Katakana}", eachchar[0])
     if tmp:
         katadic[eachchar[0]] = eachchar[1]
+        nihongodic[eachchar[0]] = eachchar[1]
         continue
 
     tmp = regex.match(r"\p{Script=Han}", eachchar[0])
     if tmp:
         kanjidic[eachchar[0]] = eachchar[1]
+        nihongodic[eachchar[0]] = eachchar[1]
         continue
 
 with open("hirafreq.json","w") as fp:
@@ -36,3 +40,6 @@ with open("katafreq.json","w") as fp:
 
 with open("kanjifreq.json","w") as fp:
     json.dump(kanjidic, fp, ensure_ascii = False, indent = 2)
+
+with open("nihongofreq.json","w") as fp:
+    json.dump(nihongodic, fp, ensure_ascii = False, indent = 2)

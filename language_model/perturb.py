@@ -4,6 +4,7 @@ import json
 hiradic = {}
 katadic = {}
 kanjidic = {}
+nihongodic = {}
 
 with open("dump/hirafreq.json") as fp:
     hiradic = json.load(fp)
@@ -11,6 +12,8 @@ with open("dump/katafreq.json") as fp:
     katadic = json.load(fp)
 with open("dump/kanjifreq.json") as fp:
     kanjidic = json.load(fp)
+with open("dump/nihongofreq.json") as fp:
+    nihongodic = json.load(fp)
 
 def perturb_main(text, dic, num):
     posi = []
@@ -19,6 +22,8 @@ def perturb_main(text, dic, num):
         if text[i] in dic:
             posi.append(i)
             weight.append(dic[text[i]])
+    if posi == []:
+        return text
 
     choice = numpy.random.randint(0, 3)
     if choice == 0:
@@ -49,7 +54,7 @@ def perturb_main(text, dic, num):
 
     return text
 
-def perturb(text, hiragana = True, katakana = False, kanji = False, num = 1):
+def perturb(text, hiragana = False, katakana = False, kanji = False, nihongo = True, num = 1):
     useddic = {}
     if hiragana:
         useddic.update(hiradic)
@@ -57,10 +62,9 @@ def perturb(text, hiragana = True, katakana = False, kanji = False, num = 1):
         useddic.update(katadic)
     if kanji:
         useddic.update(kanji)
+    if nihongo:
+        useddic.update(nihongo)
 
     result = perturb_main(text, useddic, num)
-
-    if text == result:
-        raise NoPerturbationPerformed
 
     return result
