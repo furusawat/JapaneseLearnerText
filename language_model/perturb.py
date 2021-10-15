@@ -61,9 +61,9 @@ def perturb(text, hiragana = False, katakana = False, kanji = False, nihongo = T
     if katakana:
         useddic.update(katadic)
     if kanji:
-        useddic.update(kanji)
+        useddic.update(kanjidic)
     if nihongo:
-        useddic.update(nihongo)
+        useddic.update(nihongodic)
 
     result = perturb_main(text, useddic, num)
 

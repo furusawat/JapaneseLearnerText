@@ -93,7 +93,7 @@ def robertaeval(orig_txt):
     return np.divide(allscore, (len(tmplist) ** 2))
 
 def gpt2eval(orig_txt):
-    tokens = gpt2_tokenizer.encode(text, add_special_tokens=False, return_tensors="pt").to(device)
+    tokens = gpt2_tokenizer.encode(orig_txt, add_special_tokens=False, return_tensors="pt").to(device)
     loss = gpt2_model(tokens, labels = tokens)[0]
     return [np.exp(loss.cpu().detach().numpy())]
 
@@ -113,7 +113,7 @@ def lmtest(text, tries = 100):
 
         print("-"*i,end="\r")
     print(text)
-    return finalscore
+    return [float(x) for x in finalscore]
 
 evalresult = [["RoBERTa", "RoBERTa (word vector limitation)", "GPT2"]]
 
@@ -125,11 +125,11 @@ tmplist = []
 for eachdata in textlist:
     tmp2list = [eachdata[0]]
     tmp3list = []
-    for righttext in eachdata[1]:
+    for righttext in eachdata[1][:50]:
         tmp3list.append([righttext, lmtest(righttext)])
     tmp2list.append(tmp3list)
     tmp3list = []
-    for wrongtext in eachdata[2]:
+    for wrongtext in eachdata[2][:50]:
         tmp3list.append([wrongtext, lmtest(wrongtext)])
     tmp2list.append(tmp3list)
     tmplist.append(tmp2list)
