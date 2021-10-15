@@ -57,7 +57,7 @@ def gensim_load(model, vecpath):
 roberta_worddic = gensim_load(roberta_model, "./roberta_vecsim_data.pickle")
 #gpt2_worddic = gensim_load(gpt2_model, "./gpt2_vecsim_data.pickle")
 
-def robertaeval(orig_txt, veclimit = False):
+def robertaeval(orig_txt):
     tmplist = []
     txttmp = roberta_tokenizer.tokenize("[CLS]" + orig_txt)
     for i in range(1, len(txttmp)):
@@ -75,58 +75,43 @@ def robertaeval(orig_txt, veclimit = False):
         with torch.no_grad():
             outs = roberta_model(input_ids = txt_tensor, position_ids = posi_id_tensor)
 
-        if veclimit:
-            outs = outs[0].index_select(2, torch.LongTensor(list(roberta_worddic[orig_idx].keys())).to(device))
-            max_ids = outs[0, i].topk(1).indices
-            score = torch.nn.functional.softmax(outs[0,i], dim=0)
-            score = score[roberta_worddic[orig_idx][orig_idx]] / score[max_ids[0]]
-        else:
-            max_ids = outs[0][0, i].topk(1).indices
-            score = torch.nn.functional.softmax(outs[0][0,i], dim=0)
-            score = score[orig_idx] / score[max_ids[0]]
+        score = [None, None]
+        max_ids = outs[0][0, i].topk(1).indices
+        score[0] = torch.nn.functional.softmax(outs[0][0,i], dim=0)
+        score[0] = score[0][orig_idx] / score[0][max_ids[0]]
 
-        tmplist.append(float(score))
+        tmpouts = outs[0].index_select(2, torch.LongTensor(list(roberta_worddic[orig_idx].keys())).to(device))
+        max_ids = tmpouts[0, i].topk(1).indices
+        score[1] = torch.nn.functional.softmax(tmpouts[0,i], dim=0)
+        score[1] = score[1][roberta_worddic[orig_idx][orig_idx]] / score[1][max_ids[0]]
 
-    allscore = 0
+        tmplist.append(score)
+
+    allscore = [0]*len(score)
     for eachscore in tmplist:
-        allscore += eachscore
+        allscore = np.add(allscore, eachscore)
+    return np.divide(allscore, (len(tmplist) ** 2))
 
-    return [tmplist, allscore/ (len(tmplist) ** 2)]
-
-
-def roberta2test(text, tries = 100, veclimit = False):
-    rightprob = robertaeval(text, veclimit)
-
-    tmptextscores = {}
-    finalscore = 0
-    for i in range(tries):
-        tmptext = perturb.perturb(text)
-        if tmptext not in tmptextscores:
-            wrongprob = robertaeval(tmptext, veclimit)
-            tmptextscores[tmptext] = wrongprob[1]
-        finalscore += (rightprob[1] - tmptextscores[tmptext])
-
-        print("-"*i,end="\r")
-    print(text)
-    return finalscore
-
-def gpt2test(text, tries = 100):
+def gpt2eval(orig_txt):
     tokens = gpt2_tokenizer.encode(text, add_special_tokens=False, return_tensors="pt").to(device)
     loss = gpt2_model(tokens, labels = tokens)[0]
-    rightprob = np.exp(loss.cpu().detach().numpy())
+    return [np.exp(loss.cpu().detach().numpy())]
+
+def lmtest(text, tries = 100):
+    roberta_rightprob = robertaeval(text)
+    gpt2_rightprob = gpt2eval(text)
 
     tmptextscores = {}
-    finalscore = 0
+    finalscore = [0]*(len(roberta_rightprob)+len(gpt2_rightprob))
     for i in range(tries):
         tmptext = perturb.perturb(text)
         if tmptext not in tmptextscores:
-            tokens = gpt2_tokenizer.encode(tmptext, add_special_tokens=False, return_tensors="pt").to(device)
-            loss = gpt2_model(tokens, labels = tokens)[0]
-            wrongprob = np.exp(loss.cpu().detach().numpy())
-            tmptextscores[tmptext] = wrongprob
-        finalscore += (rightprob - tmptextscores[tmptext])
+            roberta_wrongprob = robertaeval(tmptext)
+            gpt2_wrongprob = gpt2eval(tmptext)
+            tmptextscores[tmptext] = [*roberta_wrongprob, *gpt2_wrongprob]
+        finalscore += np.subtract([*roberta_rightprob, *gpt2_rightprob], tmptextscores[tmptext])
 
-        print("*"*i,end="\r")
+        print("-"*i,end="\r")
     print(text)
     return finalscore
 
@@ -141,13 +126,11 @@ for eachdata in textlist:
     tmp2list = [eachdata[0]]
     tmp3list = []
     for righttext in eachdata[1]:
-        tmp3list.append([righttext,
-            [roberta2test(righttext), roberta2test(righttext, veclimit = True), gpt2test(righttext)]])
+        tmp3list.append([righttext, lmtest(righttext)])
     tmp2list.append(tmp3list)
     tmp3list = []
     for wrongtext in eachdata[2]:
-        tmp3list.append([wrongtext,
-            [roberta2test(wrongtext), roberta2test(wrongtext, veclimit = True), gpt2test(wrongtext)]])
+        tmp3list.append([wrongtext, lmtest(wrongtext)])
     tmp2list.append(tmp3list)
     tmplist.append(tmp2list)
 evalresult.append(tmplist)
