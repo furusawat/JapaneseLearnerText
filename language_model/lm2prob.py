@@ -94,7 +94,7 @@ def robertaeval(orig_txt):
     allscore = [0]*len(score)
     for eachscore in tmplist:
         allscore = np.add(allscore, eachscore)
-    return np.divide(allscore, (len(tmplist) ** 2))
+    return np.divide(allscore, len(tmplist))
 
 def gpt2eval(orig_txt):
     tokens = gpt2_tokenizer.encode(orig_txt, add_special_tokens=False, return_tensors="pt").to(device)
