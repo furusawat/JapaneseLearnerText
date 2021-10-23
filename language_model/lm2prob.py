@@ -27,16 +27,17 @@ gpt2_model = gpt2_model.to(device)
 
 print("== models are loaded ==")
 
-gensimword.roberta_worddic = gensim_load(roberta_model, "./roberta_vecsim_data.pickle")
-#gensimword.gpt2_worddic = gensim_load(gpt2_model, "./gpt2_vecsim_data.pickle")
+roberta_worddic = gensimword.gensim_load(roberta_model, "./roberta_vecsim_data.pickle")
+#gpt2_worddic = gensimword.gensim_load(gpt2_model, "./gpt2_vecsim_data.pickle")
 
 class lm2prob_class():
-    def __init__(self, textlist, num = 50):
+    def __init__(self, textlist, num = 50, tries = 100):
         self.evalresult = [[]]
         self.textlist = textlist
         self.num = num
+        self.tries = tries
 
-    def robertaeval(orig_txt):
+    def robertaeval(self, orig_txt):
         tmplist = []
         txttmp = roberta_tokenizer.tokenize("[CLS]" + orig_txt)
         for i in range(1, len(txttmp)):
@@ -80,7 +81,7 @@ class lm2prob_class():
             allscore = np.add(allscore, eachscore)
         return np.divide(allscore, len(tmplist))
 
-    def gpt2eval(orig_txt):
+    def gpt2eval(self, orig_txt):
         tokens = gpt2_tokenizer.encode(orig_txt, add_special_tokens=False, return_tensors="pt").to(device)
         loss = gpt2_model(tokens, labels = tokens)[0]
         if "GPT-2" not in self.evalresult[0]:
@@ -88,13 +89,13 @@ class lm2prob_class():
 
         return [np.exp(loss.cpu().detach().numpy())]
 
-    def lmtest(text, tries = 100):
+    def lmtest(self, text):
         roberta_rightprob = self.robertaeval(text)
         gpt2_rightprob = self.gpt2eval(text)
 
         tmptextscores = {}
         finalscore = [0]*(len(roberta_rightprob)+len(gpt2_rightprob))
-        for i in range(tries):
+        for i in range(self.tries):
             tmptext = perturb.perturb(text)
             if tmptext not in tmptextscores:
                 roberta_wrongprob = self.robertaeval(tmptext)
@@ -106,7 +107,7 @@ class lm2prob_class():
         print(text)
         return [float(x) for x in finalscore]
 
-    def mainloop():
+    def mainloop(self):
         tmplist = []
         for eachdata in self.textlist:
             tmp2list = [eachdata[0]]
@@ -124,7 +125,7 @@ class lm2prob_class():
 with open("testtext.json") as fp:
     textlist = json.load(fp)
 
-lm2eval = lm2prob_class(textlist = textlist, num = 50)
+lm2eval = lm2prob_class(textlist = textlist, num = 2)
 lm2eval.mainloop()
 
 with open("jsondata.js", "w") as fp:
